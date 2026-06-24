@@ -1,6 +1,6 @@
 # 预测档案三：补丁式延续的微观机制观察检验
 
-> 🌐 语言 / Language: **中文版**（当前）| [English Version](预测档案三：补丁式延续的微观观察检验-EN.md)
+> 🌐 语言 / Language: **中文版**（当前）| [English Version](PA-03-Patch-Perpetuation-EN.md)
 >
 > 📌 关联主理论：[信息存在性假说（中文）](https://github.com/jacob-sha/Information-Existence-Hypothesis/blob/main/README.md) | [Information Existence Hypothesis (EN)](https://github.com/jacob-sha/Information-Existence-Hypothesis/blob/main/README_EN.md)
 
