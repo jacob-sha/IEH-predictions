@@ -1,6 +1,7 @@
 # 预测档案二：算力本位下加拿大的非线性经济繁荣
 
 > 🌐 语言 / Language: **中文版**（当前）| [English Version](PA-02-Canada-Hashrate-Prosperity-EN.md)
+>
 > 📌 关联主理论：[信息存在性假说（中文）](https://github.com/jacob-sha/Information-Existence-Hypothesis/blob/main/README.md) | [Information Existence Hypothesis (EN)](https://github.com/jacob-sha/Information-Existence-Hypothesis/blob/main/README_EN.md)
 
 ---
