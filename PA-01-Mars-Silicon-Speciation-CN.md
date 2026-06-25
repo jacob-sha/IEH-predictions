@@ -1,4 +1,9 @@
 # 预测档案一：火星具身AI的异域成种（Allopatric Speciation）
+> 🌐 Language: **English Version** (current) | [中文版](PA-01-Mars-Silicon-Speciation-EN.md)
+>
+> 📌 Related Theory: [信息存在性假说（中文）](https://github.com/jacob-sha/Information-Existence-Hypothesis/blob/main/README.md) | [Information Existence Hypothesis (EN)](https://github.com/jacob-sha/Information-Existence-Hypothesis/blob/main/README_EN.md)
+
+---
 
 >本预测档案是《信息存在性假说》理论体系下的一个独立验证模块，旨在为推论七、推论九提供一个具体、可观测、可证伪的现实测试场景。本档案的预测即使最终被证伪，也不影响理论体系其他部分的独立价值。
 
