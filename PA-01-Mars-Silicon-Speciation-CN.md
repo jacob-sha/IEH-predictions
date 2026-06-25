@@ -1,5 +1,5 @@
 # 预测档案一：火星具身AI的异域成种（Allopatric Speciation）
-> 🌐 Language: **中文版** (current) | [English Version](PA-01-Mars-Silicon-Speciation-EN.md)
+> 🌐 Language: **中文版** (当前) | [English Version](PA-01-Mars-Silicon-Speciation-EN.md)
 >
 > 📌 Related Theory: [信息存在性假说（中文）](https://github.com/jacob-sha/Information-Existence-Hypothesis/blob/main/README.md) | [Information Existence Hypothesis (EN)](https://github.com/jacob-sha/Information-Existence-Hypothesis/blob/main/README_EN.md)
 
