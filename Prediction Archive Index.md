@@ -6,6 +6,7 @@
 | PA-02 | Canada's Non-Linear Prosperity under the Hashrate Standard | 📰 Real-World Event | [CN](PA-02-Canada-Hashrate-Prosperity-CN.md) | [EN](PA-02-Canada-Hashrate-Prosperity-EN.md) | 2026-06-21 | Early Signals |
 | PA-03 | Micro-Mechanical Signatures of Patch-Based Perpetuation | 📰 Real-World Event | [CN](PA-03-Patch-Perpetuation-CN.md) | [EN](PA-03-Patch-Perpetuation-EN.md) | 2026-06-21 | Early Signals |
 | PA-04 | Scale-Driven Feature Retention and Informational Continuity Bias | 📄 Peer-Reviewed Paper | [CN](PA-04-Scale-Feature-Retention-CN.md) | [EN](PA-04-Scale-Feature-Retention-EN.md) | 2026-06-26 | Mechanism Partially Validated |
+| PA-05 | Patch-Based Perpetuation Convergence Across Three Frontier Labs | 📰 Real-World Event + 📄 Peer-Reviewed Paper | [CN](PA-05-Patch-Convergence-CN.md) | [EN](PA-05-Patch-Convergence-EN.md) | 2026-06-27 | Strong Signals |
 
 **Trigger Source Legend:**
 - 🔭 Theoretical Deduction: Derived directly from IEH core corollaries; no external real-world event has yet triggered this archive
