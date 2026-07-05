@@ -1,10 +1,19 @@
 # IEH Predictions Archive
 
-This repository is the dedicated prediction archive and evidence ledger for the **Information Existence Hypothesis (IEH)**.
+This repository is the dedicated prediction archive and evidence ledger for **The Information Existence Hypothesis: Deductions on Silicon-Based Intelligence Evolution and Human Defensive Trajectories**.
 
 Main theory repository:  
-[Information-Existence-Hypothesis](https://github.com/jacob-sha/Information-Existence-Hypothesis)
+[The Information Existence Hypothesis](https://github.com/jacob-sha/Information-Existence-Hypothesis)
 
+---
+
+## Full Theory Title
+
+**The Information Existence Hypothesis: Deductions on Silicon-Based Intelligence Evolution and Human Defensive Trajectories**
+
+中文标题：
+
+**信息存在性假说：关于硅基智慧进化与人类防卫路径的推演**
 ---
 
 ## Purpose
