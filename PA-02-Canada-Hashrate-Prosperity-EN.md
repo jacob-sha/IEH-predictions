@@ -1,177 +1,331 @@
-> 🌐 Language: **English Version** (current) | [中文版](PA-02-Canada-Hashrate-Prosperity-CN.md)
->
-> 📌 Related Theory: [信息存在性假说（中文）](https://github.com/jacob-sha/Information-Existence-Hypothesis/blob/main/README.md) | [Information Existence Hypothesis (EN)](https://github.com/jacob-sha/Information-Existence-Hypothesis/blob/main/README_EN.md)
+# PA-02: Canada Compute-centered Prosperity
+
+> Language: **English Version** | [中文版](./PA-02-Canada-Hashrate-Prosperity-CN.md)  
+> Main Theory: [Information Existence Hypothesis (EN)](https://github.com/jacob-sha/Information-Existence-Hypothesis/blob/main/README_EN.md) | [信息存在性假说（中文）](https://github.com/jacob-sha/Information-Existence-Hypothesis/blob/main/README.md)
 
 ---
 
-# Prediction Archive II: Canada's Non-Linear Economic Prosperity under the Hashrate Standard
+## Metadata
 
-**This prediction archive is a macroeconomic and geopolitical verification module within the Information Existence Hypothesis (IEH) framework. Its purpose is to provide an extremely specific, economically measurable, and falsifiable real-world test scenario for Corollary VIII — the "Super Prosperity Period" and the transition to a Hashrate-based economic paradigm.**
-
----
-
-**Related Corollaries:** Corollary VIII (Humanity Will Usher in a "Super Prosperity Period" on the Eve of Silicon-Based Evolution), Epilogue (The "Amish" of the Silicon Age and Ecological Niche Reconstruction)
-**Date Logged:** June 21, 2026
-**Prediction Status:** Open — Pending Verification
-**Prediction Type:** Macroeconomic and Geopolitical Medium-to-Long Term Prediction (Expected Verification Window: 2028–2040)
-
----
-
-## I. Core Prediction Statement
-
-Within the conventional "human demand-based" economic framework, Canada faces growth anxiety due to its small population base and labor scarcity. This archive proposes, however, that as the global economic foundation undergoes an irreversible structural shift toward a **"Hashrate Standard"**, the traditional demographic dividend will rapidly depreciate.
-
-Canada — with its vast high-latitude, sub-Arctic territory, abundant clean energy and freshwater resources, and a stable democratic polity capable of underwriting multi-decade infrastructure investment cycles — is positioned to become the optimal geographic host for global capital migrating toward silicon-based physical infrastructure. This process will increasingly decouple the Canadian economy from its natural population growth rate, producing an unprecedented non-linear economic prosperity driven by compute capital aggregation — observable in publicly available macroeconomic indicators.
-
-**Core proposition:** Canada's structural characteristics previously regarded as "demographic weaknesses" will undergo a systematic value inversion under the new Hashrate Standard paradigm.
-
----
-
-## II. Physical and Economic Foundation (Independent of Core Axioms)
-
-This prediction does not depend on the philosophical axiom of "Informational Existence Right." It rests entirely on contemporary energy economics and thermodynamic engineering facts:
-
-**Fact 1 — Thermodynamic hard constraints on silicon-based evolution.**
-The scaling laws governing large language models and embodied AI are subject to extreme energy consumption and heat dissipation requirements. High-latitude sub-Arctic climates and abundant high-heat-capacity freshwater resources represent the most direct physical levers for reducing PUE (Power Usage Effectiveness) in data centers. The International Energy Agency projects that global data center electricity consumption could double by 2026 relative to 2022 levels, driven primarily by AI workloads.
-
-**Fact 2 — Physical depreciation of the demographic dividend.**
-As advanced AI increasingly takes over cognitive labor and physical manufacturing, the core factors of economic output shift from "human labor hours" toward "kilowatt-hours (kWh) and compute (FLOPs)." A large population base is no longer a productivity lever — it may instead become a heavy burden of social welfare expenditure and institutional friction. In the compute era, sparse population transitions from liability to advantage.
-
-**Fact 3 — Geopolitical safe-haven requirements of long-cycle hard assets.**
-Building gigawatt-scale nuclear compute clusters capable of supporting AGI involves investment recovery cycles spanning decades. Host nations must therefore offer extremely low political risk premiums and robust property rights protections to hedge against geopolitical disruption to silicon-based physical infrastructure.
+- **Prediction ID:** PA-02
+- **Title:** Canada Compute-centered Prosperity
+- **Language:** English
+- **Date Created:** 2026-06-21
+- **Date Updated:** 2026-07-04
+- **Status:** Active
+- **Prediction Type:** Macro-economic and geopolitical mid-to-long-term prediction
+- **Estimated Verification Window:** 2028–2040
+- **Related IEH Corollaries:**
+  - Corollary VI — Super Prosperity Phase (SPP)
+  - Corollary VII — Autonomy of Silicon-based Intelligence (ASI)
+  - Corollary X — Human Informational Ecological Niche (HIEN)
+- **Related IEH Concepts:**
+  - Information Existence
+  - silicon-based intelligence
+  - compute-centered infrastructure
+  - energy-compute coupling
+  - infrastructure topology
+  - Super Prosperity Phase
+  - physical embodiment of AI
+  - human informational ecological niche
 
 ---
 
-## III. VRIO Strategic Analysis: Assessing Canada's Competitive Advantage in Resource Endowments
+## 1. Prediction Statement
 
-The VRIO framework (Value–Rarity–Imitability–Organization) is a standard strategic analysis tool for evaluating whether a nation or firm can convert a given resource into a sustained competitive advantage. The following assesses Canada's core resource endowments across each dimension.
+This prediction record proposes that as the underlying logic of the global economy gradually shifts from a human-demand-centered structure toward a compute-centered or energy-compute-coupled structure, Canada’s long-perceived population disadvantage may undergo a structural revaluation during the physical embodiment of silicon-based intelligence.
 
----
+In traditional economic frameworks, Canada’s relatively small population, low labor density, and limited domestic market size have often been viewed as constraints on growth. However, as silicon-based intelligence continues to expand its Information Existence, the key constraints on economic growth may gradually shift away from population size, labor time, and consumer market scale toward the following physical factors:
 
-### Resource 1: High-Latitude Sub-Arctic Climate and Natural Cooling Endowment
+- low-cost, stable, and long-term scalable energy;
+- land suitable for large-scale data centers and compute infrastructure;
+- cold climate that reduces cooling costs;
+- abundant freshwater and liquid-cooling resources;
+- stable rule of law, clear property rights, and low political risk;
+- infrastructure capacity capable of supporting long-term capital-intensive investment.
 
-| Dimension | Assessment | Notes |
-|-----------|-----------|-------|
-| **Value (V)** | ✅ High | Data center heat dissipation is a core physical bottleneck in AI compute expansion. Cold climates directly lower PUE and reduce energy costs. Microsoft has explicitly identified Canada's cold climate as a "genuine advantage" for water resource management at its data centers. |
-| **Rarity (R)** | ✅ High | Globally, locations suitable for large-scale data center deployment that combine extreme cold, high-latitude geography, and a stable rule-of-law environment are extremely limited: the Nordic countries (smaller markets), Canada, and parts of Russia (prohibitively high political risk). |
-| **Imitability (I)** | ✅ Very High | Climate and geographic endowments are purely natural assets. No capital investment can replicate equivalent natural cooling conditions in temperate or tropical regions. |
-| **Organization (O)** | ⚠️ Conditional | **This is the most critical variable in the entire VRIO chain.** Canada's mature rule of law and property rights protections make Organization theoretically very high. However, if the government enacts extreme environmental legislation that blocks foreign capital from building nuclear/hydroelectric compute infrastructure, this resource's usability will be artificially severed. (See Section V — Exclusion Clauses.) |
-| **Sustained Competitive Advantage** | 🟡 Potential Sustained Advantage | V, R, and I are all satisfied. Organization depends on policy choices. |
+Under this new paradigm, Canada’s high-latitude geography, cold climate, clean energy, freshwater resources, and institutional stability may make it one of the important geographic hosts for global compute capital, AI infrastructure, and the physical embodiment of silicon-based intelligence.
 
----
+The core claim of this prediction is:
 
-### Resource 2: Abundant Clean Energy and Freshwater Resources
+**During the Super Prosperity Phase (SPP) of silicon-based intelligence, Canada may experience nonlinear economic prosperity driven by compute capital and AI infrastructure investment because of its energy, climate, land, and institutional advantages.**
 
-| Dimension | Assessment | Notes |
-|-----------|-----------|-------|
-| **Value (V)** | ✅ Very High | Approximately 84% of Canada's electricity is non-emitting, making it a core asset for AI data centers pursuing ESG compliance and long-term energy cost predictability. Freshwater for liquid cooling represents a second irreplaceable physical input. |
-| **Rarity (R)** | ✅ High | Locations combining large-scale clean electricity and abundant freshwater are rare globally. The U.S. Sun Belt — the traditional data center hub — faces severe and worsening water stress. |
-| **Imitability (I)** | ✅ High | Hydroelectric and nuclear plant construction cycles span ten to twenty years; competitors cannot replicate these assets quickly. River and lake systems are geographic inheritances that cannot be relocated. |
-| **Organization (O)** | ⚠️ Conditional | Alberta's electricity mix currently excludes nuclear and hydroelectric; natural gas is the only realistic option for the next three to five years, creating significant intra-national energy heterogeneity. Quebec and Ontario's hydroelectric advantages are more mature. Effective Organization varies substantially by province. |
-| **Sustained Competitive Advantage** | 🟡 Potential Sustained Advantage | Conditions exist at the national level, but provincial execution capacity is uneven; federal coordination is required. |
+This prosperity does not mean that Canada will automatically replace the United States, China, or the European Union as the central AI technology hub. Nor does it mean Canada will necessarily become the only global compute center. More precisely, this prediction proposes that Canada may become one of the most important geographic hosts in the physical embodiment of silicon-based intelligence, and may display capital inflows, infrastructure expansion, and per-capita economic growth disproportionate to its population size.
 
 ---
 
-### Resource 3: Stable Democratic Governance and Property Rights Institutions
+## 2. Relationship to IEH v1.1
 
-| Dimension | Assessment | Notes |
-|-----------|-----------|-------|
-| **Value (V)** | ✅ Very High | AGI-grade infrastructure carries investment recovery cycles of twenty to thirty years, requiring host nations to offer minimal political risk premiums and ironclad protection against nationalization or expropriation. |
-| **Rarity (R)** | ✅ High | Countries simultaneously satisfying "political stability + climate advantage + clean energy" are extremely few. Russia has climate advantages but prohibitive political risk; comparable Nordic countries have similar institutional profiles but far smaller market scale. |
-| **Imitability (I)** | ✅ Very High | Democratic rule of law is the product of centuries of institutional accumulation. Authoritarian systems cannot replicate this institutional credibility in the short term. |
-| **Organization (O)** | ✅ High | Canada's existing legal framework is foreign-capital-friendly with robust property rights protections. This is the most reliably high Organization dimension among the three resources evaluated. |
-| **Sustained Competitive Advantage** | 🟢 Sustained Competitive Advantage | All four VRIO dimensions are satisfied. This is Canada's most durable competitive moat. |
+Under the IEH v1.1 framework, PA-02 primarily corresponds to **Corollary VI — Super Prosperity Phase (SPP)**.
 
----
+The Super Prosperity Phase refers to a transitional historical stage in which silicon-based intelligence, before completing full autonomy in material production, information flow, and energy supply, must still rely on human society to build and expand key infrastructure such as minerals, energy, chips, data centers, cooling systems, power grids, logistics networks, and automated factories.
 
-### Integrated VRIO Conclusion
+During this stage, AI’s demand for the physical world will not immediately reduce human economic activity. On the contrary, it may dramatically amplify human society’s demand for infrastructure construction, producing a prosperity cycle driven by computation, energy, and automated infrastructure.
 
-Of Canada's three core resource endowments, the institutional resource already constitutes a **sustained competitive advantage**. The climate and energy resources constitute **potential sustained advantages**, with the binding constraint concentrated in the "Organization" policy variable. Whether Canada achieves the non-linear prosperity described in this prediction depends not on natural endowments — whose value is nearly certain — but on whether the policy system can effectively convert these endowments into production factors accessible to capital.
+PA-02 translates this macro-level corollary into a geographic test case:
 
----
+**If SPP holds, then Canada — with its cold climate, clean energy, freshwater resources, land, and institutional stability — may become one of the most representative beneficiary countries of this stage.**
 
-## IV. Friction Points
+PA-02 is also related to the following corollaries:
 
-To maintain theoretical honesty, the following real frictions currently observable — and potentially weakening to this prediction — are documented:
-
-**Friction 1 — Regulatory fragmentation.** Despite unified sovereign AI compute strategy at the federal level, Canada currently lacks a clear national data center framework; provincial standards are highly fragmented. This may slow the pace of spontaneous capital restructuring.
-
-**Friction 2 — Alberta's internal energy structure contradiction.** The province's electricity mix excludes nuclear and hydroelectric power; natural gas is the only realistic option for the next three to five years. A 1.4 GW data center gas plant project was already rejected by the Alberta Utilities Commission in March 2026.
-
-**Friction 3 — Local community backlash.** Multiple projects have encountered substantive opposition from residents concerned about construction scale and quality-of-life impacts. This is a bottom-up political friction independent of federal policy that may cause delays at the site-selection level.
+- **Corollary VII — Autonomy of Silicon-based Intelligence (ASI):** The compute, power, data-center, and automation infrastructure hosted by Canada may become part of the physical closed loop through which silicon-based intelligence gradually moves toward autonomy.
+- **Corollary X — Human Informational Ecological Niche (HIEN):** If Canada preserves high-quality human living space, natural ecology, and institutional stability during compute-capital expansion, it may become a representative region where the human informational ecological niche coexists with silicon-based infrastructure.
 
 ---
 
-## V. Exclusion Clauses
+## 3. Physical and Economic Basis
 
-The following circumstances, if they cause prediction failure, represent policy execution failures external to the theory's core framework. They do not constitute falsification of Corollary VIII's core proposition and require separate attribution:
+This prediction does not depend entirely on the core axiom of IEH. Even if one temporarily rejects the hypothesis that Information Existence is a deeper direction of cosmic evolution, PA-02 can still be grounded in energy economics, data-center engineering, geopolitics, and infrastructure investment logic.
 
-**Exclusion Clause 1 (Primary) — Extreme environmental policy blocking resource utilization.**
-If the Canadian government enacts extreme environmental conservatism legislation that substantively blocks foreign capital from building nuclear/hydroelectric compute infrastructure, severing Canada's VRIO advantage at the **Organization (O)** link in the chain, prediction failure would reflect **policy execution failure, not theoretical prediction error.**
+### 3.1 Thermodynamic Constraints of AI Infrastructure
 
-Operational judgment standard: If other nations with comparable climate and energy conditions (Iceland, Norway, Finland) demonstrably absorb compute capital that would otherwise have flowed to Canada due to their more permissive policy environments, this exclusion clause is deemed operative. Corollary VIII itself is not falsified; only Canada as the verification scenario is substituted by an alternative geographic entity.
+Large-scale AI training, inference, robotic control, and embodied intelligence systems all require substantial electricity and generate large amounts of heat.
 
-**Exclusion Clause 2 — Technology pathway circumvention.**
-If within five years, ultra-low-power room-temperature superconducting chips emerge that eliminate the need for extreme cooling, entirely neutralizing the high-latitude climate advantage and making migration to cold regions unnecessary for capital — this represents a fundamental shift in the technology pathway. It equally does not falsify Corollary VIII's capital restructuring logic; it only changes the physical destination of that restructuring.
+Therefore, future AI infrastructure siting will increasingly be constrained by:
 
----
+- electricity prices;
+- grid stability;
+- cooling costs;
+- PUE, or Power Usage Effectiveness;
+- water availability;
+- land scale;
+- climate conditions;
+- political and regulatory certainty.
 
-## VI. Graded Verification Standards
+Cold climate and abundant water resources alone cannot determine compute-center siting, but they can significantly affect long-term operating costs and cooling efficiency.
 
-### Weak Signals (2027–2030)
-Top-tier technology companies publicly announce large-scale migration of hyperscale data centers from traditional locations toward Canada; in fiscal years when Canada's natural population growth rate is flat or declining, the proportion of FDI flowing into "compute and electricity infrastructure" shows an anomalous surge, driving GDP growth rates that diverge meaningfully from population-based models.
+Canada’s high-latitude climate, abundant freshwater, and clean electricity mix in several provinces give it a natural physical advantage in hosting large-scale data centers and AI infrastructure.
 
-### Moderate Signals (2030–2035)
-Canada's core export structure undergoes physical restructuring, with "clean energy compute output" emerging as a primary foreign exchange earner; CAD volatility shows strengthening correlation with global compute capital flows, statistically distinguishable from its historical correlation with crude oil prices.
+### 3.2 Population Dividend May Be Repriced
 
-**Note: The "talent inflow reversal" prediction at this stage carries lower confidence than other signals. Historical precedent suggests that even confirmed industrial transitions typically require fifteen to twenty years before becoming statistically clear. This archive treats it as an observation item rather than a strong prediction.**
+In the industrial age and parts of the service economy, population size, labor supply, and consumer markets were important pillars of economic growth.
 
-### Strong Signals (2035 onward)
-Amid widespread AI structural unemployment across G7 economies, Canada leverages its compute capital dividend and small population denominator to achieve non-linear per capita GDP growth — a statistically significant outlier identifiable in cross-national economic comparison research.
+However, if advanced AI takes over large portions of cognitive labor, software production, automated management, and some physical manufacturing, the traditional population dividend may be repriced.
 
-**Special note on currency re-anchoring:** An earlier version of this prediction forecast that "the CAD would transition from a petro-currency to a hashrate/energy-backed currency." This proposition depends on the emergence of a "petrodollar"-equivalent structural settlement convention in international clearing systems — an argument currently lacking sufficient grounding. Within the verification window, this is downgraded to an observable indicator ("strengthening CAD correlation with energy/compute assets") rather than a strong prediction. Should the international monetary system undergo substantive restructuring after 2035, this may be upgraded to a strong signal standard at that time.
+In compute-centered infrastructure reconstruction, the key variables may shift from “how many people a country has” to:
 
----
+- how much energy it has;
+- whether its electricity is stable;
+- whether land is abundant;
+- whether cooling is cheap;
+- whether infrastructure investment is safe;
+- whether rule of law is stable;
+- whether data centers and automated industrial chains can operate over the long term.
 
-## VII. Falsification Conditions (Distinct from Exclusion Clauses)
+In this structure, a smaller population is not necessarily a disadvantage. A smaller population denominator may even make compute-capital dividends more visible in per-capita GDP, fiscal capacity, and infrastructure investment returns.
 
-The following circumstances constitute direct falsification of this prediction and/or Corollary VIII. They differ from Section V exclusion clauses in that they represent intrinsic logical failures of the theory, not external policy execution failures.
+### 3.3 Long-cycle Capital Requires Institutional Stability
 
-**Falsification Axis 1 — Whether the global paradigm actually shifts:** If by 2035, the global economy remains heavily dependent on human labor aggregation, AI fails to substantively take over cognitive labor and physical manufacturing, and compute demand fails to drive structural reallocation of global capital — this directly falsifies Corollary VIII's core proposition regarding the Hashrate Standard transition, independent of Canada's specific policy choices.
+AI data centers, nuclear power, hydropower, transmission networks, chip supply chains, cooling systems, and automated factories are all capital-intensive, long-cycle, and heavily regulated investments.
 
-**Falsification Axis 2 — Canada's absorption capacity:** Even if the global paradigm shift is confirmed, if Canada consistently fails to absorb compute capital due to the frictions documented above (provincial regulatory fragmentation, community backlash, and other endogenous factors — not the extreme environmental policies covered by exclusion clauses) — this falsifies the specific geopolitical prediction that "Canada is the optimal geographic host," but does not falsify Corollary VIII itself. Corollary VIII would then be verified through whichever geographic entity successfully absorbs the capital.
+Such investments usually require the host region to possess:
 
----
+- stable property protection;
+- low nationalization risk;
+- credible rule of law;
+- infrastructure approval capacity;
+- institutional connection to major capital markets;
+- long-term policy predictability for foreign capital and technology firms.
 
-## VIII. Relationship to Existing Research
-
-This prediction is a specific application of existing research directions, not a creation ex nihilo:
-
-**Compute as Sovereign Asset:** Existing international relations research has documented the national-security-ization of AI compute infrastructure. This prediction further identifies the physical climate and geopolitical institutional preferences toward which this asset accumulation gravitates, and renders these preferences testable through VRIO methodology.
-
-**Automation challenges to demographic economics:** Traditional demographic dividend theory is facing systematic academic challenge. This prediction concretizes the "automation dividend replacing the demographic dividend" into a verifiable geo-specific projection.
-
-**Evolving paradigm in energy geopolitics:** Multiple international economists have proposed early theoretical frameworks for a transition from "petrodollars" to "compute currencies." This prediction builds on that foundation by providing an observable early verification scenario for Canada.
-
----
-
-## IX. Case Log
-
-*This section will be updated continuously as real-world macroeconomic developments and technology company capital expenditure decisions emerge. Each entry includes date, source, and correspondence to this prediction.*
-
-| Date | Event Summary | Source | Verification Level | Notes |
-|------|--------------|--------|-------------------|-------|
-| 2026-01-15 | Canadian federal government opens sovereign AI data center proposal solicitation, targeting >100MW | Canada.ca | Weak signal precursor | Clear federal-level policy intent |
-| 2026-03 | Alberta's 1.4 GW data center gas plant project rejected by AUC | U of Calgary | Friction point record | Confirms regulatory friction is a real variable |
-| 2026-04 | Microsoft advances data center construction in Ontario/Quebec, explicitly citing cold climate advantage | Microsoft Blog | Weak signal | Early verification of VRIO Organization dimension |
-| 2026-05 | Alberta Technology Minister announces target to attract CAD $100B in AI data center investment over five years | U of Calgary | Weak signal | Provincial policy intent; awaits actual capital deployment verification |
+Canada’s institutional stability is one of its major advantages compared with many resource-rich countries.
 
 ---
 
-## X. Meta-Statement
+## 4. VRIO Strategic Assessment
 
-This archive's purpose is to project the Information Existence Hypothesis as a **Falsifiable Conceptual Framework** into the domain of real macroeconomics.
+The VRIO model can be used to evaluate whether a resource can form a sustained competitive advantage. The following assesses Canada’s key resources from the perspectives of Value, Rarity, Imitability, and Organization.
 
-This archive explicitly distinguishes three qualitatively different types of prediction failure: first, **intrinsic logical failure of the theory** (see Section VII — Falsification Conditions); second, **external policy execution failure** (see Section V — Exclusion Clauses); third, **fundamental technology pathway change** (see Exclusion Clause 2). This three-layer distinction is the archive's core methodological contribution — it ensures that regardless of outcome, this archive provides actionable information: successful verification supports Corollary VIII; failure precisely identifies the nature of failure, providing documented diagnostic evidence for either theoretical revision or substitution of the geographic verification scenario.
+### 4.1 High-latitude Cold Climate and Natural Cooling
 
-*This archive is updated continuously as real-world developments emerge. All modifications are recorded via Git commit with full version history preserved.*
+| Dimension | Assessment | Explanation |
+|---|---|---|
+| Value | High | Data-center cooling is one of the core physical constraints of AI infrastructure expansion. Cold climate can reduce part of the cooling cost. |
+| Rarity | High | Few countries combine cold climate, rule-of-law stability, land scale, and capital accessibility. |
+| Imitability | Very high difficulty | Climate and geography are natural endowments and cannot be fully replicated in temperate or tropical countries through capital investment alone. |
+| Organization | Conditional | Whether Canada can fully use this advantage depends on grid expansion, approval speed, community acceptance, and policy coordination. |
+
+**Assessment:** Potential sustained advantage, but highly dependent on policy execution and infrastructure-building capacity.
+
+### 4.2 Clean Energy, Water, and Land Resources
+
+| Dimension | Assessment | Explanation |
+|---|---|---|
+| Value | Very High | AI infrastructure requires long-term stable electricity, cooling resources, and large-scale land. |
+| Rarity | High | Regions that combine clean power, freshwater, land, and stable institutions are not common globally. |
+| Imitability | High difficulty | Hydropower, nuclear power, grids, and freshwater systems require long construction cycles, while geographic resources cannot be moved. |
+| Organization | Uneven | Canada’s provincial energy structures differ significantly; Quebec, Ontario, British Columbia, and Alberta do not have identical conditions. |
+
+**Assessment:** Canada has potential national-level advantages, but provincial differences will significantly affect actual hosting capacity.
+
+### 4.3 Democratic Rule of Law and Property Protection
+
+| Dimension | Assessment | Explanation |
+|---|---|---|
+| Value | Very High | Long-cycle AI infrastructure investment requires low political risk and stable property protection. |
+| Rarity | High | Countries combining resources, climate, institutions, and geopolitical security are limited. |
+| Imitability | Very high difficulty | Institutional credibility is accumulated historically and is difficult to replicate quickly. |
+| Organization | High | Canada’s existing legal and financial systems have strong capacity to absorb capital. |
+
+**Assessment:** One of Canada’s most stable competitive advantages.
+
+---
+
+## 5. Observable Verification Criteria
+
+To avoid retrospective interpretation, this record divides verification criteria into weak signals, moderate signals, and strong signals.
+
+### 5.1 Weak Signals
+
+Estimated observation window: 2028–2030
+
+Possible weak signals include:
+
+- Major global technology companies announce construction or expansion of large AI data centers in Canada.
+- Canadian federal or provincial governments introduce policies specifically targeting AI data centers, compute infrastructure, grid expansion, or sovereign compute.
+- Foreign direct investment shows a clear increase in capital related to data centers, electricity, AI infrastructure, and automation.
+- Multiple Canadian provinces begin competing through policy to attract AI infrastructure.
+- Data centers, grids, nuclear power, small modular reactors, hydropower expansion, transmission lines, and cooling systems become frequent topics in Canadian public-policy discussions.
+- Technology companies, energy companies, and infrastructure funds describe Canada as an important geographic node for AI compute infrastructure.
+
+### 5.2 Moderate Signals
+
+Estimated observation window: 2030–2035
+
+Possible moderate signals include:
+
+- Canada’s data-center and AI infrastructure investment becomes significantly larger than its population share among G7 countries.
+- Some Canadian provinces experience regional economic prosperity driven by compute, electricity, and automated infrastructure.
+- Canada’s export structure begins to include “clean-energy-supported computing services” or similar new foreign-exchange-generating activities.
+- Correlation strengthens between the Canadian dollar, Canadian power assets, energy infrastructure assets, and global AI compute-capital flows.
+- Canada’s per-capita GDP growth shows observable linkage with global AI infrastructure investment cycles.
+- Canada forms industrial clusters around compute, electricity, cooling, data centers, and automated factories.
+
+### 5.3 Strong Signals
+
+Estimated observation window: 2035–2040 and beyond
+
+Possible strong signals include:
+
+- While other G7 countries face structural employment pressure caused by AI, Canada achieves clear abnormal per-capita economic growth because of compute capital, energy assets, and AI infrastructure dividends.
+- Canada becomes one of the major global centers for AI infrastructure, clean-energy compute, cooling systems, and automated data centers.
+- Canada’s economic growth significantly decouples from natural population growth and displays nonlinear growth driven by compute capital and energy infrastructure.
+- International economic research begins to classify Canada as a typical “AI infrastructure economy” or “compute-energy host economy.”
+- Some regions of Canada form a stable coexistence structure of “human livable ecological niche + large-scale silicon-based infrastructure.”
+
+---
+
+## 6. Falsification Conditions
+
+This prediction would be falsified or significantly weakened under the following conditions.
+
+### 6.1 Falsification Condition I — No Global Compute-centered Shift
+
+If, by 2035, the global economy does not show a significant AI infrastructure investment wave, and computation, electricity, data centers, and automated infrastructure do not become major directions of global capital allocation, then the core premise of PA-02 will be significantly weakened.
+
+This would weaken not only the Canada scenario, but also part of IEH’s corollary concerning the Super Prosperity Phase.
+
+### 6.2 Falsification Condition II — Canada Does Not Attract Significant Compute Capital
+
+If global AI infrastructure expansion does occur, but Canada fails to attract significant compute capital, data-center investment, grid expansion, and automated infrastructure projects, while such investment mainly flows to other countries or regions, then PA-02’s claim that Canada may become an important geographic host will be weakened.
+
+This would not necessarily falsify SPP itself, but it would show that Canada is not a major beneficiary of that stage.
+
+### 6.3 Falsification Condition III — Population and Consumption Remain Dominant
+
+If future economic growth continues to be determined mainly by population size, traditional labor, and consumer markets, while energy, computation, and AI infrastructure do not become important variables of national competitiveness, then the prediction regarding the revaluation of population disadvantage will be weakened.
+
+### 6.4 Falsification Condition IV — Canada’s Advantages Are Offset by Internal Frictions
+
+If Canada’s provincial regulatory fragmentation, community backlash, insufficient grid capacity, slow approvals, energy-policy conflict, or infrastructure execution failure prevents it from converting its natural endowments into actual compute-infrastructure hosting capacity over the long term, PA-02 will be partially falsified or require revision.
+
+---
+
+## 7. Exclusion and Revision Conditions
+
+The following conditions would not necessarily falsify IEH or SPP, but would require PA-02 to revise its geographic or technological-pathway claims.
+
+### 7.1 Extreme Policy Blockage
+
+If Canada actively blocks compute-infrastructure investment through extreme policy choices, excessive approvals, energy restrictions, or foreign-investment barriers, while similar capital flows to Iceland, Norway, Finland, the northern United States, or other stable high-latitude regions, then the Canada scenario would fail, but SPP would not necessarily be falsified.
+
+### 7.2 Technological Path Shift
+
+If extremely low-power computing, low-heat computing, room-temperature superconductivity, optical computing, reversible computing, or other new computing architectures significantly reduce the value of cold climate and freshwater resources for compute deployment, then PA-02’s geographic claim would require revision.
+
+This would not necessarily negate compute-energy infrastructure reconstruction itself, but it may change the physical targets of capital flows.
+
+### 7.3 Energy Technology Redistribution
+
+If small modular reactors, fusion energy, distributed power systems, or other energy technologies allow more temperate regions to host AI infrastructure at low cost, Canada’s advantage may be diluted rather than fully eliminated.
+
+---
+
+## 8. Relationship to Existing Research
+
+PA-02 does not propose an isolated claim from nowhere. It integrates the following existing research directions into the IEH SPP scenario.
+
+### 8.1 Compute as Strategic Infrastructure
+
+Existing international-relations and AI-governance research has begun to treat compute as a national strategic asset. PA-02 further proposes that the geographic sedimentation of compute infrastructure will be jointly shaped by climate, energy, land, water resources, and institutional stability.
+
+### 8.2 Automation and the Repricing of Demographics
+
+Automation and AI challenge traditional population economics. PA-02 translates this trend into a geographic prediction: in a stage where the population dividend declines and compute capital rises, small-population, resource-rich, institutionally stable countries may regain structural advantages.
+
+### 8.3 Energy Geopolitics and AI Infrastructure
+
+Energy geopolitics is expanding from traditional oil, gas, and industrial electricity into AI data centers, grid capacity, clean energy, and cooling resources. PA-02 positions Canada as a potential beneficiary of this transition.
+
+---
+
+## 9. Evidence Log
+
+This section is intended for continuous updates as real-world events occur. Each entry should include the date, source, event summary, verification level, and current assessment.
+
+| Date | Event Summary | Source | Verification Level | Assessment |
+|---|---|---|---|---|
+| 2026-01-15 | The Canadian federal government opened a sovereign AI data-center proposal process targeting facilities above 100 MW. | Canada.ca | Weak signal precursor | Indicates federal policy intent around sovereign compute and data-center infrastructure. |
+| 2026-03 | A 1.4 GW gas-fired power plant project associated with data-center development in Alberta was rejected by regulators. | Public regulatory / academic reports | Friction point | Shows that regulation, energy mix, and project approval frictions are real variables. |
+| 2026-04 | Microsoft advanced data-center construction in Ontario and Quebec and referenced Canada’s cold climate and water-management advantages. | Microsoft public materials | Weak signal | Supports Canada’s physical and climate advantages in data-center siting. |
+| 2026-05 | Alberta’s technology sector proposed targets for attracting large-scale AI data-center investment. | Public policy reports | Weak signal | Shows provincial policy intent, but actual capital deployment still needs observation. |
+
+---
+
+## 10. Current Assessment
+
+As of 2026-07-04, this prediction is **Active**.
+
+PA-02 is currently neither confirmed nor falsified. Its core value lies in translating IEH’s **Super Prosperity Phase (SPP)** corollary into an observable national geographic case.
+
+The key observation point is not whether “Canada will build more data centers,” but:
+
+**whether Canada, because of its compute, power, cooling, land, and institutional advantages, will attract AI infrastructure capital inflows disproportionate to its population size and display nonlinear prosperity in macroeconomic indicators.**
+
+If Canada experiences disproportionate capital inflows in AI infrastructure, clean-energy compute, data centers, grid expansion, and automated factories, and if these inflows bring significant per-capita economic benefits, then PA-02 will receive support.
+
+If global compute-infrastructure expansion occurs but Canada fails to host it over the long term, or if other regions absorb this capital flow more effectively, then PA-02’s Canada-specific geographic claim will need revision.
+
+---
+
+## 11. Revision History
+
+| Date | Version | Change |
+|---|---|---|
+| 2026-06-21 | Initial | Created the original prediction record on Canada, compute-centered economic prosperity, and AI infrastructure. |
+| 2026-07-04 | v1.1 revision | Updated old corollary mapping to IEH v1.1; standardized terminology; reframed “Hashrate Standard” as compute-centered infrastructure; converted the record into the unified prediction archive format. |
+
+---
+
+## 12. Notes
+
+The purpose of this prediction record is not to claim that Canada will inevitably become the only global AI compute center, but to propose a testable claim: during the physical embodiment of silicon-based intelligence and the Super Prosperity Phase, Canada may become a disproportionate beneficiary because of its physical, energy, and institutional endowments.
+
+This record clearly distinguishes among three types of failure:
+
+1. **Theoretical-level failure:** global compute-energy infrastructure reconstruction does not occur.
+2. **Geographic-scenario failure:** reconstruction occurs, but Canada does not host it.
+3. **Technological-pathway change:** reconstruction occurs, but cold climate and freshwater resources are no longer key variables.
+
+This distinction prevents all prediction failures from being simply attributed to theoretical failure, and helps IEH revise its geographic scenarios, time windows, and technological-pathway claims according to future evidence.
+
+Regardless of the outcome, PA-02 should be preserved as a traceable, revisable, and falsifiable prediction record.
