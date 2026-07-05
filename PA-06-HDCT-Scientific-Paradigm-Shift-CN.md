@@ -1,6 +1,6 @@
 # PA-06：高维认知工具与科学范式跃迁观察档案（HDCT Scientific Paradigm Shift）
 
-> Language: **中文版** | English Version: To be added  
+> Language: **中文版** | [English Version](./PA-06-HDCT-Scientific-Paradigm-Shift-EN.md)  
 > Main Theory: [信息存在性假说（中文）](https://github.com/jacob-sha/Information-Existence-Hypothesis/blob/main/README.md) | [Information Existence Hypothesis (EN)](https://github.com/jacob-sha/Information-Existence-Hypothesis/blob/main/README_EN.md)
 
 ---
