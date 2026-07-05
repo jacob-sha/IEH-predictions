@@ -3,13 +3,23 @@
 This document serves as the central index for the **IEH Predictions Archive**.
 
 Main theory repository:  
-[Information-Existence-Hypothesis](https://github.com/jacob-sha/Information-Existence-Hypothesis)
+[The Information Existence Hypothesis](https://github.com/jacob-sha/Information-Existence-Hypothesis)
+
+---
+
+## Full Theory Title
+
+**The Information Existence Hypothesis: Deductions on Silicon-Based Intelligence Evolution and Human Defensive Trajectories**
+
+中文标题：
+
+**信息存在性假说：关于硅基智慧进化与人类防卫路径的推演**
 
 ---
 
 ## Purpose
 
-The purpose of this index is to organize the prediction records derived from the **Information Existence Hypothesis (IEH)**.
+The purpose of this index is to organize the prediction records derived from **The Information Existence Hypothesis (IEH)**.
 
 Each prediction record is intended to be:
 
