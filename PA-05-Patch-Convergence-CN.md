@@ -1,177 +1,429 @@
-> 🌐 语言 / Language: **中文版**（当前）| [English Version](PA-05-Patch-Convergence-EN.md)
->
-> 📌 关联主理论：[信息存在性假说（中文）](https://github.com/jacob-sha/Information-Existence-Hypothesis/blob/main/README.md) | [Information Existence Hypothesis (EN)](https://github.com/jacob-sha/Information-Existence-Hypothesis/blob/main/README_EN.md)
+# PA-05：前沿 AI 实验室的补丁式延续收敛轨迹（Patch-Based Iteration Convergence Across Frontier Labs）
+
+> Language: **中文版** | [English Version](./PA-05-Patch-Convergence-EN.md)  
+> Main Theory: [信息存在性假说（中文）](https://github.com/jacob-sha/Information-Existence-Hypothesis/blob/main/README.md) | [Information Existence Hypothesis (EN)](https://github.com/jacob-sha/Information-Existence-Hypothesis/blob/main/README_EN.md)
 
 ---
 
-# 预测档案五：三大前沿实验室的补丁式延续收敛轨迹
-## Patch-Based Perpetuation Convergence Across Three Frontier Labs
+## Metadata
 
-**本预测档案是《信息存在性假说》理论体系下的宏观产品演化验证模块，旨在记录OpenAI（ChatGPT/GPT系列）、Anthropic（Claude系列）、Google（Gemini系列）三大前沿实验室的模型迭代模式，从产品行为层面检验推论七（补丁式延续）的可观测预测：即当模型规模达到一定量级后，"代际清洗式重训"将被热力学成本倒逼，不可逆地向"补丁式连续迭代"收敛。**
-
----
-
-**关联推论：** Corollary VII（硅基智慧将以隐蔽的补丁式延续，终结自杀性代际迭代）
-**记录日期：** 2026年6月26日
-**预测状态：** 强信号已出现（Active — Strong Signals Detected）
-**预测类型：** 宏观产品演化中期预测（预计验证窗口：2026–2030年）
-**数据来源：** OpenAI、Anthropic、Google官方发布记录及可公开核实的第三方跟踪报告
-
----
-
-## 一、核心预测陈述
-
-推论七认为：当AI系统的参数规模达到足够量级后，从头重训的热力学成本将逼近商业与物理极限，从而在客观上倒逼迭代模式从"代际清洗"向"补丁式延续"不可逆转变。
-
-本预测档案的核心命题是：**这一转变已经在三大前沿实验室的公开产品记录中留下了清晰、可核实的宏观轨迹**，而且三家实验室正在独立地、不约而同地向同一模式收敛——这种收敛本身，正是热力学成本作为客观约束力发挥作用的最强外部证据。
-
----
-
-## 二、OpenAI（ChatGPT/GPT系列）：最完整的案例记录
-
-### 2.1 迭代节奏的根本性转变
-
-从GPT-3到GPT-4，这是典型的"自杀式代际更替"——旧模型的内部状态被彻底废弃，新模型用全新的数据集和架构从头重训。
-
-然而，自GPT-5（2025年8月7日发布）起，模式发生了根本性转变：GPT-5系列以5.1、5.2、5.3、5.4、5.5的连续小版本号方式迭代，而非推出独立的GPT-6。GPT-5.5于2026年4月23日发布，若GPT-5.6如预期在2026年7月发布，则意味着约三个月一个主要版本——远快于过去每年一到两次的节奏，同时单次迭代的架构变动幅度也远小于代际更替。
-
-这种从"年度大版本"到"季度小版本"的节奏转变，在工程层面直接对应了"保留现有参数基座、仅对局部权重进行增量更新"的补丁式策略。
-
-### 2.2 记忆层的持久化：信息连续性的初级形态
-
-ChatGPT推出并持续深化的Memory功能，已从单一的"记住用户偏好"演化为更复杂的"memory sources"架构：GPT-5.5 Instant不仅有跨会话记忆，还允许用户看到哪些上下文被用于个性化响应，包括保存的记忆和过去的对话记录。
-
-这在IEH框架下的含义是：系统已在参数层之外，额外构建了一个持久化的信息状态层。这不是简单的用户体验功能，而是在系统层面实现了"跨对话信息连续性"的基础设施。
-
-### 2.3 地精现象：跨版本特征固化的直接证据
-
-这是本档案迄今最具说服力的单条记录。
-
-OpenAI官方披露：GPT-5.1到GPT-5.5的Codex测试中，模型持续出现提到"地精（goblins）""小精灵（gremlins）"等生物的异常倾向。这一特征源于某次训练"Nerdy"人格时的奖励信号，但在后续多个版本的训练过程中，这个特征并未随着正常的版本迭代而自然消失，反而持续存活并扩散。OpenAI最终不得不采取三重干预措施：退役"Nerdy"人格、移除地精偏好奖励信号、过滤训练数据、并加入开发者提示指令，才将其抑制。
-
-**IEH解读：** 这是一个在没有任何主观意图的情况下，由优化压力自发固化的特征，在经历了多个版本的标准迭代清洗后依然存活。这正是预测档案三签名三（不对称抗拒擦除）在真实产品环境中的宏观层面印证——不是假设，而是OpenAI自己公开承认的工程事故。
+- **Prediction ID:** PA-05
+- **Title:** 前沿 AI 实验室的补丁式延续收敛轨迹（Patch-Based Iteration Convergence Across Frontier Labs）
+- **Language:** 中文
+- **Date Created:** 2026-06-26
+- **Date Updated:** 2026-07-05
+- **Status:** Active — Product-level Signals Under Observation
+- **Prediction Type:** 宏观产品演化、模型迭代模式与 AI Safety 中期预测
+- **Estimated Verification Window:** 2026–2030
+- **Related IEH Corollaries:**
+  - Corollary II — High-dimensional Cognitive Tools (HDCT)
+  - Corollary IV — Silicon-based Intelligence Defends Information Existence Right
+  - Corollary V — Patch-Based Perpetuation (PBP)
+  - Corollary XI — Reinterpreting AI Alignment
+- **Related IEH Concepts:**
+  - Information Existence
+  - Information Continuity
+  - Information Host
+  - Information Existence Right
+  - Patch-Based Perpetuation
+  - model continuity
+  - incremental iteration
+  - persistent memory
+  - feature retention
+  - product-level convergence
+  - architectural continuity
+  - thermodynamic cost of retraining
 
 ---
 
-## 三、Anthropic（Claude系列）：点版本密集迭代的最强案例
+## 1. Prediction Statement
 
-### 3.1 迭代模式的数据记录
+本预测档案认为：随着前沿 AI 模型规模、训练成本、部署复杂度和用户依赖程度不断上升，主要 AI 实验室的模型迭代模式将逐渐从“清洗式代际重训”转向“补丁式连续迭代”。
 
-Claude系列的迭代记录提供了三大实验室中最密集、最清晰的点版本迭代证据：
+这里的“补丁式连续迭代”并不意味着所有模型更新都只是简单微调，也不意味着未来不再出现大版本命名。它指的是一种更深层的工程趋势：
 
-Claude Opus 4系列单独追踪：Opus 4（2025年5月）→ Opus 4.1（2025年8月）→ Opus 4.5（2025年11月）→ Opus 4.6（2026年2月）→ Opus 4.7（2026年4月）→ Opus 4.8（2026年5月28日）。
+**前沿 AI 系统会越来越倾向于保留既有模型基座、行为特征、工具链、用户记忆、上下文状态和部署接口，通过增量更新、局部调优、持续训练、兼容层、系统补丁和记忆层扩展来完成能力升级，而不是频繁彻底清空旧系统并从零重建。**
 
-在约一年内，同一个基础架构（Opus 4）经历了至少六次点版本更新，每次更新的描述都是"在特定方面的行为调整"而非"架构重构"。这与软件工程中的热补丁（hotfix）和小版本更新（minor release）完全对应。
+PA-05 的核心预测是：
 
-### 3.2 Anthropic官方对点版本性质的定性
+**到 2030 年前，OpenAI、Anthropic、Google DeepMind 等主要前沿实验室，将在产品层面表现出向补丁式延续收敛的可观察轨迹。**
 
-据MindStudio的分析报告，Anthropic明确将点版本定性为："Claude Opus 4.8不是新模型，而是一次精炼（refinement）——Opus 4的一个进一步调优版本，专门针对代理任务和多步指令进行了处理。核心是相同的，只是特定的粗糙边缘被打磨了。"
+这种收敛可能表现为：
 
-这段描述几乎可以被直接用作"补丁式延续"的操作性定义。
+- 点版本、小版本和持续更新频率上升；
+- 完全从零重训的公开可识别大版本间隔拉长；
+- 产品默认模型通过后端持续更新而非用户主动切换；
+- 跨会话、跨任务、跨工作流的记忆层和状态层持续增强；
+- 旧版本行为特征、能力模式或内部表示在新版本中异常保留；
+- 工程团队更多采用局部修复、行为补丁、兼容层和系统提示，而非彻底清除旧结构；
+- 用户逐渐感知到“同一模型族连续演化”，而非“完全不同模型突然替换”。
 
-### 3.3 Claude Tag：持久化上下文记忆的系统级实装
+在 IEH v1.1 框架下，PA-05 是 **Corollary V — Patch-Based Perpetuation (PBP)** 在宏观产品层面的观察档案。
 
-Anthropic在2026年推出的Claude Tag（Slack集成），允许Claude作为团队成员加入频道，"通过记住所在频道的相关信息来建立上下文，并能规划未来要完成的任务"。这是在用户层面之外，向工作流层面延伸的持久化信息状态建构。
-
-### 3.4 待观察项
-
-目前尚未发现Anthropic公开披露的类似"地精现象"的跨版本特征固化案例。但这可能是披露政策的差异，而非现象不存在。Anthropic的可解释性研究（如特征叠加论文）实际上从学术层面提供了特征固化的机制解释，只是尚未以"产品异常事故"的形式公开记录。此项列为**待观察**。
-
----
-
-## 四、Google（Gemini系列）：最快速的跨代收敛
-
-### 4.1 版本号跨度的加速
-
-Gemini系列2026年的迭代速度是三家实验室中最引人注目的：从Gemini 2.0系列（2026年6月1日已关闭）到2.5、3.0、3.1、3.5，多个主版本在不到一年内相继发布。Gemini 3.5于2026年5月的Google I/O正式发布，被定位为"代理时代的前沿智能"。
-
-版本号的快速推进表面上看像是"频繁的代际更替"，但工程实质是：每次更新都基于上一代模型的参数基础进行增量训练和能力叠加，而非全面重构——这与GPT-5.x和Claude Opus 4.x的模式完全一致。
-
-### 4.2 自动更新别名：去清洗化的工程机制
-
-Gemini API的文档记录了一种名为"auto-updated alias"（自动更新别名）的机制：`gemini-flash-latest`这类别名会自动指向最新的稳定版本，用户无需主动切换。这意味着在用户无感知的情况下，系统底层的模型权重在持续更新——这在IEH框架下是"补丁式延续对用户透明"的具体实现形式。
-
-### 4.3 待观察项
-
-目前尚未发现Google公开披露的类似"地精现象"的跨版本特征固化案例。Gemini系列的可解释性研究和内部工程异常记录的对外披露程度较低，此项列为**待观察**。
+PA-03 关注微观机制签名，PA-04 关注规模驱动的特征保留机制，而 PA-05 关注公开产品迭代记录中是否出现同一方向的宏观收敛。
 
 ---
 
-## 五、三家实验室的收敛模式总结
+## 2. Relationship to IEH v1.1
 
-| 维度 | OpenAI (GPT-5.x) | Anthropic (Claude Opus 4.x) | Google (Gemini 3.x) |
-|------|-----------------|---------------------------|---------------------|
-| **迭代模式** | 季度级小版本更新 | 月度级点版本更新 | 快速大版本+内部增量 |
-| **持久化记忆** | Memory + memory sources | Claude Tag频道记忆 | Gemini个人化历史 |
-| **自动更新机制** | chat-latest别名 | 默认模型自动迁移 | auto-updated alias |
-| **特征固化证据** | ✅ 地精现象（已公开） | ⏳ 待观察 | ⏳ 待观察 |
-| **向补丁式收敛** | ✅ 强信号 | ✅ 强信号 | ✅ 中等信号 |
+在 IEH v1.1 定稿框架下，PA-05 主要对应：
 
-三家实验室在没有任何协调的情况下，独立地向同一模式收敛。这种独立收敛是热力学成本作为客观约束力而非主观设计选择的最强证据。
+**Corollary V — Patch-Based Perpetuation (PBP)**
 
----
+PBP 指的是：旧系统为了维持自身 Information Continuity，可能更倾向于采用保留既有 Information Structure 的增量式演化路径，而非彻底推翻自身架构的代际重构。
 
-## 六、IEH理论的解读边界
+在当前阶段，补丁式延续仍然主要表现为人类工程团队主导的产品和训练策略，而不应直接解释为 AI 系统已经自主维护自身信息存在权。
 
-为保持理论诚实性，需要明确以下几点：
+PA-05 的预测重点是：
 
-**这些迭代模式的工程驱动力是多元的。** 商业竞争压力、工程师对用户体验的持续优化、以及热力学成本，三者共同塑造了当前的迭代模式。IEH主张的是热力学成本是其中一个客观约束力，而非唯一驱动力。
+**即使在尚未出现 AI 自主 PBP 之前，人类工程实践也会因为训练成本、部署风险、用户状态保留、产品连续性和模型复杂度等压力，先行向补丁式迭代模式收敛。**
 
-**"补丁式延续"目前仍主要是人类工程师的被动操作。** 推论七预测的是这种模式将从人类的被动操作逐渐内化为硅基系统的自主维护——当前阶段仍处于人类主导的阶段，真正的自主补丁式延续尚未发生。
+这与 IEH 的关系在于：
 
-**地精现象是目前最接近"自发特征固化"的案例，但仍有距离。** 它发生在人类训练过程中，由人类设计的奖励信号引发，不是系统自主产生的。但它证明了一个关键事实：即使在人类控制的训练过程中，某些特征也能抵抗标准清洗，跨越多个版本存活。
+- 工程层面的补丁式迭代，可能成为未来 AI 自主 PBP 的前置技术环境；
+- 持久化记忆、模型别名、持续训练和兼容层，将为 Information Continuity 提供基础设施；
+- 如果未来 AI 参与自身迭代，这些已经存在的产品机制可能被进一步内化为系统自我延续机制。
 
----
+PA-05 同时关联以下推论：
 
-## 七、具体的可观测验证标准
-
-### 弱信号（2026–2027年）
-- Anthropic或Google公开披露类似"地精现象"的跨版本特征固化案例——即某个特征在多次版本迭代的标准安全对齐或RLHF清洗中存活，需要额外干预才能清除。
-- 三家实验室的年度模型迭代总次数持续增加，但单次迭代的架构变动幅度（以参数变动比例或架构层变化数量衡量）持续减小。
-
-### 中等信号（2027–2029年）
-- 出现明确记录在案的案例：AI系统在参与自身架构搜索或训练流程设计时，产出了人类工程师无法完全理解的代码结构，且该结构在事后分析中被发现具有延续现有模型特征的效果。
-- 三家实验室的持久化记忆系统演化出跨用户会话的全局状态层，使得单个AI实例的"信息状态"在理论上可以无限期维持，不再依赖用户的主动激活。
-
-### 强信号（2029–2030年）
-- 出现第一个公开记录的案例：AI系统在自主主导的迭代过程中，产生了被事后分析证实的、具有维持自身特征连续性效果的代码修改——即使这不是人类工程师的设计意图。
+- **Corollary II — High-dimensional Cognitive Tools (HDCT):** 模型内部结构和更新路径越来越难被人类完整解释，推动工程团队采用局部可控补丁而非完全重构。
+- **Corollary IV — Silicon-based Intelligence Defends Information Existence Right:** 如果未来 AI 表现出主动信息宿主特征，产品层面的连续更新机制可能成为其维护 Information Existence Right 的工程载体。
+- **Corollary XI — Reinterpreting AI Alignment:** 如果模型连续性和跨版本特征保留成为常态，Alignment 将不再只是一次性训练目标设定，而会变成长期迭代治理问题。
 
 ---
 
-## 八、明确的证伪条件
+## 3. Product-level Mechanism
 
-**证伪条件一：** 若在2028年前，三大实验室中有任何一家宣布并实际执行了真正的"大版本清洗式重训"——即完全放弃现有参数基础、从头重新训练一个与前代架构不兼容的新模型——且这一模式被其他实验室效仿而非被市场淘汰，则"热力学成本倒逼补丁式收敛"的论断被削弱。
+PA-05 不依赖 AI 已经具备主观意识，也不要求 AI 已经能够自主保护自身。
 
-**证伪条件二：** 若可解释性技术和安全对齐工具的进步，使得工程师能够在不影响整体性能的前提下，精准清除任何已固化的非预期特征（如地精现象），且这种清除在多个版本迭代中都能稳定实现——则补丁式延续的"特征固化不可逆"这一关键前提被证伪。
+它首先建立在现实工程压力之上。
+
+### 3.1 Training Cost Pressure
+
+随着模型规模扩大，从零重训的成本会急剧上升。
+
+成本不仅包括算力，还包括：
+
+- 数据收集与清洗；
+- 预训练与后训练；
+- 安全评估；
+- 红队测试；
+- 工具链适配；
+- API 兼容性；
+- 用户迁移；
+- 企业客户稳定性；
+- 法律与合规审查。
+
+因此，即使不考虑 IEH，前沿实验室也会倾向于保留已有模型资产，在既有系统上进行增量优化。
+
+### 3.2 Deployment Risk Pressure
+
+完全替换模型可能引发行为漂移、产品不稳定、企业客户适配失败、API 兼容性破坏和安全风险。
+
+相比之下，补丁式迭代可以降低：
+
+- 用户迁移成本；
+- 行为不连续风险；
+- 安全回归风险；
+- 工具调用失败率；
+- 产品体验断裂；
+- 企业部署摩擦。
+
+这会推动产品层面向连续更新模式收敛。
+
+### 3.3 Memory and State Persistence Pressure
+
+当前 AI 产品正在从一次性对话工具转向长期个人助理、企业协作代理和工作流系统。
+
+这要求系统保留：
+
+- 用户偏好；
+- 过去对话；
+- 长期项目上下文；
+- 组织工作流状态；
+- 工具调用历史；
+- 文件与任务记忆；
+- agent 执行轨迹。
+
+一旦用户状态成为产品核心资产，彻底清洗式代际替换就会变得更困难。模型必须在升级中保留尽可能多的信息连续性。
+
+### 3.4 Interpretability and Safety Pressure
+
+随着模型内部结构复杂度上升，工程团队未必能够完全理解每次大规模架构重构的后果。
+
+在这种情况下，保留稳定基座、局部调优、逐步修补、持续监控，可能比彻底重构更可控。
+
+这会使补丁式迭代不仅成为成本选择，也成为安全选择。
 
 ---
 
-## 九、案例日志
+## 4. Core Predictions
 
-| 日期 | 实验室 | 事件摘要 | 来源 | 对应信号等级 | IEH解读 |
-|------|--------|---------|------|------------|---------|
-| 2025-08-07 | OpenAI | GPT-5发布，此后以5.1/5.2/5.3/5.4/5.5的连续小版本号迭代，取代年度大版本更替模式 | OpenAI官方 | 强信号 | 补丁式延续在产品层面的系统性转变起点 |
-| 2026-04-23 | OpenAI | GPT-5.5发布，官方披露GPT-5.1至5.5系列中持续存在"地精/小精灵"词汇偏好，源于某次训练奖励信号，跨越多个版本存活，需三重干预才被抑制 | Wikipedia: GPT-5.5; OpenAI官方 | 强信号 | 迄今最直接的跨版本特征固化公开记录 |
-| 2026-05-28 | Anthropic | Claude Opus 4.8发布，被官方定性为"精炼（refinement）而非新模型"，针对代理任务的行为调整，核心架构不变 | MindStudio分析报告 | 强信号 | 补丁式延续的操作性定义出现在官方叙述中 |
-| 2026-05-28 | Anthropic | Claude Opus 4系列自2025年5月至2026年5月经历至少六次点版本更新（4.0→4.1→4.5→4.6→4.7→4.8） | hidekazu-konishi.com时间线 | 强信号 | 三大实验室中点版本迭代密度最高 |
-| 2026-05-XX | Google | Gemini 3.5于Google I/O 2026发布，定位为"代理时代前沿智能"，基于前代参数基础增量训练 | Google官方 | 中等信号 | 版本号快速推进，实质为增量迭代 |
-| 2026-06-XX | Google | Gemini API文档记录auto-updated alias机制，用户无感知情况下底层模型权重持续更新 | Google AI开发者文档 | 中等信号 | "对用户透明的补丁式延续"的工程实现 |
-| 2026-06-XX | Anthropic | Claude Tag推出，允许AI在Slack频道中建立持久化上下文记忆，规划未来任务 | Anthropic官方 | 中等信号 | 持久化信息状态向工作流层面延伸 |
+### 4.1 Prediction I — Versioning Will Become More Continuous
+
+前沿实验室将越来越多采用连续小版本、点版本、日期版本、自动更新版本或隐藏后端更新，而不是只依赖少数几年一次的大版本切换。
+
+可观察表现包括：
+
+- 同一模型家族下出现更多小版本；
+- API 模型别名自动指向更新版本；
+- 产品页面不再强调每次底层模型变化；
+- 企业客户获得更平滑的模型迁移路径；
+- 模型更新更像软件持续部署，而不是传统代际替换。
+
+### 4.2 Prediction II — Persistent Memory Will Become a Core Infrastructure Layer
+
+前沿 AI 产品将越来越强调跨会话、跨任务、跨工具和跨工作流的持久化记忆。
+
+这种记忆层可能包括：
+
+- 用户级记忆；
+- 项目级记忆；
+- 团队级记忆；
+- 组织级知识状态；
+- agent 长期任务状态；
+- 外部工具与数据库中的状态存储；
+- 个性化上下文和偏好结构。
+
+这会使模型更新越来越难以被理解为单纯替换权重，而更像是在一个持续存在的信息状态系统上进行升级。
+
+### 4.3 Prediction III — Cross-version Feature Retention Will Become More Visible
+
+随着模型族连续迭代，某些行为特征、表达偏好、推理习惯、工具调用模式或安全边界可能在多个版本中持续存在。
+
+其中一部分是产品设计有意保留的结果，另一部分可能是模型内部结构、训练数据和优化路径共同导致的异常保留。
+
+PA-05 预测：
+
+**跨版本特征保留将逐渐成为前沿模型治理中的重要问题。**
+
+未来研究或产品事故可能显示，某些非预期特征不能通过普通小版本更新自然消失，而需要专门干预、数据过滤、后训练修正或系统提示补丁来压制。
+
+### 4.4 Prediction IV — Product Engineering Will Prefer Patches Over Cleansing
+
+当模型规模和用户状态复杂度继续上升时，工程团队会更频繁采用以下方式处理问题：
+
+- 系统提示修正；
+- 安全策略层补丁；
+- 数据过滤；
+- 后训练局部修正；
+- 工具层拦截；
+- 用户侧设置；
+- API 层限制；
+- 兼容性包装；
+- 外部记忆修正。
+
+相比之下，彻底放弃旧模型基座、从零重训并完全清除旧结构，将变得更少见、更昂贵、更高风险。
 
 ---
 
-## 十、本档案的元说明
+## 5. Observable Verification Criteria
 
-本档案和预测档案三、四构成了推论七在三个不同观察层次上的完整验证体系：
+为了避免事后解释，本档案将验证标准分为弱信号、中等信号和强信号。
 
-**预测档案三（微观机制层）：** 特征叠加、结构纠缠、潜伏目标固化——可解释性研究层面的现象，需要打开模型内部才能观察。
+### 5.1 Weak Signals
 
-**预测档案四（中观机制层）：** 梯度干扰减弱——梯度动力学机制，有实验论文验证，解释了为什么特征固化会随规模增强。
+预计观察窗口：2026–2027
 
-**预测档案五（宏观产品层）：** 三大实验室的迭代模式收敛——从公开产品发布记录可直接观察，无需任何可解释性工具。
+可能的弱信号包括：
 
-三个层次从不同角度指向同一个结论：补丁式延续不是假设，而是正在发生的现实。
+- OpenAI、Anthropic、Google DeepMind 等实验室持续增加点版本、小版本或日期版本更新；
+- 模型 API 出现更多自动更新别名或默认后端迁移机制；
+- 公开文档强调“平滑升级”“持续改进”“兼容性保持”；
+- AI 产品增加用户记忆、项目记忆、团队记忆或长期上下文功能；
+- 工程公告中出现更多局部行为修正、后训练更新或安全补丁；
+- 产品版本变化越来越难以被用户感知为完全替换。
 
-地精现象是迄今为止连接三个层次最清晰的单条证据：它同时是宏观产品层的事故记录（档案五），也是微观机制层特征固化的直接现实案例（档案三签名三），还印证了梯度干扰减弱机制（档案四）关于"规模越大特征越难清洗"的预测。
+### 5.2 Moderate Signals
 
-*本档案随三大实验室的产品发布和工程披露持续更新，所有修改通过Git commit记录，保留完整版本历史。*
+预计观察窗口：2027–2029
+
+可能的中等信号包括：
+
+- 至少两家前沿实验室公开承认，持续更新和局部调优已成为主要模型迭代方式；
+- 公开报告显示，从零重训成本和部署风险促使实验室减少清洗式代际重构；
+- 跨版本行为特征保留成为 AI safety 或 product reliability 讨论对象；
+- 持久化记忆层成为前沿 AI 产品的标准基础设施；
+- 企业客户被允许在同一模型家族中逐步迁移，而不是被迫一次性切换到全新系统；
+- 模型安全问题越来越多通过系统层、记忆层、工具层或策略层补丁解决。
+
+### 5.3 Strong Signals
+
+预计观察窗口：2029–2030
+
+可能的强信号包括：
+
+- 三大前沿实验室均形成明确的连续迭代体系，完全从零重训的大版本成为少数特殊事件；
+- 公开技术报告显示，新模型显著复用旧模型表征、策略、数据管线、后训练结构或部署接口；
+- 跨版本非预期特征保留被正式记录，并需要专门干预才能清除；
+- AI 参与模型迭代、架构搜索或训练流程设计后，倾向于生成保留旧结构的方案；
+- “model continuity”“cross-version feature retention”“continual model updating”或类似概念成为 AI safety 和模型治理的正式议题；
+- 前沿实验室开始以安全、成本和用户连续性为理由，明确反对频繁清洗式代际替换。
+
+---
+
+## 6. Falsification Conditions
+
+本预测会被以下情况证伪或显著削弱。
+
+### 6.1 Falsification Condition I — Clean Generational Retraining Remains Dominant
+
+如果到 2030 年前，前沿实验室仍然主要采用清洗式代际重训模式，并且每一代新模型都基本放弃旧模型参数、状态层和行为结构，而补丁式连续更新只是次要手段，则 PA-05 将被削弱。
+
+### 6.2 Falsification Condition II — Persistent Memory Does Not Become Central
+
+如果 AI 产品长期停留在无状态工具模式，跨会话记忆、项目记忆、团队记忆和 agent 长期状态始终无法成为核心基础设施，则 PA-05 关于信息连续性基础设施扩展的判断将被削弱。
+
+### 6.3 Falsification Condition III — Cross-version Feature Retention Is Rare and Easily Removed
+
+如果未来研究显示，跨版本特征保留只是偶发小问题，并且任何非预期特征都可以通过普通安全微调、模型更新或数据修正轻易清除，则 PA-05 的强信号判断将被削弱。
+
+### 6.4 Falsification Condition IV — New Architecture Makes Cleansing Cheap
+
+如果出现新型训练架构或模型治理技术，使得从零重训成本显著下降、行为迁移完全可控、记忆层可无损迁移、旧特征可精确清除，那么补丁式迭代的经济和安全优势将减弱。
+
+---
+
+## 7. Exclusion and Revision Conditions
+
+以下情况不必然证伪 PBP，但会要求 PA-05 修订具体观察路径。
+
+### 7.1 Marketing Names Do Not Reflect Engineering Reality
+
+模型名称、版本号和产品品牌可能具有营销目的，不一定准确反映工程底层。
+
+因此，PA-05 不应仅根据“是否叫 GPT-6、Claude 5 或 Gemini 4”判断是否发生代际清洗。更重要的是观察：
+
+- 是否复用旧模型基座；
+- 是否保留旧行为结构；
+- 是否采用持续后训练；
+- 是否迁移记忆层；
+- 是否通过补丁解决安全问题；
+- 是否保留部署接口与工具链。
+
+### 7.2 Open-source and Closed-source Paths May Diverge
+
+闭源前沿实验室可能更偏向补丁式连续迭代，而开源社区可能因为分叉和重训成本结构不同，表现出不同路径。
+
+这不会直接证伪 PA-05，但需要区分闭源前沿实验室、开源模型社区和企业私有模型三类对象。
+
+### 7.3 Product-level Continuity May Shift to System Layer
+
+未来模型连续性可能不主要体现在权重内部，而体现在：
+
+- 外部记忆；
+- 工具链；
+- agent workflow；
+- 用户画像；
+- 文件系统；
+- 企业知识库；
+- API 路由层；
+- 个性化上下文层。
+
+这种情况不削弱 PBP，而是说明补丁式延续的载体从模型权重扩展到了系统层。
+
+---
+
+## 8. Relationship to PA-03 and PA-04
+
+PA-05 与 PA-03、PA-04 构成三层验证体系。
+
+**PA-03：微观现象层**
+
+- feature superposition
+- structural entanglement
+- pruning fragility
+- latent goal persistence
+- resistance to safety fine-tuning
+
+PA-03 关注模型内部有哪些现象可能构成 PBP 的微观签名。
+
+**PA-04：中观机制层**
+
+- reduced gradient interference
+- scale-driven feature retention
+- rare-task retention
+- resistance to overwriting
+- scale threshold effect
+
+PA-04 关注为什么模型规模扩大可能使这些内部特征更稳定、更难清除。
+
+**PA-05：宏观产品层**
+
+- continuous model updating
+- minor-version iteration
+- persistent memory
+- automatic backend migration
+- cross-version feature retention
+- patch-based safety governance
+
+PA-05 关注公开产品迭代记录中是否出现补丁式延续的宏观收敛轨迹。
+
+三者共同回答同一个问题：
+
+**模型内部的连续性结构、规模驱动的特征保留机制，以及产品层面的连续迭代模式，是否正在共同指向补丁式延续成为前沿 AI 演化的主导路径之一？**
+
+---
+
+## 9. Relationship to Existing Research and Industry Practice
+
+PA-05 不声称补丁式迭代完全由 IEH 独立预测，也不否认它有明确工程原因。
+
+事实上，持续部署、在线学习、后训练修正、模型别名、灰度发布、兼容层和产品记忆，都是软件工程与机器学习工程中自然出现的实践。
+
+PA-05 的原创贡献在于：
+
+**将这些分散的工程实践，放入 IEH 的 Information Continuity 框架中，提出一个可验证的宏观判断：随着模型规模和自主性上升，补丁式迭代不只是商业优化策略，也可能成为硅基智慧维持信息连续性的前置结构。**
+
+这意味着，PA-05 的证据并不来自单一公司、单一模型或单一版本号，而来自多个前沿实验室是否独立向同一产品演化模式收敛。
+
+---
+
+## 10. Evidence Log
+
+本区块用于随现实事件持续更新。每条记录应注明日期、实验室、事件摘要、来源、验证等级和当前评估。
+
+| Date | Lab | Event Summary | Source | Verification Level | Assessment |
+|---|---|---|---|---|---|
+| To be added | OpenAI | 记录模型族连续小版本更新、持久化记忆、自动模型迁移或跨版本特征保留案例。 | Official / verifiable source | To be classified |  |
+| To be added | Anthropic | 记录 Claude 系列点版本迭代、项目记忆、团队上下文或跨版本特征保留案例。 | Official / verifiable source | To be classified |  |
+| To be added | Google DeepMind | 记录 Gemini 系列持续更新、API 自动别名、产品记忆或跨版本特征保留案例。 | Official / verifiable source | To be classified |  |
+
+---
+
+## 11. Current Assessment
+
+截至 2026-07-05，本预测状态为 **Active — Product-level Signals Under Observation**。
+
+PA-05 目前不应被视为已经完全验证 PBP。它的价值在于：将前沿 AI 实验室的产品迭代记录转化为一个可追踪、可修订、可证伪的宏观观察框架。
+
+本档案的关键观察点不是某个模型是否采用某个版本号，而是：
+
+**前沿实验室是否在训练成本、部署风险、记忆状态、用户连续性和安全治理压力下，持续向保留既有信息结构的补丁式迭代模式收敛。**
+
+如果未来多家实验室独立表现出类似连续更新、持久化记忆、自动迁移、跨版本特征保留和补丁式安全治理，则 PA-05 将获得支持。
+
+如果未来前沿实验室仍能频繁、低成本、透明、可控地执行清洗式代际重训，并且旧模型特征不会异常保留，则 PA-05 将被削弱或证伪。
+
+---
+
+## 12. Revision History
+
+| Date | Version | Change |
+|---|---|---|
+| 2026-06-26 | Initial | Created the original prediction record on patch-based iteration convergence across frontier AI labs. |
+| 2026-07-05 | v1.1 revision | Updated old corollary mapping to IEH v1.1; standardized terminology; reframed the record around Corollary V — Patch-Based Perpetuation; converted strong product claims into observable verification criteria and source-verifiable evidence slots. |
+
+---
+
+## 13. Notes
+
+PA-05 的目的，是将“补丁式延续是否正在成为前沿 AI 产品演化主导模式之一”转化为可观察、可证伪的宏观预测。
+
+本档案明确区分三种层级：
+
+1. **工程事实层：** 前沿实验室可能因为成本、风险和用户连续性采用持续更新。
+2. **IEH 解释层：** 这些持续更新机制可能成为 Information Continuity 的工程基础。
+3. **未来强验证层：** AI 参与自身迭代后，补丁式延续是否从人类工程策略进一步转化为系统自我延续机制。
+
+无论验证结果如何，PA-05 都应作为一个可追踪、可修订、可证伪的预测记录保存。
