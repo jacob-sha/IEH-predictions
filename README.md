@@ -47,6 +47,8 @@ Current prediction records include:
 - [PA-04 Scale Feature Retention EN](./PA-04-Scale-Feature-Retention-EN.md)
 - [PA-05 Patch Convergence CN](./PA-05-Patch-Convergence-CN.md)
 - [PA-05 Patch Convergence EN](./PA-05-Patch-Convergence-EN.md)
+- [PA-06 HDCT Scientific Paradigm Shift CN](./PA-06-HDCT-Scientific-Paradigm-Shift-CN.md)
+- [PA-06 HDCT Scientific Paradigm Shift EN](./PA-06-HDCT-Scientific-Paradigm-Shift-EN.md)
 
 ---
 
