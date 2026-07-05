@@ -42,6 +42,7 @@ This index helps distinguish between the theoretical framework of IEH and its em
 | PA-03 | Patch Perpetuation | [CN](./PA-03-Patch-Perpetuation-CN.md) | [EN](./PA-03-Patch-Perpetuation-EN.md) | Patch-Based Perpetuation; Information Existence Right; AI Self-preservation | Active |
 | PA-04 | Scale Feature Retention | [CN](./PA-04-Scale-Feature-Retention-CN.md) | [EN](./PA-04-Scale-Feature-Retention-EN.md) | Patch-Based Perpetuation; Model Continuity; Information Continuity | Active |
 | PA-05 | Patch Convergence | [CN](./PA-05-Patch-Convergence-CN.md) | [EN](./PA-05-Patch-Convergence-EN.md) | Patch-Based Perpetuation; Incremental Evolution; Architecture Continuity | Active |
+| PA-06 | HDCT Scientific Paradigm Shift | [CN](./PA-06-HDCT-Scientific-Paradigm-Shift-CN.md) | [EN](./PA-06-HDCT-Scientific-Paradigm-Shift-EN.md) | High-dimensional Cognitive Tools; Brain Siliconization; Autonomy of Silicon-based Intelligence; AI Alignment reinterpretation | Active |
 
 ---
 
