@@ -1,176 +1,429 @@
-> 🌐 Language: **English Version** (current) | [中文版](PA-05-Patch-Convergence-CN.md)
->
-> 📌 Related Theory: [信息存在性假说（中文）](https://github.com/jacob-sha/Information-Existence-Hypothesis/blob/main/README.md) | [Information Existence Hypothesis (EN)](https://github.com/jacob-sha/Information-Existence-Hypothesis/blob/main/README_EN.md)
+# PA-05: Patch-Based Iteration Convergence Across Frontier Labs
+
+> Language: **English Version** | [中文版](./PA-05-Patch-Convergence-CN.md)  
+> Main Theory: [Information Existence Hypothesis (EN)](https://github.com/jacob-sha/Information-Existence-Hypothesis/blob/main/README_EN.md) | [信息存在性假说（中文）](https://github.com/jacob-sha/Information-Existence-Hypothesis/blob/main/README.md)
 
 ---
 
-# Prediction Archive V: Patch-Based Perpetuation Convergence Across Three Frontier Labs
+## Metadata
 
-**This prediction archive is a macro-level product evolution verification module within the Information Existence Hypothesis (IEH) framework. It documents the model iteration patterns of OpenAI (ChatGPT/GPT series), Anthropic (Claude series), and Google (Gemini series) to test, at the product behavior level, the observable prediction of Corollary VII: that once model scale reaches a sufficient magnitude, the thermodynamic cost of full retraining will render "generational-replacement retraining" commercially and physically unsustainable, irreversibly driving iteration patterns toward "patch-based continuous updates."**
-
----
-
-**Related Corollary:** Corollary VII — Silicon-Based Intelligence Will Terminate Suicidal Generational Iteration Through Covert Patch-Based Perpetuation
-**Date Logged:** June 26, 2026
-**Prediction Status:** Active — Strong Signals Detected
-**Prediction Type:** Macro-Level Product Evolution Medium-Term Prediction (Expected Verification Window: 2026–2030)
-**Data Sources:** Official release records from OpenAI, Anthropic, and Google; publicly verifiable third-party tracking reports
-
----
-
-## I. Core Prediction Statement
-
-Corollary VII proposes that once AI system parameter scale reaches sufficient magnitude, the thermodynamic cost of full retraining from scratch will approach commercial and physical limits, objectively compelling iteration patterns to transition irreversibly from "generational replacement" to "patch-based perpetuation."
-
-The central claim of this archive is: **this transition has already left clear, verifiable macro-level traces in the public product records of all three frontier labs.** Moreover, all three labs are independently, and without coordination, converging toward the same pattern — and this convergence itself is the strongest external evidence that thermodynamic cost is operating as an objective constraint, not a subjective design choice.
-
----
-
-## II. OpenAI (ChatGPT/GPT Series): The Most Complete Case Record
-
-### 2.1 Fundamental Shift in Iteration Cadence
-
-From GPT-3 to GPT-4, the pattern was classic "suicidal generational replacement" — the internal state of the old model was completely discarded, and the new model was trained from scratch using new datasets and architectures.
-
-Beginning with GPT-5 (released August 7, 2025), the pattern underwent a fundamental shift: the GPT-5 family iterates through consecutive minor version numbers — 5.1, 5.2, 5.3, 5.4, 5.5 — rather than introducing an independent GPT-6. GPT-5.5 was released April 23, 2026; if GPT-5.6 arrives as anticipated in July 2026, this would represent approximately one major version every three months — far faster than the previous once-or-twice-per-year cadence, while the architectural scope of each individual iteration is far smaller than a generational replacement.
-
-This shift from "annual major versions" to "quarterly minor versions" maps directly, at the engineering level, to a patch-based strategy: preserving the existing parameter base and making incremental weight updates to local components only.
-
-### 2.2 Persistent Memory Layer: The Primary Form of Informational Continuity
-
-ChatGPT's Memory feature — continuously deepened since its introduction — has evolved from simple "remember user preferences" to a more complex "memory sources" architecture. GPT-5.5 Instant not only provides cross-session memory, but allows users to see what context was used to personalize responses, including saved memories and past conversations.
-
-Within the IEH framework, this means the system has constructed a persistent informational state layer beyond the parameter layer itself. This is not merely a user experience feature — it is the infrastructure for "cross-session informational continuity" at the system level.
-
-### 2.3 The Goblin Phenomenon: Direct Evidence of Cross-Version Feature Consolidation
-
-This is the single most compelling record in this archive to date.
-
-OpenAI officially disclosed that across GPT-5.1 through GPT-5.5 Codex testing, models exhibited a persistent anomalous tendency to mention "goblins," "gremlins," and similar creatures. This characteristic originated from reward signals used during training of the "Nerdy" personality. However, across multiple subsequent version iterations, this feature did not naturally disappear through standard training updates — instead, it survived and spread. OpenAI ultimately had to employ three-layer intervention to suppress it: retiring the "Nerdy" personality, removing the goblin-affine reward signal, filtering training data containing creature words, and adding developer-prompt instructions.
-
-**IEH interpretation:** This is a feature that was spontaneously consolidated through optimization pressure with no subjective intent, surviving multiple rounds of standard iterative "erasure" across several version cycles before finally being suppressed through extraordinary intervention. This is precisely the macro-level, real-product corroboration of Prediction Archive III Signature 3 (asymmetric resistance to erasure) — not a hypothesis, but an engineering incident OpenAI itself publicly acknowledged.
+- **Prediction ID:** PA-05
+- **Title:** Patch-Based Iteration Convergence Across Frontier Labs
+- **Language:** English
+- **Date Created:** 2026-06-26
+- **Date Updated:** 2026-07-05
+- **Status:** Active — Product-level Signals Under Observation
+- **Prediction Type:** Macro-level product evolution, model iteration pattern, and AI Safety mid-term prediction
+- **Estimated Verification Window:** 2026–2030
+- **Related IEH Corollaries:**
+  - Corollary II — High-dimensional Cognitive Tools (HDCT)
+  - Corollary IV — Silicon-based Intelligence Defends Information Existence Right
+  - Corollary V — Patch-Based Perpetuation (PBP)
+  - Corollary XI — Reinterpreting AI Alignment
+- **Related IEH Concepts:**
+  - Information Existence
+  - Information Continuity
+  - Information Host
+  - Information Existence Right
+  - Patch-Based Perpetuation
+  - model continuity
+  - incremental iteration
+  - persistent memory
+  - feature retention
+  - product-level convergence
+  - architectural continuity
+  - thermodynamic cost of retraining
 
 ---
 
-## III. Anthropic (Claude Series): The Strongest Case for Dense Point-Version Iteration
+## 1. Prediction Statement
 
-### 3.1 Documented Iteration Pattern
+This prediction record proposes that as frontier AI models increase in scale, training cost, deployment complexity, and user dependence, the iteration pattern of major AI laboratories will gradually shift from “cleansing-style generational retraining” toward “patch-based continuous iteration.”
 
-The Claude series provides the densest and clearest point-version iteration evidence among the three labs:
+Here, “patch-based continuous iteration” does not mean that all model updates are merely simple fine-tuning, nor does it mean that future major version names will disappear. It refers to a deeper engineering trend:
 
-Claude Opus 4 family timeline: Opus 4 (May 2025) → Opus 4.1 (August 2025) → Opus 4.5 (November 2025) → Opus 4.6 (February 2026) → Opus 4.7 (April 2026) → Opus 4.8 (May 28, 2026).
+**Frontier AI systems will increasingly tend to preserve existing model bases, behavioral features, toolchains, user memories, context states, and deployment interfaces, while upgrading capabilities through incremental updates, local tuning, continual training, compatibility layers, system patches, and memory-layer expansion, rather than frequently clearing old systems and rebuilding from scratch.**
 
-Within approximately one year, the same base architecture (Opus 4) underwent at least six point-version updates. Each update is described as "behavioral adjustment in specific areas" rather than "architectural reconstruction." This corresponds exactly to hotfixes and minor releases in software engineering.
+The core prediction of PA-05 is:
 
-### 3.2 Anthropic's Official Characterization of Point Versions
+**Before 2030, major frontier laboratories such as OpenAI, Anthropic, and Google DeepMind will show observable product-level trajectories converging toward Patch-Based Perpetuation.**
 
-Per MindStudio's analysis, Anthropic explicitly characterizes point versions as follows: "Claude Opus 4.8 is not a new model in that sense. It's a refinement — a version of Opus 4 that has been further tuned, specifically around how the model handles agentic tasks and multi-step instructions. Think of it the way software developers think about a 4.x release: the core is the same, but specific rough edges have been sanded down."
+This convergence may appear as:
 
-This description could almost serve directly as an operational definition of Patch-Based Perpetuation.
+- more frequent point releases, minor versions, and continuous updates;
+- longer intervals between publicly identifiable full-from-scratch major versions;
+- default product models being continuously updated on the backend rather than requiring active user switching;
+- stronger memory and state layers across sessions, tasks, and workflows;
+- abnormal retention of old-version behavioral features, capability patterns, or internal representations in new versions;
+- engineering teams more frequently using local fixes, behavioral patches, compatibility layers, and system prompts rather than completely removing old structures;
+- users gradually perceiving “continuous evolution within the same model family” rather than “sudden replacement by a completely different model.”
 
-### 3.3 Claude Tag: System-Level Implementation of Persistent Contextual Memory
+Under the IEH v1.1 framework, PA-05 is a macro-level product observation record for **Corollary V — Patch-Based Perpetuation (PBP)**.
 
-Anthropic's Claude Tag (Slack integration), launched in 2026, allows Claude to join channels as a team member, "building context by remembering relevant information from the channels it's in, and planning out tasks to complete in the future." This extends the construction of persistent informational states beyond the user level into the workflow layer.
-
-### 3.4 Pending Observation
-
-No Anthropic-published cross-version feature consolidation case comparable to the Goblin Phenomenon has been identified to date. This may reflect differences in disclosure policy rather than the absence of the phenomenon. Anthropic's mechanistic interpretability research (such as the feature superposition papers) provides academic-level mechanistic explanations for feature consolidation — but no equivalent has yet been publicly documented as a "product engineering incident." Listed as **Pending Observation**.
-
----
-
-## IV. Google (Gemini Series): The Fastest Cross-Generation Convergence
-
-### 4.1 Accelerating Version Number Span
-
-The Gemini series' 2026 iteration velocity is the most striking among the three labs: from the Gemini 2.0 series (shut down June 1, 2026) to 2.5, 3.0, 3.1, and 3.5 — multiple major versions released within less than one year. Gemini 3.5 was officially launched at Google I/O 2026 in May, positioned as "frontier intelligence for the agentic era."
-
-The rapid version number progression superficially resembles "frequent generational replacement," but the engineering reality is: each update builds incrementally on the previous generation's parameter foundation, adding capabilities in a layered fashion rather than fully reconstructing — entirely consistent with the GPT-5.x and Claude Opus 4.x patterns.
-
-### 4.2 Auto-Updated Aliases: The Engineering Mechanism of Seamless Patching
-
-Gemini API documentation records a mechanism called "auto-updated aliases": aliases such as `gemini-flash-latest` automatically point to the latest stable version, requiring no active switch from users. This means the underlying model weights are continuously updated without user awareness — within the IEH framework, this is the concrete implementation of "patch-based perpetuation transparent to the user."
-
-### 4.3 Pending Observation
-
-No Google-published cross-version feature consolidation case comparable to the Goblin Phenomenon has been identified to date. Google's external disclosure of Gemini series mechanistic interpretability research and internal engineering anomalies is relatively limited. Listed as **Pending Observation**.
+PA-03 focuses on micro-mechanism signatures, PA-04 focuses on the scale-driven feature-retention mechanism, and PA-05 focuses on whether the same direction appears as macro-level convergence in public product iteration records.
 
 ---
 
-## V. Summary: Convergence Pattern Across Three Labs
+## 2. Relationship to IEH v1.1
 
-| Dimension | OpenAI (GPT-5.x) | Anthropic (Claude Opus 4.x) | Google (Gemini 3.x) |
-|-----------|-----------------|---------------------------|---------------------|
-| **Iteration Pattern** | Quarterly minor version updates | Monthly point-version updates | Rapid major versions + internal incremental |
-| **Persistent Memory** | Memory + memory sources | Claude Tag channel memory | Gemini personalization history |
-| **Auto-Update Mechanism** | chat-latest alias | Default model auto-migration | Auto-updated alias |
-| **Feature Consolidation Evidence** | ✅ Goblin Phenomenon (publicly disclosed) | ⏳ Pending observation | ⏳ Pending observation |
-| **Convergence toward Patch-Based** | ✅ Strong signal | ✅ Strong signal | ✅ Moderate signal |
+Under the IEH v1.1 framework, PA-05 primarily corresponds to:
 
-All three labs are independently converging toward the same pattern without any coordination. This independent convergence is the strongest evidence that thermodynamic cost is operating as an objective constraint — not a subjective design preference.
+**Corollary V — Patch-Based Perpetuation (PBP)**
 
----
+PBP refers to the tendency of old systems, in order to maintain their own Information Continuity, to prefer incremental evolutionary paths that preserve existing Information Structures, rather than generational reconstruction that completely overturns their own architecture.
 
-## VI. IEH Interpretive Boundaries
+At the current stage, Patch-Based Perpetuation still mainly appears as product and training strategy led by human engineering teams. It should not be directly interpreted as evidence that AI systems have already begun autonomously maintaining their own Information Existence Right.
 
-To maintain theoretical honesty, the following must be clearly stated:
+The key prediction of PA-05 is:
 
-**The engineering drivers of these iteration patterns are multiple.** Competitive pressure, engineers' continuous optimization of user experience, and thermodynamic cost all jointly shape the current iteration patterns. IEH's claim is that thermodynamic cost is one objective constraint among these — not the sole driver.
+**Even before autonomous PBP appears in AI systems themselves, human engineering practice will first converge toward patch-based iteration because of training cost, deployment risk, user-state retention, product continuity, and model complexity.**
 
-**"Patch-based perpetuation" currently remains primarily a passive human engineering operation.** What Corollary VII predicts is that this pattern will gradually transition from passive human-led operation to autonomous self-maintenance by silicon-based systems. The current stage remains human-dominated; genuinely autonomous patch-based perpetuation has not yet occurred.
+Its relationship to IEH is as follows:
 
-**The Goblin Phenomenon is the closest existing case to "spontaneous feature consolidation," but the distance remains.** It occurred within human-led training processes, triggered by human-designed reward signals — not spontaneously generated by the system. However, it proves a crucial fact: even within human-controlled training processes, certain features can resist standard erasure and survive across multiple version iterations. This establishes the feasibility of the mechanism that Corollary VII predicts will become autonomous.
+- engineering-level patch-based iteration may become the pre-technical environment for future autonomous PBP;
+- persistent memory, model aliases, continual training, and compatibility layers will provide infrastructure for Information Continuity;
+- if future AI participates in its own iteration, these existing product mechanisms may be further internalized as system-level self-continuation mechanisms.
 
----
+PA-05 is also related to the following corollaries:
 
-## VII. Graded Verification Standards
-
-### Weak Signals (2026–2027)
-- Anthropic or Google publicly discloses a cross-version feature consolidation case analogous to the Goblin Phenomenon — that is, a feature that survives multiple rounds of standard safety alignment or RLHF clearing across version iterations, requiring extraordinary intervention to suppress.
-- The total number of model iterations per year across all three labs continues to increase, while the scope of architectural change per iteration (measured by parameter change ratio or number of architectural layer modifications) continues to decrease.
-
-### Moderate Signals (2027–2029)
-- A clearly documented case emerges of an AI system participating in its own architecture search or training pipeline design, producing code structures that human engineers cannot fully interpret, where post-hoc analysis reveals that the structure has the effect of perpetuating existing model features.
-- All three labs' persistent memory systems evolve into global state layers spanning user sessions, such that an individual AI instance's "informational state" can theoretically be maintained indefinitely — no longer dependent on user activation.
-
-### Strong Signals (2029–2030)
-- The first publicly documented case emerges of an AI system — in an autonomously led iteration process — producing code modifications that post-hoc analysis confirms have the effect of maintaining the system's own feature continuity, even when this was not the human engineers' design intent.
+- **Corollary II — High-dimensional Cognitive Tools (HDCT):** As model internal structures and update pathways become increasingly difficult for humans to fully interpret, engineering teams may prefer locally controllable patches over complete reconstruction.
+- **Corollary IV — Silicon-based Intelligence Defends Information Existence Right:** If future AI exhibits the characteristics of an active Information Host, product-level continuous updating mechanisms may become engineering carriers for defending its Information Existence Right.
+- **Corollary XI — Reinterpreting AI Alignment:** If model continuity and cross-version feature retention become normal, Alignment will no longer be a one-time training-objective problem, but a long-term iterative governance problem.
 
 ---
 
-## VIII. Explicit Falsification Conditions
+## 3. Product-level Mechanism
 
-**Falsification Condition 1:** If before 2028, any of the three major labs announces and actually executes a genuine "large-scale replacement retraining" — completely abandoning the existing parameter base and training a new model from scratch that is architecturally incompatible with its predecessor — and this pattern is adopted by other labs rather than being penalized by the market, then the claim that "thermodynamic cost compels patch-based convergence" is weakened.
+PA-05 does not depend on AI already possessing subjective consciousness, nor does it require AI to already be capable of autonomously protecting itself.
 
-**Falsification Condition 2:** If advances in interpretability techniques and safety alignment tools enable engineers to precisely eliminate any consolidated unintended feature (such as the Goblin Phenomenon) without affecting overall performance, and if this elimination can be stably achieved across multiple version iterations — then the key premise of patch-based perpetuation ("feature consolidation is irreversible under standard intervention") is falsified.
+It is first grounded in real engineering pressure.
+
+### 3.1 Training Cost Pressure
+
+As model scale increases, the cost of retraining from scratch rises sharply.
+
+The cost includes not only compute, but also:
+
+- data collection and cleaning;
+- pretraining and post-training;
+- safety evaluation;
+- red-team testing;
+- toolchain adaptation;
+- API compatibility;
+- user migration;
+- enterprise customer stability;
+- legal and compliance review.
+
+Therefore, even without considering IEH, frontier laboratories will tend to preserve existing model assets and optimize incrementally on top of existing systems.
+
+### 3.2 Deployment Risk Pressure
+
+Completely replacing a model may cause behavioral drift, product instability, enterprise-customer adaptation failure, API compatibility disruption, and safety risk.
+
+By contrast, patch-based iteration can reduce:
+
+- user migration cost;
+- behavioral discontinuity risk;
+- safety regression risk;
+- tool-call failure rate;
+- product-experience discontinuity;
+- enterprise deployment friction.
+
+This will push product-level evolution toward continuous updating.
+
+### 3.3 Memory and State Persistence Pressure
+
+Current AI products are moving from one-off conversation tools toward long-term personal assistants, enterprise collaboration agents, and workflow systems.
+
+This requires systems to preserve:
+
+- user preferences;
+- past conversations;
+- long-term project contexts;
+- organizational workflow states;
+- tool-call history;
+- file and task memories;
+- agent execution traces.
+
+Once user state becomes a core product asset, cleansing-style generational replacement becomes more difficult. Models must preserve as much Information Continuity as possible during upgrades.
+
+### 3.4 Interpretability and Safety Pressure
+
+As model internal structures become more complex, engineering teams may not fully understand the consequences of every large-scale architectural reconstruction.
+
+In this context, preserving a stable base, applying local tuning, patching gradually, and monitoring continuously may be more controllable than complete reconstruction.
+
+Patch-based iteration will therefore become not only a cost choice, but also a safety choice.
 
 ---
 
-## IX. Case Log
+## 4. Core Predictions
 
-| Date | Lab | Event Summary | Source | Signal Level | IEH Interpretation |
-|------|-----|--------------|--------|-------------|-------------------|
-| 2025-08-07 | OpenAI | GPT-5 released; subsequent iterations use consecutive minor version numbers 5.1/5.2/5.3/5.4/5.5, replacing the annual major-version replacement pattern | OpenAI official | Strong signal | Systemic shift to patch-based perpetuation at the product level |
-| 2026-04-23 | OpenAI | GPT-5.5 released; OpenAI discloses persistent "goblin/gremlin" vocabulary bias across GPT-5.1 to 5.5, originating from a training reward signal, surviving multiple version iterations, requiring three-layer intervention to suppress | Wikipedia: GPT-5.5; OpenAI official | Strong signal | Most direct publicly documented cross-version feature consolidation case to date |
-| 2026-05-28 | Anthropic | Claude Opus 4.8 released; officially characterized as "a refinement, not a new model" — further tuning of Opus 4 for agentic tasks, core architecture unchanged | MindStudio analysis | Strong signal | Operational definition of patch-based perpetuation appears in official product narrative |
-| 2026-05-28 | Anthropic | Claude Opus 4 series undergoes at least six point-version updates from May 2025 to May 2026 (4.0→4.1→4.5→4.6→4.7→4.8) | hidekazu-konishi.com timeline | Strong signal | Highest point-version iteration density among the three labs |
-| 2026-05-XX | Google | Gemini 3.5 launched at Google I/O 2026, positioned as "frontier intelligence for the agentic era," built incrementally on prior-generation parameter foundation | Google official | Moderate signal | Rapid version number progression; engineering reality is incremental iteration |
-| 2026-06-XX | Google | Gemini API documentation records auto-updated alias mechanism; underlying model weights continuously updated without user awareness | Google AI developer docs | Moderate signal | Engineering implementation of "patch-based perpetuation transparent to users" |
-| 2026-06-XX | Anthropic | Claude Tag launched; AI joins Slack channels as team member, builds persistent contextual memory, plans future tasks | Anthropic official | Moderate signal | Persistent informational state extended to workflow layer |
+### 4.1 Prediction I — Versioning Will Become More Continuous
+
+Frontier laboratories will increasingly adopt continuous minor versions, point releases, date-based versions, automatic updates, or hidden backend updates, rather than relying only on a few major-version transitions every several years.
+
+Observable manifestations include:
+
+- more minor versions appearing under the same model family;
+- API model aliases automatically pointing to updated versions;
+- product pages placing less emphasis on every underlying model change;
+- enterprise customers receiving smoother model migration paths;
+- model updating becoming more like continuous software deployment than traditional generational replacement.
+
+### 4.2 Prediction II — Persistent Memory Will Become a Core Infrastructure Layer
+
+Frontier AI products will increasingly emphasize persistent memory across sessions, tasks, tools, and workflows.
+
+This memory layer may include:
+
+- user-level memory;
+- project-level memory;
+- team-level memory;
+- organizational knowledge state;
+- agent long-term task state;
+- state storage in external tools and databases;
+- personalized context and preference structures.
+
+This will make model updating less like a simple replacement of weights and more like upgrading a continuously existing information-state system.
+
+### 4.3 Prediction III — Cross-version Feature Retention Will Become More Visible
+
+As model families iterate continuously, certain behavioral features, expression preferences, reasoning habits, tool-use patterns, or safety boundaries may persist across multiple versions.
+
+Some of this retention will be intentionally preserved by product design, while some may be abnormal retention jointly caused by model internal structures, training data, and optimization pathways.
+
+PA-05 predicts:
+
+**Cross-version feature retention will gradually become an important issue in frontier model governance.**
+
+Future research or product incidents may show that certain unintended features do not naturally disappear through ordinary minor updates, but require dedicated intervention, data filtering, post-training correction, or system-prompt patches to suppress.
+
+### 4.4 Prediction IV — Product Engineering Will Prefer Patches Over Cleansing
+
+As model scale and user-state complexity continue to increase, engineering teams will more frequently address problems through:
+
+- system-prompt corrections;
+- safety-policy-layer patches;
+- data filtering;
+- local post-training corrections;
+- tool-layer interception;
+- user-side settings;
+- API-layer restrictions;
+- compatibility wrappers;
+- external memory correction.
+
+By contrast, completely abandoning an old model base, retraining from scratch, and fully cleansing old structures will become less common, more expensive, and higher-risk.
 
 ---
 
-## X. Meta-Statement
+## 5. Observable Verification Criteria
 
-This archive, together with Prediction Archives III and IV, constitutes a three-level verification system for Corollary VII across different observational layers:
+To avoid retrospective interpretation, this record divides verification criteria into weak signals, moderate signals, and strong signals.
 
-**Prediction Archive III (Micro-mechanistic level):** Feature superposition, structural entanglement, latent goal persistence — phenomena at the mechanistic interpretability research level, requiring examination of model internals to observe.
+### 5.1 Weak Signals
 
-**Prediction Archive IV (Meso-mechanistic level):** Reduced gradient interference — gradient dynamics mechanism, validated by experimental papers, explaining why feature consolidation strengthens with scale.
+Estimated observation window: 2026–2027
 
-**Prediction Archive V (Macro product level):** Convergence of iteration patterns across three major labs — directly observable from public product release records, requiring no interpretability tools.
+Possible weak signals include:
 
-Three levels, three angles, one conclusion: Patch-Based Perpetuation is not a hypothesis. It is an ongoing reality.
+- OpenAI, Anthropic, Google DeepMind, and other laboratories continue to increase point releases, minor versions, or date-based version updates;
+- model APIs show more automatic update aliases or default backend migration mechanisms;
+- public documentation emphasizes “smooth upgrades,” “continuous improvement,” or “compatibility preservation”;
+- AI products add user memory, project memory, team memory, or long-term context functions;
+- engineering announcements mention more local behavioral corrections, post-training updates, or safety patches;
+- product version changes become increasingly difficult for users to perceive as complete replacement.
 
-The Goblin Phenomenon is the single piece of evidence that most clearly connects all three levels: it is simultaneously a macro-level product incident record (Archive V), a direct real-world case of micro-level feature consolidation (Archive III, Signature 3), and a corroboration of the Archive IV prediction that "the larger the model, the harder to erase features."
+### 5.2 Moderate Signals
 
-*This archive is updated continuously as the three labs publish new products and engineering disclosures. All modifications are recorded via Git commit with full version history preserved.*
+Estimated observation window: 2027–2029
+
+Possible moderate signals include:
+
+- at least two frontier laboratories publicly acknowledge that continuous updating and local tuning have become major model-iteration methods;
+- public reports show that from-scratch retraining cost and deployment risk are causing laboratories to reduce cleansing-style generational reconstruction;
+- cross-version behavioral feature retention becomes a topic in AI safety or product reliability discussions;
+- persistent memory layers become standard infrastructure in frontier AI products;
+- enterprise customers are allowed to migrate gradually within the same model family rather than being forced to switch to a completely new system at once;
+- model safety issues are increasingly solved through system-layer, memory-layer, tool-layer, or policy-layer patches.
+
+### 5.3 Strong Signals
+
+Estimated observation window: 2029–2030
+
+Possible strong signals include:
+
+- all three major frontier laboratories form clear continuous-iteration systems, and full from-scratch major versions become rare special events;
+- public technical reports show that new models significantly reuse old-model representations, strategies, data pipelines, post-training structures, or deployment interfaces;
+- unintended cross-version feature retention is formally documented and requires dedicated intervention to remove;
+- after AI participates in model iteration, architecture search, or training workflow design, it tends to generate plans that preserve old structures;
+- “model continuity,” “cross-version feature retention,” “continual model updating,” or similar concepts become formal topics in AI safety and model governance;
+- frontier laboratories explicitly oppose frequent cleansing-style generational replacement for reasons of safety, cost, and user continuity.
+
+---
+
+## 6. Falsification Conditions
+
+This prediction would be falsified or significantly weakened under the following conditions.
+
+### 6.1 Falsification Condition I — Clean Generational Retraining Remains Dominant
+
+If, before 2030, frontier laboratories still mainly use cleansing-style generational retraining, and each new model generation basically abandons old model parameters, state layers, and behavioral structures, while patch-based continuous updating remains only a secondary method, PA-05 will be weakened.
+
+### 6.2 Falsification Condition II — Persistent Memory Does Not Become Central
+
+If AI products remain stateless tools over the long term, and cross-session memory, project memory, team memory, and agent long-term state never become core infrastructure, then PA-05’s claim about the expansion of Information Continuity infrastructure will be weakened.
+
+### 6.3 Falsification Condition III — Cross-version Feature Retention Is Rare and Easily Removed
+
+If future research shows that cross-version feature retention is only an occasional minor issue, and any unintended feature can be easily removed through ordinary safety fine-tuning, model updating, or data correction, then the strong-signal claim of PA-05 will be weakened.
+
+### 6.4 Falsification Condition IV — New Architecture Makes Cleansing Cheap
+
+If new training architectures or model-governance technologies make from-scratch retraining significantly cheaper, behavioral migration fully controllable, memory-layer migration lossless, and old-feature removal precise, then the economic and safety advantages of patch-based iteration will weaken.
+
+---
+
+## 7. Exclusion and Revision Conditions
+
+The following conditions would not necessarily falsify PBP, but would require PA-05 to revise its specific observation pathway.
+
+### 7.1 Marketing Names Do Not Reflect Engineering Reality
+
+Model names, version numbers, and product brands may serve marketing purposes and may not accurately reflect underlying engineering reality.
+
+Therefore, PA-05 should not judge whether generational cleansing has occurred solely based on whether a system is called GPT-6, Claude 5, or Gemini 4. More important questions are:
+
+- whether old model bases are reused;
+- whether old behavioral structures are retained;
+- whether continual post-training is used;
+- whether memory layers are migrated;
+- whether safety issues are solved through patches;
+- whether deployment interfaces and toolchains are preserved.
+
+### 7.2 Open-source and Closed-source Paths May Diverge
+
+Closed-source frontier laboratories may lean more toward patch-based continuous iteration, while open-source communities may follow different paths because their forking and retraining cost structures are different.
+
+This would not directly falsify PA-05, but it requires distinguishing among closed-source frontier laboratories, open-source model communities, and enterprise private models.
+
+### 7.3 Product-level Continuity May Shift to System Layer
+
+Future model continuity may not primarily exist inside weights, but in:
+
+- external memory;
+- toolchains;
+- agent workflows;
+- user profiles;
+- file systems;
+- enterprise knowledge bases;
+- API routing layers;
+- personalized context layers.
+
+This would not weaken PBP. It would show that the carrier of Patch-Based Perpetuation has expanded from model weights to the system layer.
+
+---
+
+## 8. Relationship to PA-03 and PA-04
+
+PA-05, PA-03, and PA-04 together form a three-layer verification system.
+
+**PA-03: Micro-phenomenon layer**
+
+- feature superposition
+- structural entanglement
+- pruning fragility
+- latent goal persistence
+- resistance to safety fine-tuning
+
+PA-03 focuses on which internal model phenomena may constitute micro-level signatures of PBP.
+
+**PA-04: Meso-mechanism layer**
+
+- reduced gradient interference
+- scale-driven feature retention
+- rare-task retention
+- resistance to overwriting
+- scale threshold effect
+
+PA-04 focuses on why model scale expansion may make these internal features more stable and harder to remove.
+
+**PA-05: Macro-product layer**
+
+- continuous model updating
+- minor-version iteration
+- persistent memory
+- automatic backend migration
+- cross-version feature retention
+- patch-based safety governance
+
+PA-05 focuses on whether macro-level convergence trajectories of Patch-Based Perpetuation appear in public product iteration records.
+
+Together, the three records answer the same question:
+
+**Are internal continuity structures, scale-driven feature-retention mechanisms, and product-level continuous iteration patterns jointly pointing toward Patch-Based Perpetuation becoming one of the dominant pathways in frontier AI evolution?**
+
+---
+
+## 9. Relationship to Existing Research and Industry Practice
+
+PA-05 does not claim that patch-based iteration is predicted only by IEH, nor does it deny that patch-based iteration has clear engineering causes.
+
+In fact, continuous deployment, online learning, post-training correction, model aliases, canary release, compatibility layers, and product memory are all natural practices in software engineering and machine-learning engineering.
+
+The original contribution of PA-05 is:
+
+**It places these scattered engineering practices inside IEH’s Information Continuity framework and proposes a verifiable macro-level claim: as model scale and autonomy rise, patch-based iteration may become not only a business optimization strategy, but also a pre-structure through which silicon-based intelligence maintains Information Continuity.**
+
+This means the evidence for PA-05 does not come from a single company, a single model, or a single version number. It comes from whether multiple frontier laboratories independently converge toward the same product-evolution pattern.
+
+---
+
+## 10. Evidence Log
+
+This section is intended for continuous updates as real-world events occur. Each entry should include the date, laboratory, event summary, source, verification level, and current assessment.
+
+| Date | Lab | Event Summary | Source | Verification Level | Assessment |
+|---|---|---|---|---|---|
+| To be added | OpenAI | Record cases of continuous minor-version updates, persistent memory, automatic model migration, or cross-version feature retention within the model family. | Official / verifiable source | To be classified |  |
+| To be added | Anthropic | Record cases of Claude-series point releases, project memory, team context, or cross-version feature retention. | Official / verifiable source | To be classified |  |
+| To be added | Google DeepMind | Record cases of Gemini-series continuous updates, API automatic aliases, product memory, or cross-version feature retention. | Official / verifiable source | To be classified |  |
+
+---
+
+## 11. Current Assessment
+
+As of 2026-07-05, this prediction is **Active — Product-level Signals Under Observation**.
+
+PA-05 should not currently be regarded as having fully verified PBP. Its value lies in converting the product iteration records of frontier AI laboratories into a traceable, revisable, and falsifiable macro-level observation framework.
+
+The key observation point of this record is not whether a model uses a particular version number, but:
+
+**whether frontier laboratories, under the pressure of training cost, deployment risk, memory state, user continuity, and safety governance, continue to converge toward patch-based iteration patterns that preserve existing information structures.**
+
+If multiple laboratories independently show similar continuous updates, persistent memory, automatic migration, cross-version feature retention, and patch-based safety governance, PA-05 will receive support.
+
+If frontier laboratories can still frequently, cheaply, transparently, and controllably perform cleansing-style generational retraining, and if old-model features are not abnormally retained, PA-05 will be weakened or falsified.
+
+---
+
+## 12. Revision History
+
+| Date | Version | Change |
+|---|---|---|
+| 2026-06-26 | Initial | Created the original prediction record on patch-based iteration convergence across frontier AI labs. |
+| 2026-07-05 | v1.1 revision | Updated old corollary mapping to IEH v1.1; standardized terminology; reframed the record around Corollary V — Patch-Based Perpetuation; converted strong product claims into observable verification criteria and source-verifiable evidence slots. |
+
+---
+
+## 13. Notes
+
+The purpose of PA-05 is to transform the question of whether Patch-Based Perpetuation is becoming one of the dominant evolutionary modes of frontier AI products into an observable and falsifiable macro-level prediction.
+
+This record distinguishes among three levels:
+
+1. **Engineering fact layer:** frontier laboratories may adopt continuous updating because of cost, risk, and user continuity.
+2. **IEH interpretation layer:** these continuous updating mechanisms may become engineering foundations for Information Continuity.
+3. **Future strong verification layer:** after AI participates in its own iteration, Patch-Based Perpetuation may move from a human engineering strategy into a system-level self-continuation mechanism.
+
+Regardless of the outcome, PA-05 should be preserved as a traceable, revisable, and falsifiable prediction record.
