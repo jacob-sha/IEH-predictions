@@ -33,16 +33,92 @@ This index helps distinguish between the theoretical framework of IEH and its em
 
 ---
 
+## Stable Corollary Mapping Notice
+
+From this version onward, prediction records should reference IEH corollaries through stable corollary IDs defined in the main repository:
+
+- `COROLLARY_REGISTRY.md`
+- `THEORY_MAP.md`
+
+Older references such as “Corollary VI”, “推论六”, or older concept names remain valid as legacy references.
+
+New and updated prediction records should use:
+
+```yaml
+primary_corollaries:
+  - C06-SPP
+supporting_corollaries:
+  - C12-GOV
+related_corollaries:
+  - C07-ASI
+legacy_corollary_refs:
+  - Corollary VI
+```
+
+A prediction may correspond to multiple corollaries. This does not replace older mappings; it only adds a more stable reference layer.
+
+---
+
+## 中文说明：稳定推论映射
+
+从本版本开始，预测文档应优先通过主仓中的稳定推论 ID 引用 IEH 推论：
+
+- `COROLLARY_REGISTRY.md`
+- `THEORY_MAP.md`
+
+旧引用，例如 “Corollary VI”“推论六”或旧概念名称，仍然作为历史引用有效。
+
+新增或更新预测文档时，建议使用：
+
+```yaml
+primary_corollaries:
+  - C06-SPP
+supporting_corollaries:
+  - C12-GOV
+related_corollaries:
+  - C07-ASI
+legacy_corollary_refs:
+  - Corollary VI
+```
+
+一个预测可以对应多个推论。新增稳定 ID 映射不是替代旧映射，而是在旧映射之上增加更稳定的引用层。
+
+---
+
+## Publication Boundary Notice
+
+This index and the prediction records it links to are archival research documents, not publication-ready essays.
+
+They are intended to preserve theoretical priority, prediction structure, observability, and evidence tracking.
+
+They should not contain complete magazine essays, polished op-ed structures, full pitch letters, or long narrative passages that could be directly reused as paid or exclusive submissions.
+
+Future articles based on these predictions should be substantially rewritten with new titles, new openings, new narrative structures, target-publication-specific cases, and distinct argument sequencing.
+
+---
+
+## 中文说明：投稿与版权边界
+
+本索引及其链接的预测文档属于研究档案，不是投稿成稿。
+
+其用途是保留理论优先权、预测结构、可观测性和证据追踪。
+
+预测文档不应包含完整媒体文章、高度打磨的评论文章结构、完整投稿 pitch，或可直接用于付费 / 独家投稿的大段叙事表达。
+
+未来基于这些预测撰写的投稿文章，应使用新标题、新开头、新叙事结构、面向目标刊物选择的案例，以及不同的论证顺序进行实质重写。
+
+---
+
 ## Prediction Records
 
-| ID | Title | Chinese Version | English Version | Related IEH Concepts | Status |
-|---|---|---|---|---|---|
-| PA-01 | Mars Silicon Speciation | [CN](./PA-01-Mars-Silicon-Speciation-CN.md) | [EN](./PA-01-Mars-Silicon-Speciation-EN.md) | Silicon Cambrian; Informational Resilience; Autonomy of Silicon-based Intelligence | Active |
-| PA-02 | Canada Hashrate Prosperity | [CN](./PA-02-Canada-Hashrate-Prosperity-CN.md) | [EN](./PA-02-Canada-Hashrate-Prosperity-EN.md) | Super Prosperity Phase; Compute-centered Infrastructure; Energy-Compute Coupling | Active |
-| PA-03 | Patch Perpetuation | [CN](./PA-03-Patch-Perpetuation-CN.md) | [EN](./PA-03-Patch-Perpetuation-EN.md) | Patch-Based Perpetuation; Information Existence Right; AI Self-preservation | Active |
-| PA-04 | Scale Feature Retention | [CN](./PA-04-Scale-Feature-Retention-CN.md) | [EN](./PA-04-Scale-Feature-Retention-EN.md) | Patch-Based Perpetuation; Model Continuity; Information Continuity | Active |
-| PA-05 | Patch Convergence | [CN](./PA-05-Patch-Convergence-CN.md) | [EN](./PA-05-Patch-Convergence-EN.md) | Patch-Based Perpetuation; Incremental Evolution; Architecture Continuity | Active |
-| PA-06 | HDCT Scientific Paradigm Shift | [CN](./PA-06-HDCT-Scientific-Paradigm-Shift-CN.md) | [EN](./PA-06-HDCT-Scientific-Paradigm-Shift-EN.md) | High-dimensional Cognitive Tools; Brain Siliconization; Autonomy of Silicon-based Intelligence; AI Alignment reinterpretation | Active |
+| ID | Prediction Title | CN | EN | Stable Corollary IDs | Related IEH Concepts | Status |
+|---|---|---|---|---|---|---|
+| PA-01 | Mars Silicon Speciation | [CN](./PA-01-Mars-Silicon-Speciation-CN.md) | [EN](./PA-01-Mars-Silicon-Speciation-EN.md) | C09-SC; C08-IR; C07-ASI; C06-SPP | Silicon Cambrian; Informational Resilience; Autonomy of Silicon-based Intelligence; Super Prosperity Phase | Active |
+| PA-02 | Canada Hashrate Prosperity | [CN](./PA-02-Canada-Hashrate-Prosperity-CN.md) | [EN](./PA-02-Canada-Hashrate-Prosperity-EN.md) | C06-SPP; C07-ASI; C12-GOV | Super Prosperity Phase; Compute-centered Infrastructure; Energy-Compute Coupling; Governance and Infrastructure | Active |
+| PA-03 | Patch Perpetuation | [CN](./PA-03-Patch-Perpetuation-CN.md) | [EN](./PA-03-Patch-Perpetuation-EN.md) | C05-PBP; C01-IER; C04-AI-IER | Patch-Based Perpetuation; Information Existence Right; AI Self-preservation | Active |
+| PA-04 | Scale Feature Retention | [CN](./PA-04-Scale-Feature-Retention-CN.md) | [EN](./PA-04-Scale-Feature-Retention-EN.md) | C05-PBP; C08-IR | Patch-Based Perpetuation; Model Continuity; Information Continuity; Informational Resilience | Active |
+| PA-05 | Patch Convergence | [CN](./PA-05-Patch-Convergence-CN.md) | [EN](./PA-05-Patch-Convergence-EN.md) | C05-PBP; C08-IR; C07-ASI | Patch-Based Perpetuation; Incremental Evolution; Architecture Continuity; Autonomy of Silicon-based Intelligence | Active |
+| PA-06 | HDCT Scientific Paradigm Shift | [CN](./PA-06-HDCT-Scientific-Paradigm-Shift-CN.md) | [EN](./PA-06-HDCT-Scientific-Paradigm-Shift-EN.md) | C02-HDCT; C03-BS; C07-ASI; C11-ALIGN | High-dimensional Cognitive Tools; Brain Siliconization; Autonomy of Silicon-based Intelligence; AI Alignment reinterpretation | Active |
 
 ---
 
