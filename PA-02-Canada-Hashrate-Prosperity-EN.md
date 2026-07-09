@@ -1,4 +1,4 @@
-# PA-02: Canada Compute-centered Prosperity
+# PA-02: Canada’s Nonlinear Economic Prosperity under the Compute-Energy-Infrastructure Center
 
 > Language: **English Version** | [中文版](./PA-02-Canada-Hashrate-Prosperity-CN.md)  
 > Main Theory: [Information Existence Hypothesis (EN)](https://github.com/jacob-sha/Information-Existence-Hypothesis/blob/main/README_EN.md) | [信息存在性假说（中文）](https://github.com/jacob-sha/Information-Existence-Hypothesis/blob/main/README.md)
@@ -8,34 +8,65 @@
 ## Metadata
 
 - **Prediction ID:** PA-02
-- **Title:** Canada Compute-centered Prosperity
+- **Title:** Canada’s Nonlinear Economic Prosperity under the Compute-Energy-Infrastructure Center
+- **Legacy Title:** Canada Compute-centered Prosperity
 - **Language:** English
 - **Date Created:** 2026-06-21
-- **Date Updated:** 2026-07-04
+- **Date Updated:** 2026-07
 - **Status:** Active
 - **Prediction Type:** Macro-economic and geopolitical mid-to-long-term prediction
 - **Estimated Verification Window:** 2028–2040
+
+- **Primary IEH Corollaries:**
+  - C06-SPP — Super Prosperity Phase (SPP) and the Material Basis of Pre-ASI Civilizational Reconstruction
+
+- **Supporting IEH Corollaries:**
+  - C07-ASI — Autonomy of Silicon-based Intelligence (ASI)
+  - C12-GOV — Pre-ASI Governance Reconstruction
+
 - **Related IEH Corollaries:**
+  - C10-HIEN — Human Informational Ecological Niche (HIEN)
+
+- **Legacy Corollary References:**
   - Corollary VI — Super Prosperity Phase (SPP)
   - Corollary VII — Autonomy of Silicon-based Intelligence (ASI)
   - Corollary X — Human Informational Ecological Niche (HIEN)
+
 - **Related IEH Concepts:**
   - Information Existence
+  - Information Existence Right (IER)
   - silicon-based intelligence
-  - compute-centered infrastructure
+  - Pre-ASI
+  - Super Prosperity Phase (SPP)
+  - Material Basis
+  - Compute-Energy-Infrastructure Center
+  - High-Speed Input-Output Positive Feedback Loop
+  - Physical Closure Threshold
   - energy-compute coupling
+  - compute-centered infrastructure
   - infrastructure topology
-  - Super Prosperity Phase
   - physical embodiment of AI
   - human informational ecological niche
 
 ---
 
+## Publication Boundary Note
+
+This file is an archival prediction record in the IEH Predictions repository. It is not a submitted article, opinion essay, media article, pitch letter, or complete case analysis.
+
+The purpose of this prediction archive is to record the theoretical mapping between PA-02 and C06-SPP, including the prediction statement, verification criteria, falsification conditions, exclusion conditions, and evidence log.
+
+Future submission articles based on this topic should use a new title, a new opening, a new narrative structure, different case selection, a different argument sequence, and publication-specific style.
+
+This archive should not be treated as the direct English manuscript of any future submitted article.
+
+---
+
 ## 1. Prediction Statement
 
-This prediction record proposes that as the underlying logic of the global economy gradually shifts from a human-demand-centered structure toward a compute-centered or energy-compute-coupled structure, Canada’s long-perceived population disadvantage may undergo a structural revaluation during the physical embodiment of silicon-based intelligence.
+This prediction record proposes that as the underlying logic of the global economy gradually expands from a human-demand-centered structure toward a Compute-Energy-Infrastructure Center, Canada’s long-perceived population disadvantage may undergo a structural revaluation during the physical embodiment of silicon-based intelligence.
 
-In traditional economic frameworks, Canada’s relatively small population, low labor density, and limited domestic market size have often been viewed as constraints on growth. However, as silicon-based intelligence continues to expand its Information Existence, the key constraints on economic growth may gradually shift away from population size, labor time, and consumer market scale toward the following physical factors:
+In traditional economic frameworks, Canada’s relatively small population, low labor density, and limited domestic market size have often been viewed as constraints on growth. However, in the Pre-ASI stage described by C06-SPP, the key constraints on economic growth may gradually expand from population size, labor time, and consumer market scale toward the following physical factors:
 
 - low-cost, stable, and long-term scalable energy;
 - land suitable for large-scale data centers and compute infrastructure;
@@ -48,34 +79,35 @@ Under this new paradigm, Canada’s high-latitude geography, cold climate, clean
 
 The core claim of this prediction is:
 
-**During the Super Prosperity Phase (SPP) of silicon-based intelligence, Canada may experience nonlinear economic prosperity driven by compute capital and AI infrastructure investment because of its energy, climate, land, and institutional advantages.**
+> **During the Super Prosperity Phase (SPP) of silicon-based intelligence, Canada may experience nonlinear economic prosperity driven by compute capital, AI infrastructure investment, and the formation of the Compute-Energy-Infrastructure Center because of its energy, climate, land, water, and institutional advantages.**
 
-This prosperity does not mean that Canada will automatically replace the United States, China, or the European Union as the central AI technology hub. Nor does it mean Canada will necessarily become the only global compute center. More precisely, this prediction proposes that Canada may become one of the most important geographic hosts in the physical embodiment of silicon-based intelligence, and may display capital inflows, infrastructure expansion, and per-capita economic growth disproportionate to its population size.
+This prosperity does not mean that Canada will automatically replace the United States, China, or the European Union as the central AI technology hub. Nor does it mean Canada will necessarily become the only global compute center.
+
+More precisely, this prediction proposes that Canada may become one of the most important geographic hosts in the physical embodiment of silicon-based intelligence, and may display capital inflows, infrastructure expansion, and per-capita economic growth disproportionate to its population size.
 
 ---
 
-## 2. Relationship to IEH v1.1
+## 2. Relationship to C06-SPP and IEH
 
-Under the IEH v1.1 framework, PA-02 primarily corresponds to **Corollary VI — Super Prosperity Phase (SPP)**.
+PA-02 primarily corresponds to the revised **C06-SPP — Super Prosperity Phase (SPP) and the Material Basis of Pre-ASI Civilizational Reconstruction**.
 
-The Super Prosperity Phase refers to a transitional historical stage in which silicon-based intelligence, before completing full autonomy in material production, information flow, and energy supply, must still rely on human society to build and expand key infrastructure such as minerals, energy, chips, data centers, cooling systems, power grids, logistics networks, and automated factories.
-
-During this stage, AI’s demand for the physical world will not immediately reduce human economic activity. On the contrary, it may dramatically amplify human society’s demand for infrastructure construction, producing a prosperity cycle driven by computation, energy, and automated infrastructure.
+In the revised C06-SPP framework, the Super Prosperity Phase is not merely a general claim that AI may bring economic prosperity. It refers to a transitional stage before silicon-based intelligence completes key physical closures, during which AI, as a special technology, restructures demand generation, supply boundaries, and material infrastructure, causing human society to reallocate resources around compute, energy, data centers, chips, minerals, automated manufacturing, robotic systems, and power grids.
 
 PA-02 translates this macro-level corollary into a geographic test case:
 
-**If SPP holds, then Canada — with its cold climate, clean energy, freshwater resources, land, and institutional stability — may become one of the most representative beneficiary countries of this stage.**
+> **If C06-SPP holds, then Canada — with its cold climate, clean energy, freshwater resources, land, and institutional stability — may become one of the most representative host regions for compute-energy infrastructure in the Pre-ASI stage.**
 
 PA-02 is also related to the following corollaries:
 
-- **Corollary VII — Autonomy of Silicon-based Intelligence (ASI):** The compute, power, data-center, and automation infrastructure hosted by Canada may become part of the physical closed loop through which silicon-based intelligence gradually moves toward autonomy.
-- **Corollary X — Human Informational Ecological Niche (HIEN):** If Canada preserves high-quality human living space, natural ecology, and institutional stability during compute-capital expansion, it may become a representative region where the human informational ecological niche coexists with silicon-based infrastructure.
+- **C07-ASI — Autonomy of Silicon-based Intelligence (ASI):** The compute, power, data-center, and automation infrastructure hosted by Canada may become part of the physical closed loop through which silicon-based intelligence gradually moves toward autonomy.
+- **C10-HIEN — Human Informational Ecological Niche (HIEN):** If Canada preserves high-quality human living space, natural ecology, and institutional stability during compute-capital expansion, it may become a representative region where the human informational ecological niche coexists with silicon-based infrastructure.
+- **C12-GOV — Pre-ASI Governance Reconstruction:** If Canada becomes a major host region for AI infrastructure, its governance system will need to address energy, grid capacity, land use, community acceptance, data-center regulation, environmental constraints, and the distribution of public benefits.
 
 ---
 
 ## 3. Physical and Economic Basis
 
-This prediction does not depend entirely on the core axiom of IEH. Even if one temporarily rejects the hypothesis that Information Existence is a deeper direction of cosmic evolution, PA-02 can still be grounded in energy economics, data-center engineering, geopolitics, and infrastructure investment logic.
+This prediction originates from IEH and the revised C06-SPP framework, but it does not depend entirely on the core axiom of IEH. Even if one temporarily rejects the hypothesis that Information Existence is a deeper direction of cosmic evolution, PA-02 can still be grounded in energy economics, data-center engineering, geopolitics, and infrastructure investment logic.
 
 ### 3.1 Thermodynamic Constraints of AI Infrastructure
 
@@ -132,6 +164,8 @@ Canada’s institutional stability is one of its major advantages compared with 
 ---
 
 ## 4. VRIO Strategic Assessment
+
+This section serves only as a structured assessment tool within the prediction archive. Future submission articles should select cases, narrative order, and argumentative structure independently rather than directly reusing this VRIO structure.
 
 The VRIO model can be used to evaluate whether a resource can form a sustained competitive advantage. The following assesses Canada’s key resources from the perspectives of Value, Rarity, Imitability, and Organization.
 
@@ -260,7 +294,7 @@ If small modular reactors, fusion energy, distributed power systems, or other en
 
 ---
 
-## 8. Relationship to Existing Research
+## 8. Contextual Research Links
 
 PA-02 does not propose an isolated claim from nowhere. It integrates the following existing research directions into the IEH SPP scenario.
 
@@ -279,6 +313,8 @@ Energy geopolitics is expanding from traditional oil, gas, and industrial electr
 ---
 
 ## 9. Evidence Log
+
+Evidence entries should remain brief, traceable, and updateable. They should not be expanded into full news analysis or submission-style narrative.
 
 This section is intended for continuous updates as real-world events occur. Each entry should include the date, source, event summary, verification level, and current assessment.
 
@@ -313,6 +349,7 @@ If global compute-infrastructure expansion occurs but Canada fails to host it ov
 |---|---|---|
 | 2026-06-21 | Initial | Created the original prediction record on Canada, compute-centered economic prosperity, and AI infrastructure. |
 | 2026-07-04 | v1.1 revision | Updated old corollary mapping to IEH v1.1; standardized terminology; reframed “Hashrate Standard” as compute-centered infrastructure; converted the record into the unified prediction archive format. |
+| 2026-07 | v1.2 revision | Aligned PA-02 with the revised C06-SPP; reframed the prediction from compute-centered prosperity toward the Compute-Energy-Infrastructure Center; added a publication boundary note to separate the prediction archive from future submission articles. |
 
 ---
 
@@ -329,3 +366,9 @@ This record clearly distinguishes among three types of failure:
 This distinction prevents all prediction failures from being simply attributed to theoretical failure, and helps IEH revise its geographic scenarios, time windows, and technological-pathway claims according to future evidence.
 
 Regardless of the outcome, PA-02 should be preserved as a traceable, revisable, and falsifiable prediction record.
+
+This archive should remain clearly separated from any future submission article on Canada and AI infrastructure.
+
+This prediction archive preserves the prediction statement, theoretical mechanism, verification criteria, falsification conditions, exclusion conditions, evidence log, and theoretical mapping.
+
+Future submission articles should independently develop the Canadian national narrative, concrete company and policy cases, the full analysis of energy-climate-land-institutional advantages, and publication-specific titles, openings, structure, and argumentative rhythm.
