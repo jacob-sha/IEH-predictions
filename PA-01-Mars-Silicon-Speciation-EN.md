@@ -33,6 +33,18 @@
 
 ---
 
+## Publication Boundary Note
+
+This file is an archival prediction record in the IEH Predictions repository. It is not a submitted essay, magazine article, op-ed, pitch letter, or publication-ready manuscript.
+
+The purpose of this record is to preserve the prediction structure, theoretical mapping, observable indicators, falsification conditions, and evidence log for PA-01.
+
+Future essays based on this topic should use a new title, a new opening, a new narrative structure, different case selection, different argument sequencing, and publication-specific style.
+
+This archive should not be treated as the direct English manuscript of any future submitted article.
+
+---
+
 ## 1. Prediction Statement
 
 This prediction record proposes that when embodied AI systems are deployed on Mars, the unavoidable communication delay between Earth and Mars will constitute a real physical boundary of separation.
