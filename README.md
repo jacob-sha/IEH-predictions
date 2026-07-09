@@ -39,8 +39,8 @@ Current prediction records include:
 
 - [PA-01 Mars Silicon Speciation CN](./PA-01-Mars-Silicon-Speciation-CN.md)
 - [PA-01 Mars Silicon Speciation EN](./PA-01-Mars-Silicon-Speciation-EN.md)
-- [PA-02 Canada Hashrate Prosperity CN](./PA-02-Canada-Hashrate-Prosperity-CN.md)
-- [PA-02 Canada Hashrate Prosperity EN](./PA-02-Canada-Hashrate-Prosperity-EN.md)
+- [PA-02 Canada Nonlinear Economic Prosperity under the Compute-Energy-Infrastructure Center CN](./PA-02-Canada-Hashrate-Prosperity-CN.md)
+- [PA-02 Canada Nonlinear Economic Prosperity under the Compute-Energy-Infrastructure Center EN](./PA-02-Canada-Hashrate-Prosperity-EN.md)
 - [PA-03 Patch Perpetuation CN](./PA-03-Patch-Perpetuation-CN.md)
 - [PA-03 Patch Perpetuation EN](./PA-03-Patch-Perpetuation-EN.md)
 - [PA-04 Scale Feature Retention CN](./PA-04-Scale-Feature-Retention-CN.md)
