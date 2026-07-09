@@ -119,7 +119,7 @@ Future articles based on these predictions should be substantially rewritten wit
 | PA-04 | Scale Feature Retention | [CN](./PA-04-Scale-Feature-Retention-CN.md) | [EN](./PA-04-Scale-Feature-Retention-EN.md) | C05-PBP; C08-IR | Patch-Based Perpetuation; Model Continuity; Information Continuity; Informational Resilience | Active |
 | PA-05 | Patch Convergence | [CN](./PA-05-Patch-Convergence-CN.md) | [EN](./PA-05-Patch-Convergence-EN.md) | C05-PBP; C08-IR; C07-ASI | Patch-Based Perpetuation; Incremental Evolution; Architecture Continuity; Autonomy of Silicon-based Intelligence | Active |
 | PA-06 | HDCT Scientific Paradigm Shift | [CN](./PA-06-HDCT-Scientific-Paradigm-Shift-CN.md) | [EN](./PA-06-HDCT-Scientific-Paradigm-Shift-EN.md) | C02-HDCT; C03-BS; C07-ASI; C11-ALIGN | High-dimensional Cognitive Tools; Brain Siliconization; Autonomy of Silicon-based Intelligence; AI Alignment reinterpretation | Active |
-
+| PA-07 | AI Infrastructure Capex Structural Expansion | [CN](./PA-07-AI-Infrastructure-Capex-Structural-Expansion-CN.md) | TBD | C06-SPP; C07-ASI; C12-GOV; C13-WAR | Super Prosperity Phase; AI Infrastructure Capex; Compute-Energy-Infrastructure Center; Material Basis; Physical Infrastructure Expansion | Active
 ---
 
 ## Status Categories
