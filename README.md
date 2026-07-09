@@ -49,6 +49,7 @@ Current prediction records include:
 - [PA-05 Patch Convergence EN](./PA-05-Patch-Convergence-EN.md)
 - [PA-06 HDCT Scientific Paradigm Shift CN](./PA-06-HDCT-Scientific-Paradigm-Shift-CN.md)
 - [PA-06 HDCT Scientific Paradigm Shift EN](./PA-06-HDCT-Scientific-Paradigm-Shift-EN.md)
+- * [PA-07 AI Infrastructure Capex Structural Expansion CN](./PA-07-AI-Infrastructure-Capex-Structural-Expansion-CN.md)
 
 ---
 
