@@ -1,34 +1,37 @@
-\# PA-08：能源—算力耦合强化预测
+# PA-08：能源—算力耦合强化预测
 
-\# Energy–Compute Coupling Intensification Prediction
+# Energy–Compute Coupling Intensification Prediction
 
+> Language: **中文版** |  [English Version](./PA-08-Energy-Compute-Coupling-Intensification-EN.md)  
+> Main Theory: [Information Existence Hypothesis (EN)](https://github.com/jacob-sha/Information-Existence-Hypothesis/blob/main/README_EN.md) | [信息存在性假说（中文）](https://github.com/jacob-sha/Information-Existence-Hypothesis/blob/main/README.md)
 
+---
 
-\## Metadata
-
-
-
-\- \*\*Prediction ID:\*\* PA-08
-
-\- \*\*Chinese Title:\*\* 能源—算力耦合强化预测
-
-\- \*\*English Title:\*\* Energy–Compute Coupling Intensification Prediction
-
-\- \*\*Status:\*\* Active
-
-\- \*\*Type:\*\* Structural Prediction / Infrastructure Prediction / Energy–Compute Coupling
-
-\- \*\*Related Corollaries:\*\* C06-SPP; C07-ASI; C12-GOV
-
-\- \*\*Related Concepts:\*\* Super Prosperity Phase; Compute-Energy-Infrastructure Center; AI Infrastructure; Energy Demand; Grid Planning; Physical Infrastructure Expansion
-
-\- \*\*Created:\*\* 2026-07
-
-\- \*\*Author:\*\* Jacob Sha
+## Metadata
 
 
 
-\## Publication Boundary Note / 投稿与版权边界说明
+- **Prediction ID:** PA-08
+
+- **Chinese Title:** 能源—算力耦合强化预测
+
+- **English Title:** Energy–Compute Coupling Intensification Prediction
+
+- **Status:** Active
+
+- **Type:** Structural Prediction / Infrastructure Prediction / Energy–Compute Coupling
+
+- **Related Corollaries:** C06-SPP; C07-ASI; C12-GOV
+
+- **Related Concepts:** Super Prosperity Phase; Compute-Energy-Infrastructure Center; AI Infrastructure; Energy Demand; Grid Planning; Physical Infrastructure Expansion
+
+- **Created:** 2026-07
+
+- **Author:** Jacob Sha
+
+
+
+## Publication Boundary Note / 投稿与版权边界说明
 
 
 
@@ -48,11 +51,11 @@
 
 
 
-\---
+---
 
 
 
-\## 1. Prediction Statement / 预测陈述
+## 1. Prediction Statement / 预测陈述
 
 
 
@@ -72,11 +75,11 @@
 
 
 
-\---
+---
 
 
 
-\## 2. Theoretical Mapping / 理论映射
+## 2. Theoretical Mapping / 理论映射
 
 
 
@@ -100,11 +103,11 @@ PA-08 关注其中一个核心机制：
 
 
 
-\---
+---
 
 
 
-\## 3. Mechanism / 机制推演
+## 3. Mechanism / 机制推演
 
 
 
