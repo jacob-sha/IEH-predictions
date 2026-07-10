@@ -52,10 +52,9 @@ Current prediction records include:
 - [PA-07 AI Infrastructure Capex Structural Expansion CN](./PA-07-AI-Infrastructure-Capex-Structural-Expansion-CN.md) 
 - [PA-07 AI Infrastructure Capex Structural Expansion EN](./PA-07-AI-Infrastructure-Capex-Structural-Expansion-EN.md)
 - [PA-08 Energy–Compute Coupling Intensification CN](./PA-08-Energy-Compute-Coupling-Intensification-CN.md) 
-- [PA-08 Energy–Compute Coupling Intensification CN](./PA-08-Energy-Compute-Coupling-Intensification-EN.md)
-
-- **PA-09:** Physical Closure Threshold  
-  [CN](./PA-09-Physical-Closure-Threshold-CN.md) / [EN](./PA-09-Physical-Closure-Threshold-EN.md)
+- [PA-08 Energy–Compute Coupling Intensification EN](./PA-08-Energy-Compute-Coupling-Intensification-EN.md)
+- [PA-09 Physical Closure Threshold CN](./PA-09-Physical-Closure-Threshold-CN.md)
+- [PA-09 Physical Closure Threshold EN](./PA-09-Physical-Closure-Threshold-EN.md)
 
 ---
 
