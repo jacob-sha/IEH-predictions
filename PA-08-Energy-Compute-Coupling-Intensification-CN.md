@@ -151,4 +151,3 @@ PA-08 观察的是：
 ## 9. Revision History / 修订记录
 
 - **2026-07:** Initial Chinese version created.
-"""
