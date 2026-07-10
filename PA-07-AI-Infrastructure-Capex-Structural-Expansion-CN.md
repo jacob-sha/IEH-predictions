@@ -2,8 +2,8 @@
 
 ## AI Infrastructure Capex Structural Expansion Prediction
 
-> Language: **中文版** | English Version: TBD  
-> Main Theory: [Information Existence Hypothesis](https://github.com/jacob-sha/Information-Existence-Hypothesis)
+> Language: **中文版** |  [English Version](./PA-07-AI-Infrastructure-Capex-Structural-Expansion-EN.md)  
+> Main Theory: [Information Existence Hypothesis (EN)](https://github.com/jacob-sha/Information-Existence-Hypothesis/blob/main/README_EN.md) | [信息存在性假说（中文）](https://github.com/jacob-sha/Information-Existence-Hypothesis/blob/main/README.md)
 
 ---
 
