@@ -1,6 +1,10 @@
 # PA-09: Physical Closure Threshold Prediction
 
 
+> Language: **English Version** | [中文版](./PA-09-Physical-Closure-Threshold-CN.md)  
+> Main Theory: [Information Existence Hypothesis (EN)](https://github.com/jacob-sha/Information-Existence-Hypothesis/blob/main/README_EN.md) | [信息存在性假说（中文）](https://github.com/jacob-sha/Information-Existence-Hypothesis/blob/main/README.md)
+
+---
 
 ## Metadata
 
