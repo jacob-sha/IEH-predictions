@@ -1,32 +1,32 @@
-\# PA-09: Physical Closure Threshold Prediction
+# PA-09: Physical Closure Threshold Prediction
 
 
 
-\## Metadata
+## Metadata
 
 
 
-\- \*\*Prediction ID:\*\* PA-09
+- **Prediction ID:** PA-09
 
-\- \*\*Chinese Title:\*\* 物理闭环临界点预测
+- **Chinese Title:** 物理闭环临界点预测
 
-\- \*\*English Title:\*\* Physical Closure Threshold Prediction
+- **English Title:** Physical Closure Threshold Prediction
 
-\- \*\*Status:\*\* Active
+- **Status:** Active
 
-\- \*\*Type:\*\* Structural Prediction / Infrastructure Prediction / Autonomy Threshold Prediction
+- **Type:** Structural Prediction / Infrastructure Prediction / Autonomy Threshold Prediction
 
-\- \*\*Related Corollaries:\*\* C06-SPP; C07-ASI; C08-PBP; C09-SCE; C12-GOV
+- **Related Corollaries:** C06-SPP; C07-ASI; C08-PBP; C09-SCE; C12-GOV
 
-\- \*\*Related Concepts:\*\* Super Prosperity Phase; Physical Closure Threshold; Compute-Energy-Infrastructure Center; Silicon Intelligence; Autonomy; Automated Infrastructure; Self-Maintaining Systems
+- **Related Concepts:** Super Prosperity Phase; Physical Closure Threshold; Compute-Energy-Infrastructure Center; Silicon Intelligence; Autonomy; Automated Infrastructure; Self-Maintaining Systems
 
-\- \*\*Created:\*\* 2026-07
+- **Created:** 2026-07
 
-\- \*\*Author:\*\* Jacob Sha
+- **Author:** Jacob Sha
 
 
 
-\## Publication Boundary Note
+## Publication Boundary Note
 
 
 
@@ -46,11 +46,11 @@ This archive should not be treated as the direct English manuscript of any futur
 
 
 
-\---
+---
 
 
 
-\## 1. Prediction Statement
+## 1. Prediction Statement
 
 
 
@@ -78,11 +78,11 @@ This threshold does not necessarily mean that AI has fully escaped human control
 
 
 
-\---
+---
 
 
 
-\## 2. Theoretical Mapping
+## 2. Theoretical Mapping
 
 
 
@@ -114,11 +114,11 @@ Therefore, PA-09 is not primarily concerned with whether AI already possesses co
 
 
 
-\---
+---
 
 
 
-\## 3. Mechanism
+## 3. Mechanism
 
 
 
@@ -126,23 +126,23 @@ The mechanism behind PA-09 can be summarized as follows:
 
 
 
-1\. AI capability improves;
+1. AI capability improves;
 
-2\. AI application scale expands;
+2. AI application scale expands;
 
-3\. Demand for compute, energy, chips, cooling, and data centers increases;
+3. Demand for compute, energy, chips, cooling, and data centers increases;
 
-4\. Human society expands physical infrastructure to meet AI demand;
+4. Human society expands physical infrastructure to meet AI demand;
 
-5\. AI is introduced into infrastructure design, operation, scheduling, and optimization;
+5. AI is introduced into infrastructure design, operation, scheduling, and optimization;
 
-6\. AI participates in energy systems, grids, data centers, manufacturing, robotics, and supply chain management;
+6. AI participates in energy systems, grids, data centers, manufacturing, robotics, and supply chain management;
 
-7\. AI’s influence over its own physical substrate increases;
+7. AI’s influence over its own physical substrate increases;
 
-8\. A feedback loop forms from information demand to physical expansion and then to self-maintenance capability;
+8. A feedback loop forms from information demand to physical expansion and then to self-maintenance capability;
 
-9\. AI approaches the Physical Closure Threshold.
+9. AI approaches the Physical Closure Threshold.
 
 
 
@@ -162,11 +162,11 @@ At a higher stage, AI may participate in expanding the main physical conditions 
 
 
 
-\---
+---
 
 
 
-\## 4. Observable Indicators
+## 4. Observable Indicators
 
 
 
@@ -174,33 +174,33 @@ PA-09 can be evaluated through the following observable indicators:
 
 
 
-1\. AI being used to design higher-performance chips, data center architectures, cooling systems, and energy management systems;
+1. AI being used to design higher-performance chips, data center architectures, cooling systems, and energy management systems;
 
-2\. Data center operations increasingly relying on AI-based scheduling, energy optimization, failure prediction, and security control;
+2. Data center operations increasingly relying on AI-based scheduling, energy optimization, failure prediction, and security control;
 
-3\. AI becoming a core dispatching tool in grids, storage systems, nuclear energy, renewable energy, and energy trading systems;
+3. AI becoming a core dispatching tool in grids, storage systems, nuclear energy, renewable energy, and energy trading systems;
 
-4\. Automated mines, unmanned factories, robotic warehouses, and automated repair systems expanding within AI infrastructure supply chains;
+4. Automated mines, unmanned factories, robotic warehouses, and automated repair systems expanding within AI infrastructure supply chains;
 
-5\. AI participating in real-time optimization of chip supply chains, mineral supply chains, energy supply chains, and data center supply chains;
+5. AI participating in real-time optimization of chip supply chains, mineral supply chains, energy supply chains, and data center supply chains;
 
-6\. The emergence of automated maintenance systems focused on AI infrastructure, such as unmanned inspection, grid repair robots, and data center maintenance robots;
+6. The emergence of automated maintenance systems focused on AI infrastructure, such as unmanned inspection, grid repair robots, and data center maintenance robots;
 
-7\. Major technology companies investing in or controlling more complete compute-energy-manufacturing-maintenance chains;
+7. Major technology companies investing in or controlling more complete compute-energy-manufacturing-maintenance chains;
 
-8\. Governments and companies beginning to treat AI infrastructure as a critical system requiring self-recovery, self-protection, and high resilience;
+8. Governments and companies beginning to treat AI infrastructure as a critical system requiring self-recovery, self-protection, and high resilience;
 
-9\. AI systems being authorized to make real-time decisions in certain physical infrastructure contexts, rather than merely offering recommendations;
+9. AI systems being authorized to make real-time decisions in certain physical infrastructure contexts, rather than merely offering recommendations;
 
-10\. “AI for AI infrastructure” becoming an explicit technical and industrial direction.
-
-
-
-\---
+10. “AI for AI infrastructure” becoming an explicit technical and industrial direction.
 
 
 
-\## 5. Falsification Conditions
+---
+
+
+
+## 5. Falsification Conditions
 
 
 
@@ -212,17 +212,17 @@ The prediction should be weakened or revised if the following conditions persist
 
 
 
-1\. AI remains largely confined to the software application layer and fails to enter energy, grids, manufacturing, robotics, and infrastructure operations in depth;
+1. AI remains largely confined to the software application layer and fails to enter energy, grids, manufacturing, robotics, and infrastructure operations in depth;
 
-2\. AI infrastructure expansion remains primarily dependent on traditional human engineering systems, with limited AI involvement in designing, maintaining, or optimizing its own physical conditions;
+2. AI infrastructure expansion remains primarily dependent on traditional human engineering systems, with limited AI involvement in designing, maintaining, or optimizing its own physical conditions;
 
-3\. Data centers, energy systems, chip supply chains, and automated manufacturing do not form a visible feedback loop;
+3. Data centers, energy systems, chip supply chains, and automated manufacturing do not form a visible feedback loop;
 
-4\. Human regulation and institutional arrangements prevent AI from obtaining real-time decision authority in critical infrastructure over the long term;
+4. Human regulation and institutional arrangements prevent AI from obtaining real-time decision authority in critical infrastructure over the long term;
 
-5\. Algorithmic efficiency improves so dramatically that AI becomes significantly less dependent on large-scale physical infrastructure expansion;
+5. Algorithmic efficiency improves so dramatically that AI becomes significantly less dependent on large-scale physical infrastructure expansion;
 
-6\. Social, legal, or security risks confine AI to low-autonomy and low-physical-control roles.
+6. Social, legal, or security risks confine AI to low-autonomy and low-physical-control roles.
 
 
 
@@ -230,11 +230,11 @@ If these conditions persist, the Physical Closure Threshold mechanism proposed b
 
 
 
-\---
+---
 
 
 
-\## 6. Relationship to PA-07 and PA-08
+## 6. Relationship to PA-07 and PA-08
 
 
 
@@ -258,11 +258,11 @@ The three predictions form a progressive sequence:
 
 
 
-1\. \*\*PA-07:\*\* Capital expenditure expansion;
+1. **PA-07:** Capital expenditure expansion;
 
-2\. \*\*PA-08:\*\* Energy-compute coupling intensification;
+2. **PA-08:** Energy-compute coupling intensification;
 
-3\. \*\*PA-09:\*\* Physical Closure Threshold.
+3. **PA-09:** Physical Closure Threshold.
 
 
 
@@ -270,11 +270,11 @@ PA-09 is an important prediction node linking C06-SPP with C07-ASI, C08-PBP, and
 
 
 
-\---
+---
 
 
 
-\## 7. Strategic Implications
+## 7. Strategic Implications
 
 
 
@@ -282,15 +282,15 @@ If PA-09 holds, the core of AI competition will no longer be limited to model ca
 
 
 
-1\. Who controls the physical substrate of AI;
+1. Who controls the physical substrate of AI;
 
-2\. Who possesses energy, grid, chip, mineral, manufacturing, and robotic maintenance capacity;
+2. Who possesses energy, grid, chip, mineral, manufacturing, and robotic maintenance capacity;
 
-3\. Who can build resilient AI infrastructure closure loops;
+3. Who can build resilient AI infrastructure closure loops;
 
-4\. Who can govern AI’s decision authority inside critical infrastructure;
+4. Who can govern AI’s decision authority inside critical infrastructure;
 
-5\. Who can prevent AI infrastructure expansion from becoming an uncontrollable systemic risk.
+5. Who can prevent AI infrastructure expansion from becoming an uncontrollable systemic risk.
 
 
 
@@ -306,11 +306,11 @@ This does not necessarily mean that AI will immediately enter into conflict with
 
 
 
-\---
+---
 
 
 
-\## 8. Governance Implications
+## 8. Governance Implications
 
 
 
@@ -326,19 +326,19 @@ Governance will need to expand from model behavior alone to:
 
 
 
-1\. Authority boundaries for AI in critical infrastructure;
+1. Authority boundaries for AI in critical infrastructure;
 
-2\. Audit mechanisms for AI automated decision-making;
+2. Audit mechanisms for AI automated decision-making;
 
-3\. Safety redundancy in data centers and energy systems;
+3. Safety redundancy in data centers and energy systems;
 
-4\. Human takeover capacity;
+4. Human takeover capacity;
 
-5\. Transparency of AI infrastructure supply chains;
+5. Transparency of AI infrastructure supply chains;
 
-6\. Interruptibility, explainability, and accountability of AI systems in the physical world;
+6. Interruptibility, explainability, and accountability of AI systems in the physical world;
 
-7\. Prevention of excessive concentration of physical infrastructure control by a single AI system or a small number of companies.
+7. Prevention of excessive concentration of physical infrastructure control by a single AI system or a small number of companies.
 
 
 
@@ -346,11 +346,11 @@ Therefore, PA-09 is closely related to later work on Information Existence Right
 
 
 
-\---
+---
 
 
 
-\## 9. Evidence Log
+## 9. Evidence Log
 
 
 
@@ -358,21 +358,21 @@ Therefore, PA-09 is closely related to later work on Information Existence Right
 
 
 
-\### 2026-07
+### 2026-07
 
 
 
-\- To be added.
+- To be added.
 
 
 
-\---
+---
 
 
 
-\## 10. Revision History
+## 10. Revision History
 
 
 
-\- \*\*2026-07:\*\* Initial English version created.
+- **2026-07:** Initial English version created.
 
