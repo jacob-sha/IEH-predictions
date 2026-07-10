@@ -1,6 +1,4 @@
-from pathlib import Path
-
-content = """# PA-08：能源—算力耦合强化预测  
+# PA-08：能源—算力耦合强化预测  
 ## Energy–Compute Coupling Intensification Prediction
 
 > Language: **中文版** | [English Version](./PA-08-Energy-Compute-Coupling-Intensification-EN.md)  
@@ -154,7 +152,3 @@ PA-08 观察的是：
 
 - **2026-07:** Initial Chinese version created.
 """
-
-path = Path("/mnt/data/PA-08-Energy-Compute-Coupling-Intensification-CN.md")
-path.write_text(content, encoding="utf-8")
-print(str(path))
