@@ -1,32 +1,35 @@
-\# PA-08: Energy–Compute Coupling Intensification Prediction
+# PA-08: Energy–Compute Coupling Intensification Prediction
+
+> Language: **English Version** | [中文版](./PA-08-Energy-Compute-Coupling-Intensification-CN.md)  
+> Main Theory: [Information Existence Hypothesis (EN)](https://github.com/jacob-sha/Information-Existence-Hypothesis/blob/main/README_EN.md) | [信息存在性假说（中文）](https://github.com/jacob-sha/Information-Existence-Hypothesis/blob/main/README.md)
+
+---
+
+## Metadata
 
 
 
-\## Metadata
+- **Prediction ID:** PA-08
+
+- *Chinese Title:** 能源—算力耦合强化预测
+
+- **English Title:** Energy–Compute Coupling Intensification Prediction
+
+- **Status:** Active
+
+- **Type:** Structural Prediction / Infrastructure Prediction / Energy–Compute Coupling
+
+- **Related Corollaries:** C06-SPP; C07-ASI; C12-GOV
+
+- **Related Concepts:** Super Prosperity Phase; Compute-Energy-Infrastructure Center; AI Infrastructure; Energy Demand; Grid Planning; Physical Infrastructure Expansion
+
+- **Created:** 2026-07
+
+- **Author:** Jacob Sha
 
 
 
-\- \*\*Prediction ID:\*\* PA-08
-
-\- \*\*Chinese Title:\*\* 能源—算力耦合强化预测
-
-\- \*\*English Title:\*\* Energy–Compute Coupling Intensification Prediction
-
-\- \*\*Status:\*\* Active
-
-\- \*\*Type:\*\* Structural Prediction / Infrastructure Prediction / Energy–Compute Coupling
-
-\- \*\*Related Corollaries:\*\* C06-SPP; C07-ASI; C12-GOV
-
-\- \*\*Related Concepts:\*\* Super Prosperity Phase; Compute-Energy-Infrastructure Center; AI Infrastructure; Energy Demand; Grid Planning; Physical Infrastructure Expansion
-
-\- \*\*Created:\*\* 2026-07
-
-\- \*\*Author:\*\* Jacob Sha
-
-
-
-\## Publication Boundary Note
+## Publication Boundary Note
 
 
 
@@ -46,11 +49,11 @@ This archive should not be treated as the direct English manuscript of any futur
 
 
 
-\---
+---
 
 
 
-\## 1. Prediction Statement
+## 1. Prediction Statement
 
 
 
@@ -70,11 +73,11 @@ Therefore, future AI competition will increasingly become a combined competition
 
 
 
-\---
+---
 
 
 
-\## 2. Theoretical Mapping
+## 2. Theoretical Mapping
 
 
 
@@ -98,11 +101,11 @@ This means that energy demand in the AI age should not be understood merely as a
 
 
 
-\---
+---
 
 
 
-\## 3. Mechanism
+## 3. Mechanism
 
 
 
@@ -110,21 +113,21 @@ The mechanism behind PA-08 can be summarized as follows:
 
 
 
-1\. AI model capability improves;
+1. AI model capability improves;
 
-2\. Training and inference demand expand;
+2. Training and inference demand expand;
 
-3\. GPU, ASIC, and data center scale increase;
+3. GPU, ASIC, and data center scale increase;
 
-4\. Electricity, cooling, and grid capacity become key constraints;
+4. Electricity, cooling, and grid capacity become key constraints;
 
-5\. Data center location becomes increasingly dependent on energy conditions;
+5. Data center location becomes increasingly dependent on energy conditions;
 
-6\. Energy planning begins to incorporate AI infrastructure demand;
+6. Energy planning begins to incorporate AI infrastructure demand;
 
-7\. Compute infrastructure and energy infrastructure become structurally coupled;
+7. Compute infrastructure and energy infrastructure become structurally coupled;
 
-8\. Regional competitive advantage expands from software, capital, and talent to power, grids, and energy governance capacity.
+8. Regional competitive advantage expands from software, capital, and talent to power, grids, and energy governance capacity.
 
 
 
@@ -132,11 +135,11 @@ This mechanism does not require AI to already be fully autonomous, nor does it r
 
 
 
-\---
+---
 
 
 
-\## 4. Observable Indicators
+## 4. Observable Indicators
 
 
 
@@ -144,29 +147,29 @@ PA-08 can be evaluated through the following observable indicators:
 
 
 
-1\. Major technology companies and AI companies directly investing in electricity generation, nuclear energy, renewable energy, energy storage, or grid-related projects;
+1. Major technology companies and AI companies directly investing in electricity generation, nuclear energy, renewable energy, energy storage, or grid-related projects;
 
-2\. Data center location decisions increasingly emphasizing power availability, low-carbon electricity, cooling conditions, and grid access;
+2. Data center location decisions increasingly emphasizing power availability, low-carbon electricity, cooling conditions, and grid access;
 
-3\. Government energy planning, regional industrial policy, and grid investment documents explicitly incorporating AI data center and compute infrastructure demand;
+3. Government energy planning, regional industrial policy, and grid investment documents explicitly incorporating AI data center and compute infrastructure demand;
 
-4\. Utilities and energy infrastructure companies identifying AI data centers as a long-term demand source;
+4. Utilities and energy infrastructure companies identifying AI data centers as a long-term demand source;
 
-5\. Data center projects facing approval constraints due to grid capacity, electricity prices, water resources, cooling conditions, or community capacity;
+5. Data center projects facing approval constraints due to grid capacity, electricity prices, water resources, cooling conditions, or community capacity;
 
-6\. AI infrastructure investment spilling over from data center construction into generation, transmission, storage, cooling, and automated maintenance systems;
+6. AI infrastructure investment spilling over from data center construction into generation, transmission, storage, cooling, and automated maintenance systems;
 
-7\. Policy discussions increasingly linking compute sovereignty, energy sovereignty, and data sovereignty;
+7. Policy discussions increasingly linking compute sovereignty, energy sovereignty, and data sovereignty;
 
-8\. Regions with stable low-cost energy and large-scale land resources becoming more strategically attractive for AI infrastructure investment.
-
-
-
-\---
+8. Regions with stable low-cost energy and large-scale land resources becoming more strategically attractive for AI infrastructure investment.
 
 
 
-\## 5. Falsification Conditions
+---
+
+
+
+## 5. Falsification Conditions
 
 
 
@@ -178,15 +181,15 @@ The prediction should be weakened or revised if the following conditions persist
 
 
 
-1\. AI model and inference efficiency improve so rapidly that aggregate energy demand remains low over the long term;
+1. AI model and inference efficiency improve so rapidly that aggregate energy demand remains low over the long term;
 
-2\. Data center energy consumption does not become an important variable in grid planning, energy investment, or policy debate;
+2. Data center energy consumption does not become an important variable in grid planning, energy investment, or policy debate;
 
-3\. AI infrastructure investment remains limited to ordinary commercial real estate or local cloud expansion, without triggering structural responses in energy systems;
+3. AI infrastructure investment remains limited to ordinary commercial real estate or local cloud expansion, without triggering structural responses in energy systems;
 
-4\. Major technology companies and governments do not treat energy, grids, and compute as a combined strategic issue;
+4. Major technology companies and governments do not treat energy, grids, and compute as a combined strategic issue;
 
-5\. Compute competition is primarily resolved by algorithmic efficiency rather than energy and infrastructure expansion.
+5. Compute competition is primarily resolved by algorithmic efficiency rather than energy and infrastructure expansion.
 
 
 
@@ -194,11 +197,11 @@ If these conditions persist over time, the Energy–Compute Coupling Intensifica
 
 
 
-\---
+---
 
 
 
-\## 6. Relationship to PA-07
+## 6. Relationship to PA-07
 
 
 
@@ -230,11 +233,11 @@ Therefore, PA-08 can be understood as the energy-system-level prediction record 
 
 
 
-\---
+---
 
 
 
-\## 7. Strategic Implications
+## 7. Strategic Implications
 
 
 
@@ -246,15 +249,15 @@ This implies that:
 
 
 
-1\. Countries rich in energy resources but weak in organizational capacity may not automatically gain advantage in the AI age;
+1. Countries rich in energy resources but weak in organizational capacity may not automatically gain advantage in the AI age;
 
-2\. Compute infrastructure will increasingly depend on long-term energy planning rather than short-term market procurement;
+2. Compute infrastructure will increasingly depend on long-term energy planning rather than short-term market procurement;
 
-3\. Grid policy, cooling policy, storage policy, and land-use policy will become part of AI industrial policy;
+3. Grid policy, cooling policy, storage policy, and land-use policy will become part of AI industrial policy;
 
-4\. Data centers should not be treated merely as ordinary commercial projects, but as compute-energy coupling nodes;
+4. Data centers should not be treated merely as ordinary commercial projects, but as compute-energy coupling nodes;
 
-5\. AI infrastructure governance will become an important component of national competition in the Pre-ASI stage.
+5. AI infrastructure governance will become an important component of national competition in the Pre-ASI stage.
 
 
 
@@ -262,11 +265,11 @@ In the IEH framework, this trend shows that the expansion of advanced informatio
 
 
 
-\---
+---
 
 
 
-\## 8. Evidence Log
+## 8. Evidence Log
 
 
 
@@ -274,21 +277,21 @@ In the IEH framework, this trend shows that the expansion of advanced informatio
 
 
 
-\### 2026-07
+### 2026-07
 
 
 
-\- To be added.
+- To be added.
 
 
 
-\---
+---
 
 
 
-\## 9. Revision History
+## 9. Revision History
 
 
 
-\- \*\*2026-07:\*\* Initial English version created.
+- **2026-07:** Initial English version created.
 
