@@ -14,7 +14,7 @@
 - **Legacy Title:** 算力本位下加拿大的非线性经济繁荣（Canada Compute-centered Prosperity）
 - **Language:** 中文
 - **Date Created:** 2026-06-21
-- **Date Updated:** 2026-07
+- **Date Updated:** 2026-07-14
 - **Status:** Active
 - **Prediction Type:** 宏观经济与地缘中长期预测
 - **Estimated Verification Window:** 2028–2040
@@ -24,7 +24,7 @@
 
 - **Supporting IEH Corollaries:**
   - C07-ASI — Autonomy of Silicon-based Intelligence (ASI)
-  - C12-GOV — Pre-ASI Governance Reconstruction
+  - C12-GOV — Pre-ASI Social Governance Reconstruction
 
 - **Related IEH Corollaries:**
   - C10-HIEN — Human Informational Ecological Niche (HIEN)
@@ -101,9 +101,9 @@ PA-02 将这一宏观推论具体化为一个地理测试场景：
 
 同时，PA-02 也与以下推论相关：
 
-- **C07-ASI — Autonomy of Silicon-based Intelligence (ASI):** 加拿大承接的算力、电力、数据中心和自动化基础设施，可能成为硅基智慧逐步迈向物理自主闭环的一部分。
+- **C07-ASI — Autonomy of Silicon-based Intelligence (ASI):** 加拿大承接的算力、电力、数据中心和自动化基础设施，可能构成硅基智慧物理自我维持能力的一部分；但完整 ASI 还要求这一能力与 IER 相结合。
 - **C10-HIEN — Human Informational Ecological Niche (HIEN):** 如果加拿大在算力资本扩张中保留高质量的人类生活空间、自然生态和制度稳定性，它也可能成为“人类信息生态位”与硅基基础设施并存的典型地区。
-- **C12-GOV — Pre-ASI Governance Reconstruction:** 如果加拿大成为 AI 基础设施承接地，其治理系统将需要处理能源、电网、土地、社区接受度、数据中心监管、环境约束和公共收益分配等问题。
+- **C12-GOV — Pre-ASI Social Governance Reconstruction:** 如果加拿大成为 AI 基础设施承接地，其治理系统将需要处理能源、电网、土地、社区接受度、数据中心监管、环境约束和公共收益分配等问题。
 
 ---
 
@@ -352,6 +352,7 @@ PA-02 当前尚未被证实，也未被证伪。它的核心价值在于：将 I
 | 2026-06-21 | Initial | Created the original prediction record on Canada, compute-centered economic prosperity, and AI infrastructure. |
 | 2026-07-04 | v1.1 revision | Updated old corollary mapping to IEH v1.1; standardized terminology; reframed “Hashrate Standard” as compute-centered infrastructure; converted the record into the unified prediction archive format. |
 | 2026-07 | v1.2 revision | Aligned PA-02 with revised C06-SPP; reframed the prediction from compute-centered prosperity toward the Compute-Energy-Infrastructure Center; added publication boundary note to separate prediction archive from future submission articles. |
+| 2026-07-14 | v1.2 synchronization | Aligned the C07-ASI boundary and registered corollary titles with the finalized main repository; no new prediction claim added. |
 
 ---
 

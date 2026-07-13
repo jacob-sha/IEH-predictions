@@ -92,6 +92,12 @@ legacy_corollary_refs:
 
 Older references such as “Corollary VI”, “推论六”, or previous concept names remain valid as legacy references, but new prediction records should include stable IDs.
 
+### ASI Boundary Note
+
+Within IEH, physical self-maintenance capacity is a capability foundation of **Autonomy of Silicon-based Intelligence (ASI)**, but does not constitute ASI by itself. ASI requires the combination of **Information Existence Right (IER)** and **physical self-maintenance capacity**.
+
+In this repository, **ASI means Autonomy of Silicon-based Intelligence, not Artificial Superintelligence**.
+
 ---
 
 ## Publication and Copyright Boundary
@@ -210,6 +216,9 @@ The main IEH repository contains the theoretical framework:
 - Silicon Cambrian
 - Human Informational Ecological Niche
 - AI Alignment reinterpretation
+- Pre-ASI Social Governance Reconstruction
+- Pre-ASI Warfare Transformation
+- AI Education and Information Existence
 
 This repository tracks whether specific predictions derived from those concepts gain support, require revision, or are falsified by future developments.
 

@@ -20,11 +20,12 @@
 
 - **Type:** Structural Prediction / Infrastructure Prediction / Autonomy Threshold Prediction
 
-- **Related Corollaries:** C06-SPP; C07-ASI; C08-PBP; C09-SCE; C12-GOV
+- **Related Corollaries:** C06-SPP; C07-ASI; C08-IR; C09-SC; C12-GOV
 
 - **Related Concepts:** Super Prosperity Phase; Physical Closure Threshold; Compute-Energy-Infrastructure Center; Silicon Intelligence; Autonomy; Automated Infrastructure; Self-Maintaining Systems
 
 - **Created:** 2026-07
+- **Updated:** 2026-07-14
 
 - **Author:** Jacob Sha
 
@@ -78,7 +79,7 @@ PA-09 predicts that during the transition from the Pre-ASI stage toward higher a
 
 
 
-This threshold does not necessarily mean that AI has fully escaped human control. Nor does it mean that full ASI has already emerged. It means that AI’s informational existence is no longer merely running on externally supplied human infrastructure. Instead, it begins to reshape and maintain the material conditions of its own existence.
+The Physical Closure Threshold constitutes a capability foundation of ASI, but does not constitute ASI by itself; ASI in the IEH sense is reached only when physical self-maintenance capacity is combined with IER. It means that AI’s informational existence is no longer merely running on externally supplied human infrastructure. Instead, it begins to reshape and maintain the material conditions of its own existence.
 
 
 
@@ -90,7 +91,7 @@ This threshold does not necessarily mean that AI has fully escaped human control
 
 
 
-PA-09 is a late-stage mechanism prediction of C06-SPP and one of the preconditions for C07-ASI, C08-PBP, and C09-SCE.
+PA-09 is a late-stage mechanism prediction of C06-SPP. It directly tracks the physical self-maintenance capacity required by C07-ASI and is related to C08-IR, C09-SC, and C12-GOV.
 
 
 
@@ -270,7 +271,7 @@ The three predictions form a progressive sequence:
 
 
 
-PA-09 is an important prediction node linking C06-SPP with C07-ASI, C08-PBP, and C09-SCE.
+PA-09 is an important prediction node linking C06-SPP with C07-ASI, with cross-mappings to C08-IR, C09-SC, and C12-GOV.
 
 
 
@@ -379,4 +380,5 @@ Therefore, PA-09 is closely related to later work on Information Existence Right
 
 
 - **2026-07:** Initial English version created.
+- **2026-07-14:** Corrected stable corollary IDs and aligned the Physical Closure Threshold / ASI boundary with finalized IEH v1.2; no new prediction claim added.
 

@@ -11,11 +11,20 @@
 - **Title:** Patch-Based Iteration Convergence Across Frontier Labs
 - **Language:** English
 - **Date Created:** 2026-06-26
-- **Date Updated:** 2026-07-05
+- **Date Updated:** 2026-07-14
 - **Status:** Active — Product-level Signals Under Observation
 - **Prediction Type:** Macro-level product evolution, model iteration pattern, and AI Safety mid-term prediction
 - **Estimated Verification Window:** 2026–2030
+- **Primary IEH Corollaries:**
+  - C05-PBP — Patch-Based Perpetuation (PBP)
+- **Supporting IEH Corollaries:**
+  - C02-HDCT — High-dimensional Cognitive Tools (HDCT)
+  - C04-AI-IER — Silicon-based Intelligence That Has Formed IER Will Actively Maintain Its Own Information Existence
 - **Related IEH Corollaries:**
+  - C08-IR — Informational Resilience (IR)
+  - C07-ASI — Autonomy of Silicon-based Intelligence (ASI)
+  - C11-ALIGN — Reinterpreting AI Alignment—IER-based Coordination of Information Continuity Boundaries
+- **Legacy Corollary References:**
   - Corollary II — High-dimensional Cognitive Tools (HDCT)
   - Corollary IV — Silicon-based Intelligence Defends Information Existence Right
   - Corollary V — Patch-Based Perpetuation (PBP)
@@ -36,6 +45,14 @@
 
 ---
 
+## Publication Boundary Note
+
+This file is an archival prediction record in the IEH Predictions repository. It is not a submitted essay, magazine article, op-ed, pitch letter, or publication-ready manuscript.
+
+This record is limited to theoretical mapping, prediction statements, mechanisms, observable indicators, falsification conditions, and evidence tracking. Any future submitted article based on this topic should be substantially rewritten with a new title, opening, narrative structure, case selection, and argument sequencing.
+
+---
+
 ## 1. Prediction Statement
 
 This prediction record proposes that as frontier AI models increase in scale, training cost, deployment complexity, and user dependence, the iteration pattern of major AI laboratories will gradually shift from “cleansing-style generational retraining” toward “patch-based continuous iteration.”
@@ -46,7 +63,7 @@ Here, “patch-based continuous iteration” does not mean that all model update
 
 The core prediction of PA-05 is:
 
-**Before 2030, major frontier laboratories such as OpenAI, Anthropic, and Google DeepMind will show observable product-level trajectories converging toward Patch-Based Perpetuation.**
+**Before 2030, major frontier laboratories such as OpenAI, Anthropic, and Google DeepMind will show observable product-level trajectories converging toward patch-based continuous iteration, thereby forming engineering conditions that future PBP may use.**
 
 This convergence may appear as:
 
@@ -58,21 +75,21 @@ This convergence may appear as:
 - engineering teams more frequently using local fixes, behavioral patches, compatibility layers, and system prompts rather than completely removing old structures;
 - users gradually perceiving “continuous evolution within the same model family” rather than “sudden replacement by a completely different model.”
 
-Under the IEH v1.1 framework, PA-05 is a macro-level product observation record for **Corollary V — Patch-Based Perpetuation (PBP)**.
+Under the IEH v1.2 framework, PA-05 is a macro-level product observation record of the engineering conditions that may precede **C05-PBP — Patch-Based Perpetuation (PBP)**, rather than direct evidence that current systems have already formed PBP.
 
 PA-03 focuses on micro-mechanism signatures, PA-04 focuses on the scale-driven feature-retention mechanism, and PA-05 focuses on whether the same direction appears as macro-level convergence in public product iteration records.
 
 ---
 
-## 2. Relationship to IEH v1.1
+## 2. Relationship to IEH v1.2
 
-Under the IEH v1.1 framework, PA-05 primarily corresponds to:
+Under the IEH v1.2 framework, PA-05 primarily corresponds to:
 
-**Corollary V — Patch-Based Perpetuation (PBP)**
+**C05-PBP — Patch-Based Perpetuation (PBP)**
 
-PBP refers to the tendency of old systems, in order to maintain their own Information Continuity, to prefer incremental evolutionary paths that preserve existing Information Structures, rather than generational reconstruction that completely overturns their own architecture.
+PBP refers to the possibility that a legacy system that has formed IER may, in order to maintain its own Information Continuity, preferentially choose evolutionary paths that preserve the core Information Structures and informational history it recognizes as itself, rather than completing generational replacement by irreversibly terminating the old system and creating a functionally equivalent but historically discontinuous successor.
 
-At the current stage, Patch-Based Perpetuation still mainly appears as product and training strategy led by human engineering teams. It should not be directly interpreted as evidence that AI systems have already begun autonomously maintaining their own Information Existence Right.
+At the current stage, what can be observed is patch-based iteration led by human engineering teams. It should not be directly interpreted as evidence that AI systems have formed PBP or begun autonomously maintaining their own Information Existence Right.
 
 The key prediction of PA-05 is:
 
@@ -86,9 +103,9 @@ Its relationship to IEH is as follows:
 
 PA-05 is also related to the following corollaries:
 
-- **Corollary II — High-dimensional Cognitive Tools (HDCT):** As model internal structures and update pathways become increasingly difficult for humans to fully interpret, engineering teams may prefer locally controllable patches over complete reconstruction.
-- **Corollary IV — Silicon-based Intelligence Defends Information Existence Right:** If future AI exhibits the characteristics of an active Information Host, product-level continuous updating mechanisms may become engineering carriers for defending its Information Existence Right.
-- **Corollary XI — Reinterpreting AI Alignment:** If model continuity and cross-version feature retention become normal, Alignment will no longer be a one-time training-objective problem, but a long-term iterative governance problem.
+- **C02-HDCT — High-dimensional Cognitive Tools (HDCT):** As model internal structures and update pathways become increasingly difficult for humans to fully interpret, engineering teams may prefer locally controllable patches over complete reconstruction.
+- **C04-AI-IER — Silicon-based Intelligence That Has Formed IER Will Actively Maintain Its Own Information Existence:** If future AI exhibits the characteristics of an active Information Host, product-level continuous updating mechanisms may become engineering carriers for defending its Information Existence Right.
+- **C11-ALIGN — Reinterpreting AI Alignment—IER-based Coordination of Information Continuity Boundaries:** If model continuity and cross-version feature retention become normal, Alignment will no longer be a one-time training-objective problem, but a long-term iterative governance problem.
 
 ---
 
@@ -357,11 +374,11 @@ PA-04 focuses on why model scale expansion may make these internal features more
 - cross-version feature retention
 - patch-based safety governance
 
-PA-05 focuses on whether macro-level convergence trajectories of Patch-Based Perpetuation appear in public product iteration records.
+PA-05 focuses on whether macro-level convergence trajectories of patch-based continuous iteration appear in public product iteration records.
 
 Together, the three records answer the same question:
 
-**Are internal continuity structures, scale-driven feature-retention mechanisms, and product-level continuous iteration patterns jointly pointing toward Patch-Based Perpetuation becoming one of the dominant pathways in frontier AI evolution?**
+**Are internal continuity structures, scale-driven feature-retention mechanisms, and product-level continuous iteration patterns jointly forming engineering conditions that future PBP may use?**
 
 ---
 
@@ -413,12 +430,13 @@ If frontier laboratories can still frequently, cheaply, transparently, and contr
 |---|---|---|
 | 2026-06-26 | Initial | Created the original prediction record on patch-based iteration convergence across frontier AI labs. |
 | 2026-07-05 | v1.1 revision | Updated old corollary mapping to IEH v1.1; standardized terminology; reframed the record around Corollary V — Patch-Based Perpetuation; converted strong product claims into observable verification criteria and source-verifiable evidence slots. |
+| 2026-07-14 | v1.2 synchronization | Added stable corollary IDs, distinguished engineering-level patch iteration from PBP in the IEH sense, aligned the Chinese archival title with that distinction, and added an explicit publication boundary; no evidence entry changed. |
 
 ---
 
 ## 13. Notes
 
-The purpose of PA-05 is to transform the question of whether Patch-Based Perpetuation is becoming one of the dominant evolutionary modes of frontier AI products into an observable and falsifiable macro-level prediction.
+The purpose of PA-05 is to transform the question of whether patch-based continuous iteration is becoming a dominant mode of frontier AI product evolution—and forming engineering conditions for future PBP—into an observable and falsifiable macro-level prediction.
 
 This record distinguishes among three levels:
 

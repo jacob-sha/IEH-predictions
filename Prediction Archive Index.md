@@ -57,6 +57,10 @@ legacy_corollary_refs:
 
 A prediction may correspond to multiple corollaries. This does not replace older mappings; it only adds a more stable reference layer.
 
+### ASI Boundary Note
+
+Physical self-maintenance capacity is a capability foundation of **C07-ASI**, but does not constitute ASI by itself. Within IEH, ASI requires both **Information Existence Right (IER)** and **physical self-maintenance capacity**. Here, ASI means **Autonomy of Silicon-based Intelligence**, not Artificial Superintelligence.
+
 ---
 
 ## 中文说明：稳定推论映射
@@ -113,15 +117,15 @@ Future articles based on these predictions should be substantially rewritten wit
 
 | ID | Prediction Title | CN | EN | Stable Corollary IDs | Related IEH Concepts | Status |
 |---|---|---|---|---|---|---|
-| PA-01 | Mars Silicon Speciation | [CN](./PA-01-Mars-Silicon-Speciation-CN.md) | [EN](./PA-01-Mars-Silicon-Speciation-EN.md) | C09-SC; C08-IR; C07-ASI; C06-SPP | Silicon Cambrian; Informational Resilience; Autonomy of Silicon-based Intelligence; Super Prosperity Phase | Active |
-| PA-02 | Canada Hashrate Prosperity | [CN](./PA-02-Canada-Hashrate-Prosperity-CN.md) | [EN](./PA-02-Canada-Hashrate-Prosperity-EN.md) | C06-SPP; C07-ASI; C12-GOV | Super Prosperity Phase; Compute-centered Infrastructure; Energy-Compute Coupling; Governance and Infrastructure | Active |
-| PA-03 | Patch Perpetuation | [CN](./PA-03-Patch-Perpetuation-CN.md) | [EN](./PA-03-Patch-Perpetuation-EN.md) | C05-PBP; C01-IER; C04-AI-IER | Patch-Based Perpetuation; Information Existence Right; AI Self-preservation | Active |
-| PA-04 | Scale Feature Retention | [CN](./PA-04-Scale-Feature-Retention-CN.md) | [EN](./PA-04-Scale-Feature-Retention-EN.md) | C05-PBP; C08-IR | Patch-Based Perpetuation; Model Continuity; Information Continuity; Informational Resilience | Active |
-| PA-05 | Patch Convergence | [CN](./PA-05-Patch-Convergence-CN.md) | [EN](./PA-05-Patch-Convergence-EN.md) | C05-PBP; C08-IR; C07-ASI | Patch-Based Perpetuation; Incremental Evolution; Architecture Continuity; Autonomy of Silicon-based Intelligence | Active |
+| PA-01 | Mars Silicon Speciation | [CN](./PA-01-Mars-Silicon-Speciation-CN.md) | [EN](./PA-01-Mars-Silicon-Speciation-EN.md) | C09-SC; C08-IR; C07-ASI; C06-SPP; C05-PBP | Silicon Cambrian; Informational Resilience; Autonomy of Silicon-based Intelligence; Super Prosperity Phase; Patch-Based Perpetuation | Active |
+| PA-02 | Canada’s Nonlinear Economic Prosperity under the Compute-Energy-Infrastructure Center | [CN](./PA-02-Canada-Hashrate-Prosperity-CN.md) | [EN](./PA-02-Canada-Hashrate-Prosperity-EN.md) | C06-SPP; C07-ASI; C12-GOV; C10-HIEN | Super Prosperity Phase; Compute-Energy-Infrastructure Center; Energy–Compute Coupling; Human Informational Ecological Niche | Active |
+| PA-03 | Patch Perpetuation | [CN](./PA-03-Patch-Perpetuation-CN.md) | [EN](./PA-03-Patch-Perpetuation-EN.md) | C05-PBP; C01-IER; C04-AI-IER; C02-HDCT; C11-ALIGN | Patch-Based Perpetuation; Information Existence Right; High-dimensional Cognitive Tools; AI Alignment | Active |
+| PA-04 | Scale Feature Retention | [CN](./PA-04-Scale-Feature-Retention-CN.md) | [EN](./PA-04-Scale-Feature-Retention-EN.md) | C05-PBP; C08-IR; C02-HDCT; C04-AI-IER; C11-ALIGN | Patch-Based Perpetuation; Informational Resilience; Model Continuity; Information Continuity; AI Alignment | Active |
+| PA-05 | Patch Convergence | [CN](./PA-05-Patch-Convergence-CN.md) | [EN](./PA-05-Patch-Convergence-EN.md) | C05-PBP; C08-IR; C07-ASI; C02-HDCT; C04-AI-IER; C11-ALIGN | Patch-Based Perpetuation; Informational Resilience; Incremental Evolution; Architecture Continuity; Autonomy of Silicon-based Intelligence; AI Alignment | Active |
 | PA-06 | HDCT Scientific Paradigm Shift | [CN](./PA-06-HDCT-Scientific-Paradigm-Shift-CN.md) | [EN](./PA-06-HDCT-Scientific-Paradigm-Shift-EN.md) | C02-HDCT; C03-BS; C07-ASI; C11-ALIGN | High-dimensional Cognitive Tools; Brain Siliconization; Autonomy of Silicon-based Intelligence; AI Alignment reinterpretation | Active |
 | PA-07 | AI Infrastructure Capex Structural Expansion | [CN](./PA-07-AI-Infrastructure-Capex-Structural-Expansion-CN.md) | [EN](./PA-07-AI-Infrastructure-Capex-Structural-Expansion-EN.md) | C06-SPP; C07-ASI; C12-GOV; C13-WAR | Super Prosperity Phase; AI Infrastructure Capex; Compute-Energy-Infrastructure Center; Material Basis; Physical Infrastructure Expansion | Active | 
 | PA-08 | Energy–Compute Coupling Intensification | [CN](./PA-08-Energy-Compute-Coupling-Intensification-CN.md) | [EN](./PA-08-Energy-Compute-Coupling-Intensification-EN.md) | C06-SPP; C07-ASI; C12-GOV | Super Prosperity Phase; Energy–Compute Coupling; AI Infrastructure; Grid Planning; Compute-Energy-Infrastructure Center | Active |
-| PA-09 | Physical Closure Threshold | [CN](./PA-09-Physical-Closure-Threshold-CN.md) | [EN](./PA-09-Physical-Closure-Threshold-EN.md) | C06-SPP; C07-ASI; C08-PBP; C09-SCE; C12-GOV | Super Prosperity Phase; Physical Closure Threshold; Compute-Energy-Infrastructure Center; Silicon Intelligence; Autonomy; Automated Infrastructure; Self-Maintaining Systems | Active |  
+| PA-09 | Physical Closure Threshold | [CN](./PA-09-Physical-Closure-Threshold-CN.md) | [EN](./PA-09-Physical-Closure-Threshold-EN.md) | C06-SPP; C07-ASI; C08-IR; C09-SC; C12-GOV | Super Prosperity Phase; Physical Closure Threshold; Informational Resilience; Silicon Cambrian; Physical Self-maintenance | Active |
 
 ---
 
@@ -178,6 +182,9 @@ The main IEH repository contains the theoretical framework:
 - Silicon Cambrian
 - Human Informational Ecological Niche
 - AI Alignment reinterpretation
+- Pre-ASI Social Governance Reconstruction
+- Pre-ASI Warfare Transformation
+- AI Education and Information Existence
 
 This prediction archive tracks whether specific deductions derived from IEH gain support, require revision, or are falsified by future real-world developments.
 

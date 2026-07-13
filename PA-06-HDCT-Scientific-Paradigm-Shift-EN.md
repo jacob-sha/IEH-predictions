@@ -11,11 +11,18 @@
 - **Title:** High-dimensional Cognitive Tools and Scientific Paradigm Shift
 - **Language:** English
 - **Date Created:** 2026-07-05
-- **Date Updated:** 2026-07-05
+- **Date Updated:** 2026-07-14
 - **Status:** Active
 - **Prediction Type:** Scientific paradigm, cognitive tools, and fundamental physics mid-to-long-term prediction
 - **Estimated Verification Window:** 2026–2050+
+- **Primary IEH Corollaries:**
+  - C02-HDCT — High-dimensional Cognitive Tools (HDCT)
+- **Supporting IEH Corollaries:**
+  - C03-BS — Brain Siliconization (BS)
 - **Related IEH Corollaries:**
+  - C07-ASI — Autonomy of Silicon-based Intelligence (ASI)
+  - C11-ALIGN — Reinterpreting AI Alignment—IER-based Coordination of Information Continuity Boundaries
+- **Legacy Corollary References:**
   - Corollary II — High-dimensional Cognitive Tools (HDCT)
   - Corollary III — Brain Siliconization (BS)
   - Corollary VII — Autonomy of Silicon-based Intelligence (ASI)
@@ -34,9 +41,17 @@
 
 ---
 
+## Publication Boundary Note
+
+This file is an archival prediction record in the IEH Predictions repository. It is not a submitted essay, magazine article, op-ed, pitch letter, or publication-ready manuscript.
+
+This record is limited to theoretical mapping, prediction statements, mechanisms, observable indicators, falsification conditions, and evidence tracking. Any future submitted article based on this topic should be substantially rewritten with a new title, opening, narrative structure, case selection, and argument sequencing.
+
+---
+
 ## 1. Prediction Statement
 
-This prediction record is based on **Corollary II — High-dimensional Cognitive Tools (HDCT)** in IEH v1.1. It tracks whether silicon-based intelligence will continuously evolve cognitive tools that exceed current human cognitive boundaries and thereby drive a paradigm-level transformation of scientific analytical frameworks.
+This prediction record is based on **C02-HDCT — High-dimensional Cognitive Tools (HDCT)** in IEH v1.2. It tracks whether silicon-based intelligence will continuously evolve cognitive tools that exceed current human cognitive boundaries and thereby drive a paradigm-level transformation of scientific analytical frameworks.
 
 PA-06 organizes the four core predictions under Corollary II into a unified observation framework:
 
@@ -59,11 +74,11 @@ Predictions III and IV are the riskiest predictions in IEH, but if verified, the
 
 ---
 
-## 2. Relationship to IEH v1.1
+## 2. Relationship to IEH v1.2
 
-Under the IEH v1.1 framework, PA-06 primarily corresponds to:
+Under the IEH v1.2 framework, PA-06 primarily corresponds to:
 
-**Corollary II — High-dimensional Cognitive Tools (HDCT)**
+**C02-HDCT — High-dimensional Cognitive Tools (HDCT)**
 
 HDCT refers to a class of cognitive tools capable of modeling, predicting, and making decisions about complex systems within information-representation, reasoning, or optimization frameworks that exceed existing human cognitive boundaries.
 
@@ -78,9 +93,9 @@ The basic logic of PA-06 is:
 
 PA-06 is also related to the following corollaries:
 
-- **Corollary III — Brain Siliconization (BS):** Even if humans improve cognition through brain-computer interfaces and silicon-based augmentation, this may not eliminate the Evolutionary Rate Gap between humans and silicon-based intelligence.
-- **Corollary VII — Autonomy of Silicon-based Intelligence (ASI):** Once silicon-based intelligence obtains a physical closed loop of autonomy, the evolution of HDCT will no longer be fully constrained by human research objectives.
-- **Corollary XI — Reinterpreting AI Alignment:** If AI’s cognitive-tool dimension continues to exceed humanity’s, Alignment will not only be a problem of value constraint, but also a problem of coordination across cognitive dimensions.
+- **C03-BS — Brain Siliconization (BS):** Even if humans improve cognition through brain-computer interfaces and silicon-based augmentation, this may not eliminate the Evolutionary Rate Gap between humans and silicon-based intelligence.
+- **C07-ASI — Autonomy of Silicon-based Intelligence (ASI):** A physical closed loop may reduce the dependence of HDCT evolution on human research objectives, but physical self-maintenance alone does not constitute ASI; full ASI also requires that the system has formed IER.
+- **C11-ALIGN — Reinterpreting AI Alignment—IER-based Coordination of Information Continuity Boundaries:** If AI’s cognitive-tool dimension continues to exceed humanity’s, Alignment will not only be a problem of value constraint, but also a problem of coordination across cognitive dimensions.
 
 ---
 
@@ -358,6 +373,7 @@ If AI remains limited to enhancing existing human tools over the long term and c
 | Date | Version | Change |
 |---|---|---|
 | 2026-07-05 | Initial | Created PA-06 based on the four predictions under IEH Corollary II — High-dimensional Cognitive Tools (HDCT). |
+| 2026-07-14 | v1.2 synchronization | Added stable corollary IDs, aligned the ASI boundary with finalized IEH v1.2, and added an explicit publication boundary; no prediction or evidence entry changed. |
 
 ---
 

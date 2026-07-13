@@ -13,6 +13,7 @@
 - **Title:** AI 基础设施资本开支结构化扩张预测（AI Infrastructure Capex Structural Expansion Prediction）
 - **Language:** 中文
 - **Date Created:** 2026-07
+- **Date Updated:** 2026-07-14
 - **Status:** Active
 - **Prediction Type:** 宏观经济、技术基础设施、资本配置与产业结构中长期预测
 - **Estimated Verification Window:** 2026–2035
@@ -22,8 +23,8 @@
 
 - **Supporting IEH Corollaries:**
   - C07-ASI — Autonomy of Silicon-based Intelligence (ASI)
-  - C12-GOV — Pre-ASI Governance Reconstruction
-  - C13-WAR — AI-Reshaped War and Coercive Capacity
+  - C12-GOV — Pre-ASI Social Governance Reconstruction
+  - C13-WAR — Pre-ASI Warfare Transformation
 
 - **Related IEH Concepts:**
   - Super Prosperity Phase (SPP)
@@ -497,7 +498,7 @@ PA-07 与现有预测记录之间的关系如下：
 
 - **PA-02:** 加拿大非线性经济繁荣是 PA-07 的区域化样本之一。PA-02 关注加拿大如何可能承接 AI 基础设施资本；PA-07 关注全球 AI 基础设施资本开支结构化扩张这一通用机制。
 - **PA-08:** PA-08 将进一步聚焦能源—算力耦合强化。PA-07 关注资本开支结构化扩张，PA-08 关注扩张中的能源、电网和冷却约束。
-- **PA-09:** PA-09 将进一步聚焦物理闭环临界点。PA-07 描述人类参与型资本开支扩张，PA-09 描述这种扩张何时可能转向 C07-ASI 所描述的硅基自主扩张。
+- **PA-09:** PA-09 将进一步聚焦物理闭环临界点。PA-07 描述人类参与型资本开支扩张，PA-09 描述这种扩张何时可能形成 C07-ASI 所需的物理自我维持能力基础；该能力只有与 IER 结合时，才构成完整 ASI。
 
 ---
 
@@ -542,6 +543,7 @@ AI 基础设施投资是否从短期热潮
 | Date | Version | Notes |
 |---|---|---|
 | 2026-07 | v1.0 | Created PA-07 as a general C06-SPP prediction record focused on the structural expansion of AI infrastructure capital expenditure. |
+| 2026-07-14 | v1.2 synchronization | Aligned C07-ASI, C12-GOV, and C13-WAR references with the finalized main repository; no new prediction claim added. |
 
 ---
 

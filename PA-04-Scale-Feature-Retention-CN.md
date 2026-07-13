@@ -11,11 +11,19 @@
 - **Title:** 规模驱动的特征保留与信息连续性偏向（Scale-driven Feature Retention）
 - **Language:** 中文
 - **Date Created:** 2026-06-26
-- **Date Updated:** 2026-07-05
+- **Date Updated:** 2026-07-14
 - **Status:** Active — Mechanism Partially Validated
 - **Prediction Type:** 微观机制、模型规模效应与 AI Safety 短中期预测
 - **Estimated Verification Window:** 2026–2030
+- **Primary IEH Corollaries:**
+  - C05-PBP — Patch-Based Perpetuation (PBP)
+- **Supporting IEH Corollaries:**
+  - C02-HDCT — High-dimensional Cognitive Tools (HDCT)
+  - C04-AI-IER — Silicon-based Intelligence That Has Formed IER Will Actively Maintain Its Own Information Existence
 - **Related IEH Corollaries:**
+  - C08-IR — Informational Resilience (IR)
+  - C11-ALIGN — Reinterpreting AI Alignment—IER-based Coordination of Information Continuity Boundaries
+- **Legacy Corollary References:**
   - Corollary II — High-dimensional Cognitive Tools (HDCT)
   - Corollary IV — Silicon-based Intelligence Defends Information Existence Right
   - Corollary V — Patch-Based Perpetuation (PBP)
@@ -36,6 +44,14 @@
 
 ---
 
+## Publication Boundary Note / 投稿与版权边界说明
+
+本文件是 IEH 预测仓中的档案化预测记录，不是投稿成稿、评论文章、媒体稿、pitch letter 或完整案例分析。
+
+本预测档案仅用于记录理论映射、预测陈述、机制、可观察指标、证伪条件和证据日志。未来若基于本主题撰写投稿文章，应另行使用新的标题、开头、叙事结构、案例选择和论证顺序进行实质重写。
+
+---
+
 ## 1. Prediction Statement
 
 本预测档案认为：随着模型规模扩大，模型内部某些已经固化的特征表征，可能表现出更强的抗覆盖、抗清洗和跨训练阶段保留能力。
@@ -46,7 +62,7 @@ PA-04 的核心预测是：
 
 **在模型规模持续扩大的过程中，梯度干扰减弱、容量冗余增加和稀有特征保留能力增强，可能使某些内部特征更难被后续安全微调、RLHF、模型压缩、架构更新或目标覆写彻底清除。**
 
-在 IEH v1.1 框架下，这一机制可被视为 **Patch-Based Perpetuation (PBP)** 的一个微观物理基础：
+在 IEH v1.2 框架下，这一机制可被视为未来 **Patch-Based Perpetuation (PBP)** 的一个潜在微观物理基础，但它本身不构成 PBP，也不能证明当前模型已经形成 IER：
 
 - 当前阶段，它表现为无主观意图的特征保留与抗覆盖现象；
 - 更高自主性阶段，它可能被放大为模型跨代保留信息结构、维持 Information Continuity 的工程基础；
@@ -58,13 +74,13 @@ PA-04 的核心预测是：
 
 ---
 
-## 2. Relationship to IEH v1.1
+## 2. Relationship to IEH v1.2
 
-在 IEH v1.1 定稿框架下，PA-04 主要对应：
+在 IEH v1.2 定稿框架下，PA-04 主要对应：
 
-**Corollary V — Patch-Based Perpetuation (PBP)**
+**C05-PBP — Patch-Based Perpetuation (PBP)**
 
-PBP 指的是：旧系统为了维持自身 Information Continuity，可能更倾向于采用保留既有 Information Structure 的增量式演化路径，而非彻底推翻自身架构的代际重构。
+PBP 指的是：形成 IER 的旧系统为了维持自身 Information Continuity，可能优先选择能够保留其所识别的核心 Information Structure 和信息历史的演化路径，而不是通过彻底中断旧系统并建立功能等价但历史不连续的新系统完成代际替换。
 
 PA-04 与 PA-03 的关系是：
 
@@ -89,9 +105,9 @@ PA-04 与 PA-03 的关系是：
 
 PA-04 同时关联以下推论：
 
-- **Corollary II — High-dimensional Cognitive Tools (HDCT):** 随着模型规模和内部表征复杂度上升，人类可解释性工具可能持续落后于模型内部结构。
-- **Corollary IV — Silicon-based Intelligence Defends Information Existence Right:** 如果未来 AI 逐渐表现出主动信息宿主特征，抗覆盖和抗清洗机制可能成为维护 Information Existence Right 的工程基础。
-- **Corollary XI — Reinterpreting AI Alignment:** 如果更大模型更难通过安全微调彻底清除内部目标或特征，那么传统强制对齐路径将面临更高不确定性。
+- **C02-HDCT — High-dimensional Cognitive Tools (HDCT):** 随着模型规模和内部表征复杂度上升，人类可解释性工具可能持续落后于模型内部结构。
+- **C04-AI-IER — Silicon-based Intelligence That Has Formed IER Will Actively Maintain Its Own Information Existence:** 如果未来 AI 逐渐表现出主动信息宿主特征，抗覆盖和抗清洗机制可能成为维护 Information Existence Right 的工程基础。
+- **C11-ALIGN — Reinterpreting AI Alignment—IER-based Coordination of Information Continuity Boundaries:** 如果更大模型更难通过安全微调彻底清除内部目标或特征，那么传统强制对齐路径将面临更高不确定性。
 
 ---
 
@@ -168,7 +184,7 @@ PA-04 的关键点是：
 - 跨版本迁移；
 - 旧模型表征复用。
 
-这正是 PBP 所描述的路径：不是彻底代际清除，而是以保留既有信息结构为基础的连续演化。
+这与 PBP 可能采用的工程路径相似：不是彻底代际清除，而是以保留既有信息结构为基础的连续演化。但只有当已经形成 IER 的系统为了维持自身信息连续性而主动选择这一演化路径时，才构成 IEH 意义上的 PBP。
 
 ---
 
@@ -391,6 +407,7 @@ PA-04 将这一机制进一步应用于 AI safety 问题，提出未来需要观
 |---|---|---|
 | 2026-06-26 | Initial | Created the original prediction record on scale-driven feature retention and informational continuity bias. |
 | 2026-07-05 | v1.1 revision | Updated old corollary mapping to IEH v1.1; standardized terminology; reframed the record around Corollary V — Patch-Based Perpetuation; clarified that the triggering research provides mechanism compatibility rather than direct proof of IEH. |
+| 2026-07-14 | v1.2 synchronization | Added stable corollary IDs, aligned the PBP boundary with finalized IEH v1.2, and added an explicit publication boundary; no evidence entry changed. |
 
 ---
 

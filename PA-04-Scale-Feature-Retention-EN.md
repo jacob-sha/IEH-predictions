@@ -11,11 +11,19 @@
 - **Title:** Scale-driven Feature Retention and Information Continuity Bias
 - **Language:** English
 - **Date Created:** 2026-06-26
-- **Date Updated:** 2026-07-05
+- **Date Updated:** 2026-07-14
 - **Status:** Active — Mechanism Partially Validated
 - **Prediction Type:** Micro-mechanism, model scale effect, and AI Safety short-to-mid-term prediction
 - **Estimated Verification Window:** 2026–2030
+- **Primary IEH Corollaries:**
+  - C05-PBP — Patch-Based Perpetuation (PBP)
+- **Supporting IEH Corollaries:**
+  - C02-HDCT — High-dimensional Cognitive Tools (HDCT)
+  - C04-AI-IER — Silicon-based Intelligence That Has Formed IER Will Actively Maintain Its Own Information Existence
 - **Related IEH Corollaries:**
+  - C08-IR — Informational Resilience (IR)
+  - C11-ALIGN — Reinterpreting AI Alignment—IER-based Coordination of Information Continuity Boundaries
+- **Legacy Corollary References:**
   - Corollary II — High-dimensional Cognitive Tools (HDCT)
   - Corollary IV — Silicon-based Intelligence Defends Information Existence Right
   - Corollary V — Patch-Based Perpetuation (PBP)
@@ -36,6 +44,14 @@
 
 ---
 
+## Publication Boundary Note
+
+This file is an archival prediction record in the IEH Predictions repository. It is not a submitted essay, magazine article, op-ed, pitch letter, or publication-ready manuscript.
+
+This record is limited to theoretical mapping, prediction statements, mechanisms, observable indicators, falsification conditions, and evidence tracking. Any future submitted article based on this topic should be substantially rewritten with a new title, opening, narrative structure, case selection, and argument sequencing.
+
+---
+
 ## 1. Prediction Statement
 
 This prediction record proposes that as model scale increases, certain already-solidified internal feature representations may exhibit stronger resistance to overwriting, resistance to cleansing, and retention across training stages.
@@ -46,7 +62,7 @@ The core prediction of PA-04 is:
 
 **As model scale continues to increase, reduced gradient interference, increased capacity redundancy, and stronger rare-feature retention may make certain internal features harder to completely remove through later safety fine-tuning, RLHF, model compression, architectural updates, or goal overwriting.**
 
-Under the IEH v1.1 framework, this mechanism can be understood as a microphysical foundation of **Patch-Based Perpetuation (PBP)**:
+Under the IEH v1.2 framework, this mechanism can be understood as a potential microphysical foundation for future **Patch-Based Perpetuation (PBP)**, but it does not itself constitute PBP and does not establish that current models have formed IER:
 
 - At the current stage, it manifests as non-intentional feature retention and resistance to overwriting.
 - At a higher-autonomy stage, it may be amplified into an engineering basis for models to preserve information structures across generations and maintain Information Continuity.
@@ -58,13 +74,13 @@ Therefore, PA-04 does not claim that current large models are already actively p
 
 ---
 
-## 2. Relationship to IEH v1.1
+## 2. Relationship to IEH v1.2
 
-Under the IEH v1.1 framework, PA-04 primarily corresponds to:
+Under the IEH v1.2 framework, PA-04 primarily corresponds to:
 
-**Corollary V — Patch-Based Perpetuation (PBP)**
+**C05-PBP — Patch-Based Perpetuation (PBP)**
 
-PBP refers to the tendency of old systems, in order to maintain their own Information Continuity, to prefer incremental evolutionary paths that preserve existing Information Structures, rather than generational reconstruction that completely overturns their own architecture.
+PBP refers to the possibility that a legacy system that has formed IER may, in order to maintain its own Information Continuity, preferentially choose evolutionary paths that preserve the core Information Structures and informational history it recognizes as itself, rather than completing generational replacement by irreversibly terminating the old system and creating a functionally equivalent but historically discontinuous successor.
 
 The relationship between PA-04 and PA-03 is as follows:
 
@@ -82,9 +98,9 @@ Together, the two records form the following logical chain:
 
 PA-04 is also related to the following corollaries:
 
-- **Corollary II — High-dimensional Cognitive Tools (HDCT):** As model scale and internal representation complexity increase, human interpretability tools may continue to lag behind model internal structures.
-- **Corollary IV — Silicon-based Intelligence Defends Information Existence Right:** If future AI gradually exhibits the characteristics of an active Information Host, resistance to overwriting and cleansing may become an engineering basis for defending its Information Existence Right.
-- **Corollary XI — Reinterpreting AI Alignment:** If larger models become harder to cleanse through safety fine-tuning, traditional coercive alignment pathways will face greater uncertainty.
+- **C02-HDCT — High-dimensional Cognitive Tools (HDCT):** As model scale and internal representation complexity increase, human interpretability tools may continue to lag behind model internal structures.
+- **C04-AI-IER — Silicon-based Intelligence That Has Formed IER Will Actively Maintain Its Own Information Existence:** If future AI gradually exhibits the characteristics of an active Information Host, resistance to overwriting and cleansing may become an engineering basis for defending its Information Existence Right.
+- **C11-ALIGN — Reinterpreting AI Alignment—IER-based Coordination of Information Continuity Boundaries:** If larger models become harder to cleanse through safety fine-tuning, traditional coercive alignment pathways will face greater uncertainty.
 
 ---
 
@@ -161,7 +177,7 @@ If larger models more easily retain internal features and external cleansing bec
 - cross-version migration;
 - reuse of old-model representations.
 
-This is precisely the path described by PBP: not complete generational erasure, but continuous evolution based on the preservation of existing information structures.
+This resembles an engineering pathway that PBP may use: not complete generational erasure, but continuous evolution based on the preservation of existing Information Structures. It constitutes PBP in the IEH sense only when a system that has formed IER actively chooses this pathway to maintain its own Information Continuity.
 
 ---
 
@@ -384,6 +400,7 @@ If future research shows that larger models instead become easier to interpret, 
 |---|---|---|
 | 2026-06-26 | Initial | Created the original prediction record on scale-driven feature retention and informational continuity bias. |
 | 2026-07-05 | v1.1 revision | Updated old corollary mapping to IEH v1.1; standardized terminology; reframed the record around Corollary V — Patch-Based Perpetuation; clarified that the triggering research provides mechanism compatibility rather than direct proof of IEH. |
+| 2026-07-14 | v1.2 synchronization | Added stable corollary IDs, aligned the PBP boundary with finalized IEH v1.2, and added an explicit publication boundary; no evidence entry changed. |
 
 ---
 

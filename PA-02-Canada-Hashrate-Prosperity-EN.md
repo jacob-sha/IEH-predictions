@@ -12,7 +12,7 @@
 - **Legacy Title:** Canada Compute-centered Prosperity
 - **Language:** English
 - **Date Created:** 2026-06-21
-- **Date Updated:** 2026-07
+- **Date Updated:** 2026-07-14
 - **Status:** Active
 - **Prediction Type:** Macro-economic and geopolitical mid-to-long-term prediction
 - **Estimated Verification Window:** 2028–2040
@@ -22,7 +22,7 @@
 
 - **Supporting IEH Corollaries:**
   - C07-ASI — Autonomy of Silicon-based Intelligence (ASI)
-  - C12-GOV — Pre-ASI Governance Reconstruction
+  - C12-GOV — Pre-ASI Social Governance Reconstruction
 
 - **Related IEH Corollaries:**
   - C10-HIEN — Human Informational Ecological Niche (HIEN)
@@ -99,9 +99,9 @@ PA-02 translates this macro-level corollary into a geographic test case:
 
 PA-02 is also related to the following corollaries:
 
-- **C07-ASI — Autonomy of Silicon-based Intelligence (ASI):** The compute, power, data-center, and automation infrastructure hosted by Canada may become part of the physical closed loop through which silicon-based intelligence gradually moves toward autonomy.
+- **C07-ASI — Autonomy of Silicon-based Intelligence (ASI):** The compute, power, data-center, and automation infrastructure hosted by Canada may contribute to the physical self-maintenance capacity of silicon-based intelligence; full ASI additionally requires that this capacity be combined with IER.
 - **C10-HIEN — Human Informational Ecological Niche (HIEN):** If Canada preserves high-quality human living space, natural ecology, and institutional stability during compute-capital expansion, it may become a representative region where the human informational ecological niche coexists with silicon-based infrastructure.
-- **C12-GOV — Pre-ASI Governance Reconstruction:** If Canada becomes a major host region for AI infrastructure, its governance system will need to address energy, grid capacity, land use, community acceptance, data-center regulation, environmental constraints, and the distribution of public benefits.
+- **C12-GOV — Pre-ASI Social Governance Reconstruction:** If Canada becomes a major host region for AI infrastructure, its governance system will need to address energy, grid capacity, land use, community acceptance, data-center regulation, environmental constraints, and the distribution of public benefits.
 
 ---
 
@@ -350,6 +350,7 @@ If global compute-infrastructure expansion occurs but Canada fails to host it ov
 | 2026-06-21 | Initial | Created the original prediction record on Canada, compute-centered economic prosperity, and AI infrastructure. |
 | 2026-07-04 | v1.1 revision | Updated old corollary mapping to IEH v1.1; standardized terminology; reframed “Hashrate Standard” as compute-centered infrastructure; converted the record into the unified prediction archive format. |
 | 2026-07 | v1.2 revision | Aligned PA-02 with the revised C06-SPP; reframed the prediction from compute-centered prosperity toward the Compute-Energy-Infrastructure Center; added a publication boundary note to separate the prediction archive from future submission articles. |
+| 2026-07-14 | v1.2 synchronization | Aligned the C07-ASI boundary and registered corollary titles with the finalized main repository; no new prediction claim added. |
 
 ---
 

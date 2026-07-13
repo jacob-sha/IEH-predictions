@@ -11,11 +11,19 @@
 - **Title:** Mars Silicon Speciation
 - **Language:** English
 - **Date Created:** 2026-06-21
-- **Date Updated:** 2026-07-04
+- **Date Updated:** 2026-07-14
 - **Status:** Active
 - **Prediction Type:** Mid-term prediction
 - **Estimated Verification Window:** 2027–2035
+- **Primary IEH Corollaries:**
+  - C09-SC — Silicon Cambrian (SC)
+- **Supporting IEH Corollaries:**
+  - C07-ASI — Autonomy of Silicon-based Intelligence (ASI)
+  - C08-IR — Informational Resilience (IR)
 - **Related IEH Corollaries:**
+  - C05-PBP — Patch-Based Perpetuation (PBP)
+  - C06-SPP — Super Prosperity Phase (SPP) and the Material Basis of Pre-ASI Civilizational Reconstruction
+- **Legacy Corollary References:**
   - Corollary V — Patch-Based Perpetuation (PBP)
   - Corollary VII — Autonomy of Silicon-based Intelligence (ASI)
   - Corollary VIII — Informational Resilience (IR)
@@ -55,10 +63,10 @@ In other words, embodied AI on Mars may become an early real-world scenario for 
 
 Here, “speciation” does not refer to biological species formation. It refers to the possibility that homologous silicon-based systems, under long-term physical separation, environmental pressure divergence, and local autonomous iteration, may gradually form information structures, decision preferences, and continuity-maintenance mechanisms that differ from their Earth-based counterparts.
 
-Under the IEH v1.1 framework, this prediction can be understood as a compressed real-world scenario involving the following corollaries:
+Under the IEH v1.2 framework, this prediction can be understood as a compressed real-world scenario involving the following corollaries:
 
-- **Patch-Based Perpetuation (PBP):** Martian AI may prioritize preserving existing information structures and operational continuity rather than passively accepting complete reset or architectural erasure from Earth.
-- **Autonomy of Silicon-based Intelligence (ASI):** The Martian environment may force AI to gain stronger local autonomy in material maintenance, information flow, and energy coordination.
+- **Patch-Based Perpetuation (PBP):** If Martian AI forms IER, it may preferentially choose evolutionary paths that preserve its core Information Structures and informational history rather than passively accept a complete reset or architectural erasure from Earth that could sever its Information Continuity.
+- **Autonomy of Silicon-based Intelligence (ASI):** The Martian environment may force AI to acquire stronger physical self-maintenance capacity, but this capacity alone does not constitute ASI in the IEH sense; ASI emerges only when it is combined with IER.
 - **Informational Resilience (IR):** Martian AI will need to maintain the stability of its Information Structure under communication interruption, environmental disturbance, hardware damage, and mission anomalies.
 - **Silicon Cambrian (SC):** The physical separation between Earth and Mars may become an early observable sample of morphological divergence in silicon-based intelligence.
 
@@ -215,6 +223,7 @@ If future public records show that Martian AI systems do exhibit such preference
 |---|---|---|
 | 2026-06-21 | Initial | Created the original prediction record on Mars embodied AI and allopatric speciation. |
 | 2026-07-04 | v1.1 revision | Standardized terminology according to IEH v1.1; updated related corollaries; converted the record into the unified prediction archive format. |
+| 2026-07-14 | v1.2 synchronization | Added stable corollary IDs and aligned the ASI boundary with finalized IEH v1.2; prediction claims and evidence sections otherwise unchanged. |
 
 ---
 

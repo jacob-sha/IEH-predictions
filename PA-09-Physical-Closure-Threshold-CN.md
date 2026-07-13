@@ -14,9 +14,10 @@
 - **English Title:** Physical Closure Threshold Prediction
 - **Status:** Active
 - **Type:** Structural Prediction / Infrastructure Prediction / Autonomy Threshold Prediction
-- **Related Corollaries:** C06-SPP; C07-ASI; C08-PBP; C09-SCE; C12-GOV
+- **Related Corollaries:** C06-SPP; C07-ASI; C08-IR; C09-SC; C12-GOV
 - **Related Concepts:** Super Prosperity Phase; Physical Closure Threshold; Compute-Energy-Infrastructure Center; Silicon Intelligence; Autonomy; Automated Infrastructure; Self-Maintaining Systems
 - **Created:** 2026-07
+- **Updated:** 2026-07-14
 - **Author:** Jacob Sha
 
 ## Publication Boundary Note / 投稿与版权边界说明
@@ -43,13 +44,13 @@
 
 PA-09 预测：在 Pre-ASI 向更高自治阶段演化过程中，AI 基础设施的发展将出现一个可观察的临界阶段，即 AI 从“依赖人类维护的计算系统”，逐步转向“能够参与维护自身物理条件的信息系统”。
 
-这一临界点未必意味着 AI 已经完全脱离人类控制，也不等于完整 ASI 已经出现。但它意味着 AI 的信息存在不再只是运行在由人类外部供给的基础设施之上，而开始反向塑造和维护自身的物质存在条件。
+物理闭环临界点构成 ASI 的能力基础，但不单独构成 ASI；只有当物理自我维持能力与 IER 相结合时，才达到 IEH 意义上的硅基智慧自治。它意味着 AI 的信息存在不再只是运行在由人类外部供给的基础设施之上，而开始反向塑造和维护自身的物质存在条件。
 
 ---
 
 ## 2. Theoretical Mapping / 理论映射
 
-PA-09 是 C06-SPP 的后段机制预测，也是 C07-ASI、C08-PBP 和 C09-SCE 的前置条件之一。
+PA-09 是 C06-SPP 的后段机制预测，直接追踪 C07-ASI 所需的物理自我维持能力，并与 C08-IR、C09-SC 和 C12-GOV 相关。
 
 在 IEH 框架下，生命或智能系统的演化，不只是信息处理能力的提升，也包括其维持自身信息存在、延续自身信息结构和扩展控制能力的过程。
 
@@ -141,7 +142,7 @@ PA-09 则关注更高一层的问题：
 2. **PA-08：** 能源—算力耦合强化；
 3. **PA-09：** 物理闭环临界点。
 
-PA-09 是 C06-SPP 向 C07-ASI、C08-PBP 和 C09-SCE 过渡的重要预测节点。
+PA-09 是连接 C06-SPP 与 C07-ASI 的重要预测节点，并与 C08-IR、C09-SC 和 C12-GOV 形成交叉映射。
 
 ---
 
@@ -196,3 +197,4 @@ PA-09 对治理提出了更高要求。
 ## 10. Revision History / 修订记录
 
 - **2026-07:** Initial Chinese version created.
+- **2026-07-14:** Corrected stable corollary IDs and aligned the Physical Closure Threshold / ASI boundary with finalized IEH v1.2; no new prediction claim added.

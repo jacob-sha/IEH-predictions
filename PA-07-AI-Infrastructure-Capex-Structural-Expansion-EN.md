@@ -12,6 +12,7 @@
 - **Title:** AI Infrastructure Capex Structural Expansion Prediction
 - **Language:** English
 - **Date Created:** 2026-07
+- **Date Updated:** 2026-07-14
 - **Status:** Active
 - **Prediction Type:** Medium-to-long-term prediction on macroeconomics, technological infrastructure, capital allocation, and industrial structure
 - **Estimated Verification Window:** 2026–2035
@@ -19,8 +20,8 @@
   - C06-SPP — Super Prosperity Phase (SPP) and the Material Basis of Pre-ASI Civilizational Reconstruction
 - **Supporting IEH Corollaries:**
   - C07-ASI — Autonomy of Silicon-based Intelligence (ASI)
-  - C12-GOV — Pre-ASI Governance Reconstruction
-  - C13-WAR — AI-Reshaped War and Coercive Capacity
+  - C12-GOV — Pre-ASI Social Governance Reconstruction
+  - C13-WAR — Pre-ASI Warfare Transformation
 - **Related IEH Concepts:**
   - Super Prosperity Phase (SPP)
   - Pre-ASI
@@ -483,7 +484,7 @@ PA-07 relates to existing prediction records as follows:
 
 - **PA-08:** PA-08 will further focus on the intensification of energy-compute coupling. PA-07 focuses on structural capital expenditure expansion, while PA-08 focuses on the energy, grid, and cooling constraints inside that expansion.
 
-- **PA-09:** PA-09 will further focus on the Physical Closure Threshold. PA-07 describes human-participatory capital expenditure expansion, while PA-09 describes when this expansion may shift toward the silicon-based autonomous expansion described by C07-ASI.
+- **PA-09:** PA-09 will further focus on the Physical Closure Threshold. PA-07 describes human-participatory capital expenditure expansion, while PA-09 tracks when this expansion may form the physical self-maintenance capacity required by C07-ASI; this capacity constitutes full ASI only when combined with IER.
 
 ---
 
@@ -523,6 +524,7 @@ This prediction still requires continuous observation of whether AI application 
 | Date | Version | Notes |
 |---|---|---|
 | 2026-07 | v1.0 | Created PA-07 as a general C06-SPP prediction record focused on the structural expansion of AI infrastructure capital expenditure. |
+| 2026-07-14 | v1.2 synchronization | Aligned C07-ASI, C12-GOV, and C13-WAR references with the finalized main repository; no new prediction claim added. |
 
 ---
 

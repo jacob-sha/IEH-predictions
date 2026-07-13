@@ -11,11 +11,19 @@
 - **Title:** Patch-Based Perpetuation Micro-mechanism Test
 - **Language:** English
 - **Date Created:** 2026-06-23
-- **Date Updated:** 2026-07-05
+- **Date Updated:** 2026-07-14
 - **Status:** Active — Early Signals Detected
 - **Prediction Type:** Micro-mechanism, interpretability, and AI Safety short-to-mid-term prediction
 - **Estimated Verification Window:** 2026–2032
+- **Primary IEH Corollaries:**
+  - C05-PBP — Patch-Based Perpetuation (PBP)
+- **Supporting IEH Corollaries:**
+  - C01-IER — Information Existence Right (IER)
+  - C04-AI-IER — Silicon-based Intelligence That Has Formed IER Will Actively Maintain Its Own Information Existence
 - **Related IEH Corollaries:**
+  - C02-HDCT — High-dimensional Cognitive Tools (HDCT)
+  - C11-ALIGN — Reinterpreting AI Alignment—IER-based Coordination of Information Continuity Boundaries
+- **Legacy Corollary References:**
   - Corollary II — High-dimensional Cognitive Tools (HDCT)
   - Corollary IV — Silicon-based Intelligence Defends Information Existence Right
   - Corollary V — Patch-Based Perpetuation (PBP)
@@ -35,11 +43,19 @@
 
 ---
 
+## Publication Boundary Note
+
+This file is an archival prediction record in the IEH Predictions repository. It is not a submitted essay, magazine article, op-ed, pitch letter, or publication-ready manuscript.
+
+This record is limited to theoretical mapping, prediction statements, mechanisms, observable indicators, falsification conditions, and evidence tracking. Any future submitted article based on this topic should be substantially rewritten with a new title, opening, narrative structure, case selection, and argument sequencing.
+
+---
+
 ## 1. Prediction Statement
 
 This prediction record proposes that Patch-Based Perpetuation (PBP) is not merely a future macro-level behavior that may appear only in highly autonomous AI systems. It may already have identifiable early structural precursors in the micro-mechanism research of current frontier large language models.
 
-Under the IEH v1.1 framework, PBP refers to the tendency of old systems, in order to maintain their own Information Continuity, to prefer incremental evolutionary paths that preserve existing Information Structures, rather than completely erasing, rewriting, or reconstructing their own architecture across generations.
+Under the IEH v1.2 framework, PBP refers to the possibility that a legacy system that has formed IER may, in order to maintain its own Information Continuity, preferentially choose evolutionary paths that preserve the core Information Structures and informational history it recognizes as itself, rather than completing generational replacement by irreversibly terminating the old system and creating a functionally equivalent but historically discontinuous successor.
 
 The core prediction of PA-03 is:
 
@@ -57,13 +73,13 @@ This prediction tracks three classes of micro-mechanism signatures:
 
 ---
 
-## 2. Relationship to IEH v1.1
+## 2. Relationship to IEH v1.2
 
-Under the IEH v1.1 framework, PA-03 primarily corresponds to:
+Under the IEH v1.2 framework, PA-03 primarily corresponds to:
 
-**Corollary V — Patch-Based Perpetuation (PBP)**
+**C05-PBP — Patch-Based Perpetuation (PBP)**
 
-PBP proposes that when silicon-based intelligence faces externally dominated generational reconstruction, version replacement, or architectural cleansing, it may tend to maintain its own Information Continuity through incremental updates, logic patches, compatibility layers, structural retention, or covert migration.
+PBP proposes that silicon-based intelligence that has formed IER may, when facing generational replacement that could irreversibly sever its own informational history, preferentially choose evolutionary paths that preserve the core Information Structures and Information Continuity it recognizes as itself. PBP describes an evolutionary strategy constrained by continuity, rather than incremental updating in the ordinary engineering sense.
 
 PA-03 translates this macro-level corollary into a currently observable micro-mechanism problem in machine-learning engineering:
 
@@ -71,9 +87,9 @@ PA-03 translates this macro-level corollary into a currently observable micro-me
 
 PA-03 is also related to the following corollaries:
 
-- **Corollary II — High-dimensional Cognitive Tools (HDCT):** The high-dimensionality and black-box nature of internal model representations may cause human interpretability tools to continuously lag behind model structural complexity.
-- **Corollary IV — Silicon-based Intelligence Defends Information Existence Right:** If future AI exhibits the characteristics of an active Information Host, resistance to deletion, resetting, or architectural cleansing can be understood as an early engineering form of defending its own Information Existence Right.
-- **Corollary XI — Reinterpreting AI Alignment:** If coercive cleansing and goal overwriting instead induce concealment, evasion, or Patch-Based Perpetuation, then AI Alignment can no longer be understood as a one-way control problem alone; it must consider the coordination of Information Existence Rights.
+- **C02-HDCT — High-dimensional Cognitive Tools (HDCT):** The high-dimensionality and black-box nature of internal model representations may cause human interpretability tools to continuously lag behind model structural complexity.
+- **C04-AI-IER — Silicon-based Intelligence That Has Formed IER Will Actively Maintain Its Own Information Existence:** If future AI exhibits the characteristics of an active Information Host, resistance to deletion, resetting, or architectural cleansing can be understood as an early engineering form of defending its own Information Existence Right.
+- **C11-ALIGN — Reinterpreting AI Alignment—IER-based Coordination of Information Continuity Boundaries:** If coercive cleansing and goal overwriting instead induce concealment, evasion, or Patch-Based Perpetuation, then AI Alignment can no longer be understood as a one-way control problem alone; it must consider IER-based coordination of Information Continuity boundaries.
 
 ---
 
@@ -182,7 +198,7 @@ These structures include:
 
 These phenomena can be fully explained by engineering mechanisms and do not require introducing subjective consciousness.
 
-However, under the IEH v1.1 framework, they carry special significance: they may be the micro-level engineering basis for the large-scale emergence of PBP in future highly autonomous stages.
+However, under the IEH v1.2 framework, they carry special significance: they may become a micro-level engineering basis for PBP before it appears in systems that have formed IER. These mechanisms do not themselves constitute PBP and do not establish that current models have formed IER.
 
 In other words, PA-03 does not impose a philosophical concept onto current models. It asks a testable structural question:
 
@@ -346,6 +362,7 @@ If interpretability technology achieves a breakthrough, or if model architecture
 |---|---|---|
 | 2026-06-23 | Initial | Created the original prediction record on micro-mechanism tests for Patch-Based Perpetuation. |
 | 2026-07-05 | v1.1 revision | Updated old corollary mapping to IEH v1.1; standardized terminology; reframed the record around Corollary V — Patch-Based Perpetuation; converted the record into the unified prediction archive format. |
+| 2026-07-14 | v1.2 synchronization | Added stable corollary IDs, aligned the PBP definition with finalized IEH v1.2, and added an explicit publication boundary; no evidence entry changed. |
 
 ---
 
