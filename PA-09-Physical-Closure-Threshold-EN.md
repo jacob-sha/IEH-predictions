@@ -273,11 +273,29 @@ The three predictions form a progressive sequence:
 
 PA-09 is an important prediction node linking C06-SPP with C07-ASI, with cross-mappings to C08-IR, C09-SC, and C12-GOV.
 
+## Relation to PA-10
 
+PA-10 and PA-09 track two distinct capability axes in the evolution of silicon-based intelligence.
+
+PA-10 tracks the cognitive-capability axis:
+
+> How AI may form machine-native representations and domain-specific or open-world HDCT through language, code, multimodal perception, persistent state modeling, action feedback, and formal verification.
+
+PA-09 tracks the physical-capability axis:
+
+> How silicon-based systems may gradually acquire physical self-maintenance capacity in energy, compute, manufacturing, repair, and material supply.
+
+Their relation can be represented as follows:
+
+```text
+PA-10: machine-native representations and HDCT
+PA-09: physical self-maintenance and closure
+```
+Open-world HDCT may strengthen a system’s capacity to plan, coordinate, and operate physical closure. HDCT, however, is neither physical closure nor ASI.
+
+Conversely, physical closure may expand the autonomous conditions under which HDCT can continue to evolve, but physical closure alone does not establish that HDCT, CWM, or IER has formed.
 
 ---
-
-
 
 ## 7. Strategic Implications
 
@@ -381,4 +399,4 @@ Therefore, PA-09 is closely related to later work on Information Existence Right
 
 - **2026-07:** Initial English version created.
 - **2026-07-14:** Corrected stable corollary IDs and aligned the Physical Closure Threshold / ASI boundary with finalized IEH v1.2; no new prediction claim added.
-
+- **2026-07-21：** PA-10 cross-link. Distinguished PA-10’s cognitive-evolution axis from PA-09’s physical-closure axis and clarified that neither HDCT nor physical closure alone constitutes ASI. 

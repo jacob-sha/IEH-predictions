@@ -55,6 +55,8 @@ Current prediction records include:
 - [PA-08 Energy–Compute Coupling Intensification EN](./PA-08-Energy-Compute-Coupling-Intensification-EN.md)
 - [PA-09 Physical Closure Threshold CN](./PA-09-Physical-Closure-Threshold-CN.md)
 - [PA-09 Physical Closure Threshold EN](./PA-09-Physical-Closure-Threshold-EN.md)
+- [PA-10 HDCT Model Evolution Pathways CN](./PA-10-HDCT-Model-Evolution-Pathways-CN.md)
+- [PA-10 HDCT Model Evolution Pathways EN](./PA-10-HDCT-Model-Evolution-Pathways-EN.md)
 
 ---
 

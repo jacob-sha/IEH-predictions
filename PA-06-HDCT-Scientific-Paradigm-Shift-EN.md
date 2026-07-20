@@ -11,7 +11,7 @@
 - **Title:** High-dimensional Cognitive Tools and Scientific Paradigm Shift
 - **Language:** English
 - **Date Created:** 2026-07-05
-- **Date Updated:** 2026-07-14
+- **Date Updated:** 2026-07-21
 - **Status:** Active
 - **Prediction Type:** Scientific paradigm, cognitive tools, and fundamental physics mid-to-long-term prediction
 - **Estimated Verification Window:** 2026–2050+
@@ -366,6 +366,21 @@ If future AI continuously generates tools beyond human analytical frameworks acr
 
 If AI remains limited to enhancing existing human tools over the long term and cannot generate new cognitive-tool paradigms, PA-06 will be weakened.
 
+## Relation to PA-10
+
+PA-10 tracks the model-evolution mechanisms through which machine-native representations and HDCT may form. PA-06 tracks whether mature HDCT subsequently drives paradigm shifts in scientific analytical frameworks and foundational theories.
+
+The two records therefore form an upstream–downstream relation:
+
+```text
+PA-10: upstream formation mechanisms of HDCT
+→
+PA-06: downstream scientific-paradigm effects of HDCT
+```
+Support for PA-10 would not by itself confirm PA-06. It would only strengthen the plausibility of the cognitive mechanisms required by PA-06.
+
+Conversely, scientific paradigm shifts recorded under PA-06 would constitute strong downstream evidence for PA-10 only if the relevant cognitive tools satisfy PA-10’s criteria of stable advantage, transferability, external verifiability, and breakthrough beyond unaided human cognitive boundaries.
+
 ---
 
 ## 11. Revision History
@@ -374,6 +389,7 @@ If AI remains limited to enhancing existing human tools over the long term and c
 |---|---|---|
 | 2026-07-05 | Initial | Created PA-06 based on the four predictions under IEH Corollary II — High-dimensional Cognitive Tools (HDCT). |
 | 2026-07-14 | v1.2 synchronization | Added stable corollary IDs, aligned the ASI boundary with finalized IEH v1.2, and added an explicit publication boundary; no prediction or evidence entry changed. |
+| 2026-07-21 | PA-10 cross-link | Added PA-10 as the upstream model-evolution record for machine-native representations and HDCT; clarified that PA-06 tracks downstream scientific paradigm effects. |
 
 ---
 

@@ -11,7 +11,7 @@
 - **Title:** 高维认知工具与科学范式跃迁观察档案（HDCT Scientific Paradigm Shift）
 - **Language:** 中文
 - **Date Created:** 2026-07-05
-- **Date Updated:** 2026-07-14
+- **Date Updated:** 2026-07-21
 - **Status:** Active
 - **Prediction Type:** 科学范式、认知工具与基础物理中长期预测
 - **Estimated Verification Window:** 2026–2050+
@@ -366,6 +366,22 @@ PA-06 的关键观察点是：
 
 如果 AI 长期停留在增强人类既有工具的层面，而不能产生新的认知工具范式，则 PA-06 将被削弱。
 
+## 与 PA-10 的关系
+
+PA-10 记录机器原生表示和 HDCT 可能通过哪些模型演化机制形成；PA-06 记录成熟 HDCT 是否进一步推动科学分析框架和基础理论发生范式迁移。
+
+二者构成上下游关系：
+
+```text
+PA-10：HDCT 的上游形成机制
+→
+PA-06：HDCT 的下游科学范式效应
+```
+
+PA-10 获得支持并不足以验证 PA-06。它只会提高 PA-06 所依赖认知机制的可行性。
+
+反过来，PA-06 中出现的科学范式变化，只有在相关认知工具同时满足 PA-10 所要求的稳定优势、迁移能力、外部可验证性和人类认知边界突破时，才可以成为 PA-10 的强下游证据。
+
 ---
 
 ## 11. Revision History
@@ -374,6 +390,7 @@ PA-06 的关键观察点是：
 |---|---|---|
 | 2026-07-05 | Initial | Created PA-06 based on the four predictions under IEH Corollary II — High-dimensional Cognitive Tools (HDCT). |
 | 2026-07-14 | v1.2 synchronization | Added stable corollary IDs, aligned the ASI boundary with finalized IEH v1.2, and added an explicit publication boundary; no prediction or evidence entry changed. |
+| 2026-07-21 | PA-10 cross-link | Added PA-10 as the upstream model-evolution record for machine-native representations and HDCT; clarified that PA-06 tracks downstream scientific paradigm effects. |
 
 ---
 

@@ -17,7 +17,7 @@
 - **Related Corollaries:** C06-SPP; C07-ASI; C08-IR; C09-SC; C12-GOV
 - **Related Concepts:** Super Prosperity Phase; Physical Closure Threshold; Compute-Energy-Infrastructure Center; Silicon Intelligence; Autonomy; Automated Infrastructure; Self-Maintaining Systems
 - **Created:** 2026-07
-- **Updated:** 2026-07-14
+- **Date Updated:** 2026-07-21
 - **Author:** Jacob Sha
 
 ## Publication Boundary Note / 投稿与版权边界说明
@@ -144,6 +144,29 @@ PA-09 则关注更高一层的问题：
 
 PA-09 是连接 C06-SPP 与 C07-ASI 的重要预测节点，并与 C08-IR、C09-SC 和 C12-GOV 形成交叉映射。
 
+## 与 PA-10 的关系
+
+PA-10 和 PA-09 分别观察硅基智慧演化中的两条不同能力轴。
+
+PA-10 观察认知能力轴：
+
+> AI 如何通过语言、代码、多模态感知、持续状态建模、行动反馈和形式验证，形成机器原生表示以及领域型或开放世界 HDCT。
+
+PA-09 观察物理能力轴：
+
+> 硅基系统如何逐步获得能源、算力、制造、维护和物质供给方面的物理自我维持能力。
+
+二者的关系可以表示为：
+
+```text
+PA-10：机器原生表示与 HDCT
+PA-09：物理自我维持与闭环
+```
+
+开放世界 HDCT 可能增强系统规划、协调和运行物理闭环的能力，但 HDCT 不等于物理闭环，也不等于 ASI。
+
+反过来，物理闭环可以扩大 HDCT 持续演化的自主条件，但物理闭环本身不能证明 HDCT、CWM 或 IER 已经形成。
+
 ---
 
 ## 7. Strategic Implications / 战略含义
@@ -198,3 +221,4 @@ PA-09 对治理提出了更高要求。
 
 - **2026-07:** Initial Chinese version created.
 - **2026-07-14:** Corrected stable corollary IDs and aligned the Physical Closure Threshold / ASI boundary with finalized IEH v1.2; no new prediction claim added.
+- **2026-07-21：** PA-10 cross-link. Distinguished PA-10’s cognitive-evolution axis from PA-09’s physical-closure axis and clarified that neither HDCT nor physical closure alone constitutes ASI. 

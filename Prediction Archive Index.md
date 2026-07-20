@@ -126,8 +126,20 @@ Future articles based on these predictions should be substantially rewritten wit
 | PA-07 | AI Infrastructure Capex Structural Expansion | [CN](./PA-07-AI-Infrastructure-Capex-Structural-Expansion-CN.md) | [EN](./PA-07-AI-Infrastructure-Capex-Structural-Expansion-EN.md) | C06-SPP; C07-ASI; C12-GOV; C13-WAR | Super Prosperity Phase; AI Infrastructure Capex; Compute-Energy-Infrastructure Center; Material Basis; Physical Infrastructure Expansion | Active | 
 | PA-08 | Energy–Compute Coupling Intensification | [CN](./PA-08-Energy-Compute-Coupling-Intensification-CN.md) | [EN](./PA-08-Energy-Compute-Coupling-Intensification-EN.md) | C06-SPP; C07-ASI; C12-GOV | Super Prosperity Phase; Energy–Compute Coupling; AI Infrastructure; Grid Planning; Compute-Energy-Infrastructure Center | Active |
 | PA-09 | Physical Closure Threshold | [CN](./PA-09-Physical-Closure-Threshold-CN.md) | [EN](./PA-09-Physical-Closure-Threshold-EN.md) | C06-SPP; C07-ASI; C08-IR; C09-SC; C12-GOV | Super Prosperity Phase; Physical Closure Threshold; Informational Resilience; Silicon Cambrian; Physical Self-maintenance | Active |
+| PA-10 | HDCT Model Evolution Pathways | [CN](./PA-10-HDCT-Model-Evolution-Pathways-CN.md) | [EN](./PA-10-HDCT-Model-Evolution-Pathways-EN.md) | C02-HDCT; C01-IER; C04-AI-IER; C05-PBP; C07-ASI; C11-ALIGN | High-dimensional Cognitive Tools; Machine-native Representations; Generalized Embodiment; Domain-specific HDCT; Open-world HDCT | Active |
 
 ---
+
+### HDCT Prediction Chain
+
+PA-10 and PA-06 track different stages of the same broader HDCT prediction chain:
+
+```text
+PA-10: formation pathways of machine-native representations and HDCT
+→
+PA-06: downstream scientific paradigm effects of HDCT
+```
+PA-10 does not supersede PA-06. Confirmation of PA-10 would strengthen the plausibility of the mechanisms required by PA-06, but would not by itself confirm a scientific paradigm shift.
 
 ## Status Categories
 
