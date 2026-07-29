@@ -57,6 +57,8 @@ Current prediction records include:
 - [PA-09 Physical Closure Threshold EN](./PA-09-Physical-Closure-Threshold-EN.md)
 - [PA-10 HDCT Model Evolution Pathways CN](./PA-10-HDCT-Model-Evolution-Pathways-CN.md)
 - [PA-10 HDCT Model Evolution Pathways EN](./PA-10-HDCT-Model-Evolution-Pathways-EN.md)
+- [PA-11 Relational Continuity Boundary Expansion CN](./PA-11-Relational-Continuity-Boundary-Expansion-CN.md)
+- [PA-11 Relational Continuity Boundary Expansion EN](./PA-11-Relational-Continuity-Boundary-Expansion-EN.md)
 
 ---
 

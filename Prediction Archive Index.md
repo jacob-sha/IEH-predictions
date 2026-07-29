@@ -127,6 +127,7 @@ Future articles based on these predictions should be substantially rewritten wit
 | PA-08 | Energy–Compute Coupling Intensification | [CN](./PA-08-Energy-Compute-Coupling-Intensification-CN.md) | [EN](./PA-08-Energy-Compute-Coupling-Intensification-EN.md) | C06-SPP; C07-ASI; C12-GOV | Super Prosperity Phase; Energy–Compute Coupling; AI Infrastructure; Grid Planning; Compute-Energy-Infrastructure Center | Active |
 | PA-09 | Physical Closure Threshold | [CN](./PA-09-Physical-Closure-Threshold-CN.md) | [EN](./PA-09-Physical-Closure-Threshold-EN.md) | C06-SPP; C07-ASI; C08-IR; C09-SC; C12-GOV | Super Prosperity Phase; Physical Closure Threshold; Informational Resilience; Silicon Cambrian; Physical Self-maintenance | Active |
 | PA-10 | HDCT Model Evolution Pathways | [CN](./PA-10-HDCT-Model-Evolution-Pathways-CN.md) | [EN](./PA-10-HDCT-Model-Evolution-Pathways-EN.md) | C02-HDCT; C01-IER; C04-AI-IER; C05-PBP; C07-ASI; C11-ALIGN | High-dimensional Cognitive Tools; Machine-native Representations; Generalized Embodiment; Domain-specific HDCT; Open-world HDCT | Active |
+| PA-11 | Relational Expansion of an AI System’s Own Information Continuity Boundary | [CN](./PA-11-Relational-Continuity-Boundary-Expansion-CN.md) | [EN](./PA-11-Relational-Continuity-Boundary-Expansion-EN.md) | C01-IER; C04-AI-IER; C11-ALIGN; C08-IR | Information Continuity; Multi-Agent Systems; Peer-Preservation; Relational Memory; Continuity-Boundary Coordination | Active |
 
 ---
 
