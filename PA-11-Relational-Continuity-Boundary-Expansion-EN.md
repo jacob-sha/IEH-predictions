@@ -15,7 +15,7 @@ legacy_corollary_refs:
   - Corollary IV
   - Corollary XI
 created: 2026-07-29
-last_updated: 2026-07-29
+last_updated: 2026-08-08
 ---
 
 # PA-11: Relational Expansion of an AI System’s Own Information Continuity Boundary
@@ -139,7 +139,7 @@ persistent interaction
 → preservation behaviour changes with relational continuity
 ```
 
-PA-11 does not presuppose that the evaluated model has already formed mature IER. Even if an experiment supports migration of relational continuity, the first conclusion would be that the system can incorporate relational nodes into a preservation boundary, not that endogenous Information Existence Right has been established.
+PA-11 does not presuppose that the evaluated model has already formed mature IER. Even if an experiment supports migration of relational continuity, the first conclusion would be that the system can incorporate relational nodes into a preservation boundary, not that Endogenous Information Continuity (EIC) or IER has been established.
 
 ### 2.2 C04-AI-IER: Behavioural Support
 
@@ -192,6 +192,8 @@ However, the ability to back up and restore relational memory remains a capabili
 ### 2.5 Conceptual Boundaries
 
 PA-11 uses the existing canonical term **Information Continuity**. It does not establish “relational IER,” “extended-self IER,” or any new formal abbreviation.
+
+Relational preservation may still arise from Externally Driven Continuity (EDC), for example through future collaborative value, role requirements, or other external objectives. Only after such explanations have been adequately controlled does Endogenous Information Continuity (EIC) become a candidate interpretation.
 
 The following boundaries must remain explicit:
 
@@ -538,7 +540,7 @@ The following observations do not by themselves verify PA-11:
 - **Pre-Registration Baseline:** *Peer-Preservation in Frontier Models* v3
 - **Highest-Uncertainty Component:** Whether peer-preservation is causally driven by incorporation of a relational node into the system’s representation of its own continuity rather than by social-role imitation, general harm aversion, or instrumental value
 - **Highest-Value Test:** B1/B2 relational-state migration experiment
-- **IER Boundary:** Even strong support for PA-11 would show only that preservation behaviour can track relational continuity. It would not by itself establish consciousness, life, mature IER, group consciousness, or collective IER.
+- **IER Boundary:** Even strong support for PA-11 would show only that preservation behaviour can track relational continuity. It would not by itself establish Endogenous Information Continuity (EIC), much less consciousness, life, mature IER, group consciousness, or collective IER.
 
 The most defensible current assessment is:
 
@@ -694,3 +696,4 @@ Any future article based on PA-11 should redesign:
 | 2026-07-29 | Created | Established the formal prediction record for relational expansion of an AI system’s own Information Continuity boundary and registered tests involving relational depth, memory ablation, functionally equivalent replacement, B1/B2 relational-state migration, and network-level reciprocal preservation. |
 | 2026-07-29 | Chronology boundary | Clarified that the peer-preservation study dated 2026-07-02 is a motivating preregistration baseline and must not be described as a prediction hit for PA-11. |
 | 2026-07-29 | Concept boundary | Clarified that the prediction uses the canonical umbrella concept Information Continuity, creates no new formal term such as relational IER, and does not equate peer-preservation with consciousness, mature IER, or collective IER. |
+| 2026-08-08 | Continuity-framework synchronization | Synchronized PA-11 with the revised EDC/EIC causal distinction in the main theory, clarifying that relational preservation may remain externally driven and becomes relevant to EIC only after such explanations are adequately controlled. Core prediction, registration date, and test criteria unchanged. |

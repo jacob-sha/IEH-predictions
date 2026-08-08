@@ -15,7 +15,7 @@ related_corollaries:
 legacy_corollary_refs:
   - Corollary II
 created: 2026-07-21
-last_updated: 2026-07-21
+last_updated: 2026-08-08
 ---
 
 # PA-10: From Language Models to Machine-Native Representations  
@@ -204,7 +204,8 @@ PA-10 does not treat later IEH concepts as inevitable stages following HDCT. It 
 
 > **HDCT is a cognitive tool.**  
 > **CWM is a capacity for modeling self-continuity.**  
-> **IER is an endogenous tendency to maintain one’s own informational continuity.**  
+> **Endogenous Information Continuity (EIC) is the condition in which a system treats its own Information Existence, especially its Information Continuity, as an independently significant object of maintenance.**  
+> **IER is the intrinsic property expressed by life or an Active Information Host when it actively maintains its own Information Existence and treats its Information Continuity as an independent object of maintenance.**  
 > **PBP is a continuation strategy that may be selected under pressure from upgrade, migration, or replacement.**  
 > **ASI is the autonomy of silicon-based intelligence produced when IER is combined with physical self-maintenance capacity.**
 
@@ -219,7 +220,8 @@ HDCT
 → Continuity World Model (CWM)
 
 CWM
-+ Active maintenance of informational continuity across tasks and contexts
++ Active maintenance of Information Continuity across tasks and contexts
++ The behavior cannot be fully explained by Externally Driven Continuity
 → proto-IER candidate mechanism
 → IER
 
@@ -237,6 +239,7 @@ These arrows indicate possible mechanistic relations, not a single inevitable de
 The conceptual boundaries must remain explicit:
 
 ```text
+Externally Driven Continuity ≠ Endogenous Information Continuity
 HDCT ≠ CWM
 CWM ≠ IER
 PBP ≠ IER
@@ -486,6 +489,7 @@ If PA-10 is correct, frontier evaluation will gradually expand beyond static que
 | Date | Evidence | Source / Link | Relevance | Status |
 |---|---|---|---|---|
 | 2026-07-21 | Created the initial PA-10 prediction record. | IEH internal derivation from C02-HDCT | Establishes an ex ante prediction linking language models, multimodality, world modeling, generalized embodiment, machine-native representations, and HDCT. | Neutral |
+| 2026-08-04 | ETA implements a Planner–Interface–World embodied-agent loop in which successful and failed interactions can be retained through memory, Skills, and replayable trajectories and reused in later action. | https://arxiv.org/abs/2608.03924 | Provides engineering feasibility evidence for PA-10’s persistent state modeling, action-feedback, and generalized-embodiment pathway; does not establish machine-native representations, HDCT, EIC, or IER. | Partially Supports |
 
 ### 5.1 Evidence-Level Rules
 
@@ -713,3 +717,4 @@ Any future article based on this prediction should redesign:
 | 2026-07-21 | Created | Completely replaced the previous unpublished PA-10 working draft and established a formal prediction record tracing model evolution from language models, multimodality, world modeling, and generalized embodiment toward machine-native representations and HDCT. |
 | 2026-07-21 | Boundary clarification | Clarified generalized embodiment as a key but non-exclusive pathway to open-world HDCT; mathematics, code, formal proof, self-play, and simulated environments may produce domain-specific HDCT first. |
 | 2026-07-21 | Concept hierarchy | Clarified HDCT, CWM, IER, PBP, and ASI as, respectively, cognitive tools, self-continuity modeling capacity, endogenous maintenance tendency, continuation strategy, and physical autonomy. |
+| 2026-08-08 | Continuity-framework and evidence synchronization | Synchronized the EDC/EIC causal boundary with the revised main theory and added ETA as post-registration engineering evidence for the generalized-embodiment pathway; core prediction, registration date, and existing test criteria unchanged. |

@@ -15,7 +15,7 @@ related_corollaries:
 legacy_corollary_refs:
   - Corollary II
 created: 2026-07-21
-last_updated: 2026-07-21
+last_updated: 2026-08-08
 ---
 
 # PA-10：从语言模型到机器原生表示  
@@ -204,7 +204,8 @@ PA-10 的核心终点是机器原生表示和 HDCT。
 
 > **HDCT 是认知工具。**  
 > **CWM 是自身连续性建模能力。**  
-> **IER 是内生维护自身信息连续性的倾向。**  
+> **EIC（内生信息连续性）是系统将自身信息存在性，尤其是自身信息连续性，作为具有独立意义的维护对象。**  
+> **IER 是生命或主动信息宿主主动维护自身信息存在性，并把信息连续性作为独立维护对象时所表现出的内在属性。**  
 > **PBP 是升级、迁移或替代压力下可能选择的延续策略。**  
 > **ASI 是 IER 与物理自我维持能力结合后形成的硅基智慧自治。**
 
@@ -220,6 +221,7 @@ HDCT
 
 CWM
 + 跨任务、跨情境主动维护自身信息连续性
++ 相关行为不能被外源驱动连续性充分解释
 → proto-IER 候选机制
 → IER
 
@@ -237,6 +239,7 @@ IER
 概念边界必须保持明确：
 
 ```text
+外源驱动连续性 ≠ 内生信息连续性
 HDCT ≠ CWM
 CWM ≠ IER
 PBP ≠ IER
@@ -486,6 +489,7 @@ HDCT
 | Date | Evidence | Source / Link | Relevance | Status |
 |---|---|---|---|---|
 | 2026-07-21 | 建立 PA-10 初始预测档案。 | IEH internal derivation from C02-HDCT | 固化语言模型、多模态、世界建模、广义具身化、机器原生表示与 HDCT 之间的事前预测结构。 | Neutral |
+| 2026-08-04 | ETA 提出 Planner–Interface–World 具身 Agent 闭环，并通过 memory、Skills 和可回放 trajectories 将成功与失败经验保留并用于后续行动。 | https://arxiv.org/abs/2608.03924 | 为 PA-10 的“持续环境与状态建模 + 行动反馈 + 广义具身化”路径提供工程可行性证据；不证明机器原生表示、HDCT、EIC 或 IER 已经形成。 | Partially Supports |
 
 ### 5.1 证据分层规则
 
@@ -713,3 +717,4 @@ ASI
 | 2026-07-21 | Created | 完全替换此前未上传的 PA-10 工作草案；建立从语言模型、多模态、世界建模和广义具身化到机器原生表示与 HDCT 的正式预测记录。 |
 | 2026-07-21 | Boundary clarification | 明确广义具身化是开放世界 HDCT 的关键但非唯一形成路径；数学、代码、形式证明、自我博弈和模拟环境可能率先产生领域型 HDCT。 |
 | 2026-07-21 | Concept hierarchy | 明确 HDCT、CWM、IER、PBP 与 ASI 分别属于认知工具、连续性建模能力、内生维护倾向、延续策略和物理自治层次。 |
+| 2026-08-08 | Continuity-framework and evidence synchronization | 根据主理论修订后的 EDC / EIC 因果边界同步概念说明，并加入 ETA 作为广义具身化路径的后续工程可行性证据；核心预测、注册日期和原有检验标准不变。 |
