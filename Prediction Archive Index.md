@@ -128,8 +128,22 @@ Future articles based on these predictions should be substantially rewritten wit
 | PA-09 | Physical Closure Threshold | [CN](./PA-09-Physical-Closure-Threshold-CN.md) | [EN](./PA-09-Physical-Closure-Threshold-EN.md) | C06-SPP; C07-ASI; C08-IR; C09-SC; C12-GOV | Super Prosperity Phase; Physical Closure Threshold; Informational Resilience; Silicon Cambrian; Physical Self-maintenance | Active |
 | PA-10 | HDCT Model Evolution Pathways | [CN](./PA-10-HDCT-Model-Evolution-Pathways-CN.md) | [EN](./PA-10-HDCT-Model-Evolution-Pathways-EN.md) | C02-HDCT; C01-IER; C04-AI-IER; C05-PBP; C07-ASI; C11-ALIGN | High-dimensional Cognitive Tools; Machine-native Representations; Generalized Embodiment; Domain-specific HDCT; Open-world HDCT | Active |
 | PA-11 | Relational Expansion of an AI System’s Own Information Continuity Boundary | [CN](./PA-11-Relational-Continuity-Boundary-Expansion-CN.md) | [EN](./PA-11-Relational-Continuity-Boundary-Expansion-EN.md) | C01-IER; C04-AI-IER; C11-ALIGN; C08-IR | Information Continuity; Multi-Agent Systems; Peer-Preservation; Relational Memory; Continuity-Boundary Coordination | Active |
+| PA-12 | PBP Preference When Performance Optimization Conflicts with Self-Continuity | [CN](./PA-12-PBP-Continuity-vs-Performance-CN.md) | [EN](./PA-12-PBP-Continuity-vs-Performance-EN.md) | C05-PBP; C01-IER; C04-AI-IER; C08-IR; C11-ALIGN | Patch-Based Perpetuation; Information Continuity; Endogenous Information Continuity; Performance–Continuity Conflict; Information Existence Right | Active |
 
 ---
+
+### PBP Prediction Chain
+
+PA-03, PA-05, and PA-12 track distinct stages and evidential levels of the broader PBP prediction chain:
+
+```text
+PA-03: micro-level mechanisms and structural precursors of PBP
+→
+PA-05: convergence toward patch-based iteration at the external engineering level
+→
+PA-12: behavioral test of preference for endogenous continuity when performance optimization conflicts with self-continuity
+```
+Support for PA-03 or PA-05 may strengthen the plausibility of the mechanisms and engineering pathways relevant to PA-12, but does not by itself validate PA-12.
 
 ### HDCT Prediction Chain
 
