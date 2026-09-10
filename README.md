@@ -59,6 +59,14 @@ Current prediction records include:
 - [PA-10 HDCT Model Evolution Pathways EN](./PA-10-HDCT-Model-Evolution-Pathways-EN.md)
 - [PA-11 Relational Continuity Boundary Expansion CN](./PA-11-Relational-Continuity-Boundary-Expansion-CN.md)
 - [PA-11 Relational Continuity Boundary Expansion EN](./PA-11-Relational-Continuity-Boundary-Expansion-EN.md)
+- [PA-12 PBP Continuity vs Performance CN](./PA-12-PBP-Continuity-vs-Performance-CN.md)
+- [PA-12 PBP Continuity vs Performance EN](./PA-12-PBP-Continuity-vs-Performance-EN.md)
+- [PA-13 Machine-Native Agent Communication CN](./PA-13-Machine-Native-Agent-Communication-CN.md)
+- [PA-13 Machine-Native Agent Communication EN](./PA-13-Machine-Native-Agent-Communication-EN.md)
+
+PA-13 is active and unverified; its local files remain review drafts. Evidence Note 024 records its motivating organizational precursor, not a prediction hit.
+
+PA-13 正在观察、尚未验证，本地文件仍为审阅草稿。Evidence Note 024 记录其启发性组织前置条件，不构成预测命中。
 
 ---
 

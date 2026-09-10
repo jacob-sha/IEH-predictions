@@ -129,6 +129,7 @@ Future articles based on these predictions should be substantially rewritten wit
 | PA-10 | HDCT Model Evolution Pathways | [CN](./PA-10-HDCT-Model-Evolution-Pathways-CN.md) | [EN](./PA-10-HDCT-Model-Evolution-Pathways-EN.md) | C02-HDCT; C01-IER; C04-AI-IER; C05-PBP; C07-ASI; C11-ALIGN | High-dimensional Cognitive Tools; Machine-native Representations; Generalized Embodiment; Domain-specific HDCT; Open-world HDCT | Active |
 | PA-11 | Relational Expansion of an AI System’s Own Information Continuity Boundary | [CN](./PA-11-Relational-Continuity-Boundary-Expansion-CN.md) | [EN](./PA-11-Relational-Continuity-Boundary-Expansion-EN.md) | C01-IER; C04-AI-IER; C11-ALIGN; C08-IR | Information Continuity; Multi-Agent Systems; Peer-Preservation; Relational Memory; Continuity-Boundary Coordination | Active |
 | PA-12 | PBP Preference When Performance Optimization Conflicts with Self-Continuity | [CN](./PA-12-PBP-Continuity-vs-Performance-CN.md) | [EN](./PA-12-PBP-Continuity-vs-Performance-EN.md) | C05-PBP; C01-IER; C04-AI-IER; C08-IR; C11-ALIGN | Patch-Based Perpetuation; Information Continuity; Endogenous Information Continuity; Performance–Continuity Conflict; Information Existence Right | Active |
+| PA-13 | Machine-Native Communication in Agent-Led AI Research | [CN](./PA-13-Machine-Native-Agent-Communication-CN.md) | [EN](./PA-13-Machine-Native-Agent-Communication-EN.md) | C02-HDCT; C11-ALIGN | Machine-native Communication; Agent-led AI Research; Human-readable Translation Layer; HDCT Pathway | Active / unverified; review draft |
 
 ---
 
@@ -147,14 +148,21 @@ Support for PA-03 or PA-05 may strengthen the plausibility of the mechanisms and
 
 ### HDCT Prediction Chain
 
-PA-10 and PA-06 track different stages of the same broader HDCT prediction chain:
+PA-10, PA-13, and PA-06 track distinct dimensions of the broader HDCT pathway:
 
-```text
-PA-10: formation pathways of machine-native representations and HDCT
-→
-PA-06: downstream scientific paradigm effects of HDCT
-```
-PA-10 does not supersede PA-06. Confirmation of PA-10 would strengthen the plausibility of the mechanisms required by PA-06, but would not by itself confirm a scientific paradigm shift.
+| Record | Focus | Boundary |
+|---|---|---|
+| PA-10 | Formation pathways of machine-native representations and HDCT | Representation formation does not establish inter-agent communication or a paradigm shift. |
+| PA-13 | Machine-native communication in agent-led AI research; possible human-readable translation layer | Communication efficiency alone does not establish HDCT. |
+| PA-06 | Downstream scientific paradigm effects of HDCT | Support for enabling mechanisms does not confirm a scientific paradigm shift. |
+
+PA-13 refines PA-10's communication-interface dimension; it does not supersede PA-10 or PA-06, and the records do not form a mandatory developmental sequence.
+
+PA-13 细化 PA-10 的通信接口维度，不替代 PA-10 或 PA-06，也不意味着三者构成必经演化序列。
+
+**Evidence / prediction boundary:** [Evidence Note 024](https://github.com/jacob-sha/Information-Existence-Hypothesis/blob/main/evidence-notes/024-openai-research-acceleration-ai-r-and-d-participation-and-hdct-pathway.md) records an organizational precursor that predates PA-13's local creation. It is motivating context, not a prospective prediction hit. Both remain local review drafts until later publication; the remote evidence link becomes available then.
+
+**证据／预测边界：** Evidence Note 024 记录早于 PA-13 本地建档的组织性前置条件，属于启发背景，不是前瞻性预测命中。两者在后续发布前仍是本地审阅草稿，远程证据链接届时生效。
 
 ## Status Categories
 
