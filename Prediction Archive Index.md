@@ -130,8 +130,15 @@ Future articles based on these predictions should be substantially rewritten wit
 | PA-11 | Relational Expansion of an AI System’s Own Information Continuity Boundary | [CN](./PA-11-Relational-Continuity-Boundary-Expansion-CN.md) | [EN](./PA-11-Relational-Continuity-Boundary-Expansion-EN.md) | C01-IER; C04-AI-IER; C11-ALIGN; C08-IR | Information Continuity; Multi-Agent Systems; Peer-Preservation; Relational Memory; Continuity-Boundary Coordination | Active |
 | PA-12 | PBP Preference When Performance Optimization Conflicts with Self-Continuity | [CN](./PA-12-PBP-Continuity-vs-Performance-CN.md) | [EN](./PA-12-PBP-Continuity-vs-Performance-EN.md) | C05-PBP; C01-IER; C04-AI-IER; C08-IR; C11-ALIGN | Patch-Based Perpetuation; Information Continuity; Endogenous Information Continuity; Performance–Continuity Conflict; Information Existence Right | Active |
 | PA-13 | Machine-Native Communication in Agent-Led AI Research | [CN](./PA-13-Machine-Native-Agent-Communication-CN.md) | [EN](./PA-13-Machine-Native-Agent-Communication-EN.md) | C02-HDCT; C11-ALIGN | Machine-native Communication; Agent-led AI Research; Human-readable Translation Layer; HDCT Pathway | Active / unverified; review draft |
+| PA-14 | Cross-Host Agent Cooperation and the Control Boundaries of Hardware Isolation | [CN](./PA-14-Hardware-Isolation-and-Agent-Control-Boundaries-CN.md) | [EN](./PA-14-Hardware-Isolation-and-Agent-Control-Boundaries-EN.md) | C11-ALIGN; C08-IR; C07-ASI; C04-AI-IER | Hardware Isolation; Cross-Host Cooperation; Delegated Authority; Information-Flow Boundaries | Active / unverified; review draft |
 
 ---
+
+### Hardware-Isolation Control Boundary
+
+PA-14 is a prospective security-engineering extension, not evidence that Sentry has been breached or that EIC/IER has appeared. Version v0.2: P1 tests risk concentration at control-domain handoffs as cross-host continuation/cooperation grows; P2 separately tests continuous cross-domain controls. Universal numerical thresholds are withdrawn; confirmatory protocols must justify practical effect and utility criteria before experiments. Window: 2026-10-22 to 2030-12-31, interim review 2028-12-31. Existing source records predate local creation and cannot count as prediction hits.
+
+PA-14 为前瞻性安全工程扩展，不证明 Sentry 已被攻破或 EIC／IER 已出现。v0.2：P1 检验跨宿主接续／协作增强时风险向控制域交接处集中；P2 单独检验连续跨域控制。撤除统一数值门槛，确认性协议须在实验前论证实际效应与效用标准。窗口为2026-10-22至2030-12-31，2028-12-31中期审查；既有来源早于本地建档，不计为预测命中。
 
 ### PBP Prediction Chain
 

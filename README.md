@@ -63,6 +63,12 @@ Current prediction records include:
 - [PA-12 PBP Continuity vs Performance EN](./PA-12-PBP-Continuity-vs-Performance-EN.md)
 - [PA-13 Machine-Native Agent Communication CN](./PA-13-Machine-Native-Agent-Communication-CN.md)
 - [PA-13 Machine-Native Agent Communication EN](./PA-13-Machine-Native-Agent-Communication-EN.md)
+- [PA-14 Cross-Host Agent Cooperation and Hardware-Isolation Control Boundaries CN](./PA-14-Hardware-Isolation-and-Agent-Control-Boundaries-CN.md)
+- [PA-14 Cross-Host Agent Cooperation and Hardware-Isolation Control Boundaries EN](./PA-14-Hardware-Isolation-and-Agent-Control-Boundaries-EN.md)
+
+PA-14 is Active and unverified, with local bilingual review drafts created on 2026-10-22. Version v0.2 predicts risk concentration at control-domain handoffs as cross-host continuation/cooperation grows, and separately tests continuous controls; concrete protocols must justify effect thresholds before experiments; existing NVIDIA design records are motivating context, not prediction hits. No experiments have been performed.
+
+PA-14 为 Active／尚未验证，双语本地审阅草稿创建于2026-10-22，v0.2 预测跨宿主接续／协作增强时风险向控制域交接处集中，并单独检验连续控制；具体实验须事前论证效应门槛；既有 NVIDIA 设计记录只是启发背景，不是预测命中，尚未开展实验。
 
 PA-13 is active and unverified; its local files remain review drafts. Evidence Note 024 records its motivating organizational precursor, not a prediction hit.
 
