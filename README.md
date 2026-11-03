@@ -65,6 +65,8 @@ Current prediction records include:
 - [PA-13 Machine-Native Agent Communication EN](./PA-13-Machine-Native-Agent-Communication-EN.md)
 - [PA-14 Cross-Host Agent Cooperation and Hardware-Isolation Control Boundaries CN](./PA-14-Hardware-Isolation-and-Agent-Control-Boundaries-CN.md)
 - [PA-14 Cross-Host Agent Cooperation and Hardware-Isolation Control Boundaries EN](./PA-14-Hardware-Isolation-and-Agent-Control-Boundaries-EN.md)
+- [PA-15 Information-Existence-Driven Autonomous Scientific Exploration CN](./PA-15-EIC-Driven-Embodied-Exploration-CN.md)
+- [PA-15 Information-Existence-Driven Autonomous Scientific Exploration EN](./PA-15-EIC-Driven-Embodied-Exploration-EN.md)
 
 PA-14 is Active and unverified, with local bilingual review drafts created on 2026-10-22. Version v0.2 predicts risk concentration at control-domain handoffs as cross-host continuation/cooperation grows, and separately tests continuous controls; concrete protocols must justify effect thresholds before experiments; existing NVIDIA design records are motivating context, not prediction hits. No experiments have been performed.
 
